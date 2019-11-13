@@ -8,4 +8,4 @@ In this section you are going to understand,
 
 But to start practicing this scenario, You need to create a `Centos 7` Instance created in Amazon.
 
-Fetch the `public_ip`
+Fetch the `public_ip` of the server 
