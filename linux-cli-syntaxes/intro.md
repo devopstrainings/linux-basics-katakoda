@@ -1,1 +1,1 @@
-Connect to the linux box created on 
+Connect to the linux box created on AWS
