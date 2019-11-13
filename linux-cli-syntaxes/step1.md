@@ -4,4 +4,5 @@ For example:
 
 `uname`{{execute}} 
 
-uname is a command and that is the first 
+uname is a command and that is the first keyword of a command line syntax.
+
