@@ -12,4 +12,4 @@ Fetch the `public_ip` of the server and connect to the session using the followi
 
 ![Katacoda Logo](https://github.com/devopstrainings/linux-basics-katakoda/raw/master/linux-cli-syntaxes/images/01-connect.png)
 
-### Note: Above example shows that you are connecting to server `34`
+### Note: Above example shows that you are connecting to server `34.212.20.238`
