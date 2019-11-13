@@ -4,3 +4,4 @@ For example:
 
 `uname`{{execute}} 
 
+uname is a command and that is the first one to be executed
