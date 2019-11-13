@@ -29,4 +29,6 @@ Certain commands require inputs, Inputs are given with options in some commands 
 
 For Example:
 
-`ls /boot`
+`ls /boot`{{execute}}
+
+`ls -d /boot`
