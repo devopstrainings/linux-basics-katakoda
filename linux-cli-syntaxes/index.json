@@ -33,10 +33,16 @@
       "text": "finish.md"
     }
   },
-  "environment": {
-    "uilayout": "terminal"
-  },
   "backend": {
-    "imageid": "ubuntu"
-  }
+    "trainingid": "openshift-3-11",
+    "imageid": "openshift-3-11",
+      "port": 8443
+  },
+  "environment": {
+      "showdashboard": true,
+      "dashboard": "Dashboard",
+      "uilayout": "terminal-iframe",
+      "hideintro": false,
+      "hidefinish": false
+  },
 }
