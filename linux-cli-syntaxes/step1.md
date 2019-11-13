@@ -1,6 +1,6 @@
 ### Command line Syntaxes.
 
-In termninal the first one we give to execute is a command.
+In termninal the first argument we give to execute is a command.
 
 For example:
 
