@@ -1,4 +1,5 @@
 # General Preparation
+systemctl restart iptables
 yum install -y podman buildah skopeo skopeo-containers tree httpd-tools strace
 yum install -y https://cbs.centos.org/kojifiles/packages/podman/1.5.1/3.el7/noarch/podman-manpages-1.5.1-3.el7.noarch.rpm \
 https://cbs.centos.org/kojifiles/packages/podman/1.5.1/3.el7/x86_64/podman-1.5.1-3.el7.x86_64.rpm \
