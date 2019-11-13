@@ -1,3 +1,4 @@
+### Command line Syntaxes.
 
 In termninal the first one we give to execute is a command.
 
