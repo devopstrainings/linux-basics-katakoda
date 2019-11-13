@@ -33,4 +33,4 @@ For Example:
 
 `ls -d /boot`{{execute}}
 
-In above example `ls` is a command `-d` is a option and `/boot` is an input. Given the command with and without input changes the behaviour of the command
+In above example `ls` is a command `-d` is a option and `/boot` is an input. Given the command with and without input changes the behaviour of the command execution.
