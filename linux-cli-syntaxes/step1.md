@@ -1,1 +1,1 @@
-In termninal the 
+In termninal the first one we give 
