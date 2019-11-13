@@ -21,3 +21,4 @@ For Example:
 
 `uname -a`{{execute}}
 
+`uname --all`
