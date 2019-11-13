@@ -1,1 +1,1 @@
-In termninal the first one we give 
+In termninal the first one we give to execute 
