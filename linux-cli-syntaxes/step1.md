@@ -25,4 +25,4 @@ For Example:
 
 #### Inputs
 
-Certain commands require inputs in
+Certain commands require inputs, Inputs 
