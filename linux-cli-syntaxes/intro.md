@@ -6,3 +6,4 @@ In this section you are going to understand,
   4. Understand Command line prompt.
   5. Get help about the commands.
 
+But to start practicing th
