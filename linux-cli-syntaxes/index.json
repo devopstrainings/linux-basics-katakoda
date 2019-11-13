@@ -35,12 +35,12 @@
   },
   "backend": {
     "trainingid": "openshift-3-11",
-    "imageid": "openshift-3-11",
+    "imageid": "openshift-3-11"
   },
   "environment": {
-      "showdashboard": true,
+      "showdashboard": false,
       "uilayout": "terminal-iframe",
       "hideintro": false,
       "hidefinish": false
-  },
+  }
 }
