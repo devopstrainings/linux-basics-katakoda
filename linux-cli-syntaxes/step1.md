@@ -1,1 +1,1 @@
-Command over the ter
+In termninal the 
