@@ -17,4 +17,6 @@ Certain commands are going to have options, Options in Linux Command line will b
   2. `<command>` --<single word>  (Ex: --help , --version)
   3. `<command>` -<single word> (Ex: -version, -help)
 
-Ex
+For Example:
+
+`uname -a`{{execute}}
