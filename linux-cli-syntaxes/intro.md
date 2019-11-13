@@ -6,4 +6,6 @@ In this section you are going to understand,
   4. Understand Command line prompt.
   5. Get help about the commands.
 
-But to start practicing this scenario, You need to create a `Centos 7` 
+But to start practicing this scenario, You need to create a `Centos 7` Instance created in Amazon.
+
+Fetch the `public_ip`
