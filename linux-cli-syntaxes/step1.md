@@ -9,4 +9,6 @@ For example:
 
 uname is a command and that is the first keyword/argument of a command line syntax.
 
+#### Options
+
 Certain commands are going to have options
