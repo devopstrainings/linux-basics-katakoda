@@ -12,4 +12,4 @@ uname is a command and that is the first keyword/argument of a command line synt
 #### Options
 
 Certain commands are going to have options, Options in Linux Command line will be a second argument over the command line, Usually those options will be seen in three formats..
-  1. 
+  1. -<>
