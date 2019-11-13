@@ -1,1 +1,1 @@
-Connect to the linux box created on AWS by pusing the `public_ip` of the instance.
+In this section you are going to 
