@@ -33,4 +33,4 @@ For Example:
 
 `ls -d /boot`{{execute}}
 
-In above example `ls` is a command `-d` is a option
+In above example `ls` is a command `-d` is a option and `/boot` is a
