@@ -23,3 +23,6 @@ For Example:
 
 `uname --all`{{execute}}
 
+#### Inputs
+
+Certain commands 
