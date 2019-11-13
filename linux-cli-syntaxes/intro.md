@@ -10,5 +10,5 @@ But to start practicing this scenario, You need to create a `Centos 7`{{execute}
 
 Fetch the `public_ip` of the server and connect to the session using the following command on the right side terminal after once you start the session.
 
-![Katacoda Logo](http://pluspng.com/img-png/google-logo-png-open-2000.png)
+![Katacoda Logo](https://github.com/devopstrainings/linux-basics-katakoda/raw/master/linux-cli-syntaxes/images/01-connect.png)
 
