@@ -20,3 +20,4 @@ Certain commands are going to have options, Options in Linux Command line will b
 For Example:
 
 `uname -a`{{execute}}
+
