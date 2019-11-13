@@ -31,4 +31,5 @@ For Example:
 
 `ls /boot`{{execute}}
 
-`ls -d /boot`
+`ls -d /boot`{{execute}}
+
