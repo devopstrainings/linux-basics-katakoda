@@ -24,19 +24,32 @@
       {
         "title": "Step 5",
         "text": "step5.md"
+      }, 
+      {
+        "title": "Step 6",
+        "text": "step6.md"
       }
     ],
     "intro": {
+      "courseData": "background.sh",
+      "code": "foreground.sh",
       "text": "intro.md"
     },
     "finish": {
       "text": "finish.md"
+    },
+    "assets": {
+      "host01": [{"file": "route.json", "target": "/root/"}]
     }
   },
-  "environment": {
-    "uilayout": "terminal"
-  },
   "backend": {
-    "imageid": "ubuntu"
+    "trainingid": "openshift-3-11",
+    "imageid": "openshift-3-11"
+  },
+  "environment": {
+      "showdashboard": false,
+      "uilayout": "terminal-iframe",
+      "hideintro": false,
+      "hidefinish": false
   }
 }
