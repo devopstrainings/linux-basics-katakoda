@@ -2,3 +2,4 @@
 
 yum install httpd -y 
 systemctl start httpd
+curl -s 
