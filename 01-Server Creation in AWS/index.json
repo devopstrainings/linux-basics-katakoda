@@ -1,0 +1,24 @@
+{
+  "title": "Server Creation in AWS",
+  "description": "Server Creation in AWS",
+  "difficulty": "Beginner",
+  "time": "30 miniutes",
+  "details": {
+    "steps": [
+      {
+        "title": "Step 1",
+        "text": "step1.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {},
+  "backend": {
+    "imageid": "centos"
+  }
+}
