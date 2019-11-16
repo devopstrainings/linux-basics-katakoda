@@ -23,7 +23,7 @@ For Example:
 
 `uname --all`{{execute}}
 
-#### Inputs
+#### _Inputs
 
 Certain commands require inputs, Inputs are given with options in some commands and with out options also some commands will take the input.
 
