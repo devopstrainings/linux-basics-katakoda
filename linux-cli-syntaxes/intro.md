@@ -8,7 +8,7 @@ In this section you are going to understand,
 
 But to start practicing this scenario, You need to create a **`Centos 7`** Instance created in Amazon.
 
-Fetch the `public_ip` of the server and connect to the session using the following command on the right side terminal after once you start the session.
+Fetch the **`Public IP`** of the server and connect to the session using the following command on the right side terminal after once you start the session.
 
 ![Katacoda Logo](https://github.com/devopstrainings/linux-basics-katakoda/raw/master/linux-cli-syntaxes/images/01-connect.png)
 
