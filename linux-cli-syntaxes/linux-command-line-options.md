@@ -15,7 +15,7 @@ Certain commands are going to have options, Options in Linux Command line will b
 
   1. `<command>    -<single character>` (Ex: -h , -v )
   2. `<command>    --<single word>`  (Ex: --help , --version)
-  3. `<command>` -<single word>` (Ex: -version, -help)
+  3. `<command>    -<single word>` (Ex: -version, -help)
 
 For Example:
 
