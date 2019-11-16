@@ -2,7 +2,7 @@
   "title": "Server Creation in AWS",
   "description": "Server Creation in AWS",
   "difficulty": "Beginner",
-  "time": "30 miniutes",
+  "time": "30",
   "details": {
     "steps": [
       {
@@ -19,6 +19,6 @@
   },
   "environment": {},
   "backend": {
-    "imageid": "centos"
+    "imageid": "ubuntu"
   }
 }
