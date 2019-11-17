@@ -37,10 +37,14 @@
       "text": "finish.md"
     }
   },
-  "environment": {
-    "uilayout": "terminal"
-  },
   "backend": {
-    "imageid": "centos-vm"
+    "trainingid": "openshift-3-11",
+    "imageid": "openshift-3-11"
+  },
+  "environment": {
+      "showdashboard": false,
+      "uilayout": "terminal-iframe",
+      "hideintro": false,
+      "hidefinish": false
   }
 }
