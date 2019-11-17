@@ -19,4 +19,6 @@ If you want to see all the process related to the system and process belongs to 
 
 `ps -e`{{execute}}
 
-Option `-e` show all process along with PID and PUSER, But in case of more information then you can use `-f` option along with the ``
+Option `-e` show all process along with PID and PUSER, But in case of more information then you can use `-f` option along with the `-e` option.
+
+`ps -ef`{{execute}}
