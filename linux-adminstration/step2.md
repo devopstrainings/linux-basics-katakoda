@@ -21,4 +21,5 @@ Or you can also pipe the output to `grep` command to apply filter of out search 
 
 `cat /etc/group | grep devops`{{execute}}
 
-The above command showed the group has been created and also it has a number associated to it which is **GID** called as Group ID, which is a unique number associated to a group. We can also customize those numbers while creating the group or even 
+The above command showed the group has been created and also it has a number associated to it which is **GID** called as Group ID, which is a unique number associated to a group. We can also customize those numbers while creating the group or even after creating the group.
+
