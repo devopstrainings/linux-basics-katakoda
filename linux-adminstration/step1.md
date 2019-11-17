@@ -46,6 +46,8 @@ Ok, let us find out the process ID for `sleep` command.
 
 `ps -ef | grep sleep`{{execute}}
 
-Now we want to kill this process 
+Now we want to kill this process, So we would use `kill` command along with the PID.
+
+``
 
 # Additional Commands for Practice
