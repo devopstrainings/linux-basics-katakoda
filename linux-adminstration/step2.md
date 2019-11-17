@@ -36,3 +36,5 @@ In the above command `useradd` is the command to add user, `-g devops` is an opt
 Alike `groupadd` command `useradd` also will not show any output on the screen showing that user has been created. So to check whether the user has been created or not, You can run the following command.
 
 `id john`{{execute}}
+
+The above command shows a number associated to the user which is **UID** 
