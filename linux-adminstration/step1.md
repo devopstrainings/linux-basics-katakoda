@@ -38,6 +38,8 @@ To manage the process or to be pricise that to kill a process we use `kill` comm
 
 Let us create a process in the background.
 
-`sleep 300 &`{{execvute}/}
+`sleep 300 &`{{execute}} 
+
+In above command 
 
 # Additional Commands for Practice
