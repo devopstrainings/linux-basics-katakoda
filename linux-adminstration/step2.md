@@ -70,7 +70,7 @@ You can run the following command to check the connection,
 
 This user which we created so far is a real user, But also to run our software or applications inside the server we need those process associated to a user. In other words we dont run softwares or applications with root user directly and hence we create certain users in the system and it OS terminology we called them as `Daemon Users`. This helps in organizing the operations and as well as improvizing the security.
 
-The following command will run some services inside the systema and you can check those process and we will find those are been ran by a certain user but not by a root user.
+The following command will run some services inside the system and you can check those process and we will find those are been ran by a certain user but not by a root user.
 
 # Additional Commands for Practice
 
