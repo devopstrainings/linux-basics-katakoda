@@ -40,7 +40,7 @@
   },
   "backend": {
     
-    "imageid": "openshift-3-11"
+    "imageid": "centos-vm"
   },
   "environment": {
       "showdashboard": false,
