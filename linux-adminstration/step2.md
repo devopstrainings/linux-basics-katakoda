@@ -7,4 +7,6 @@ In RedHat family OS, You cannot add a user without having a group.
 
 So first lets add a group before adding a user.
 
-To add a user in Centos, We can use `groupadd` command. To that command we 
+To add a user in Centos, We can use `groupadd` command. To that command we need to provide groupname as an argument.
+
+`groupadd `
