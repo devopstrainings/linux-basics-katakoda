@@ -1,1 +1,3 @@
-In this course we are going to discuss the administrative commands
+In this course we are going to discuss the administrative commands.
+
+  1. User 
