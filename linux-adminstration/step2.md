@@ -5,4 +5,5 @@ Most of the times we run our applications as a normal user, So we should be havi
 
 In RedHat family OS, You cannot add a user without having a group.
 
-So first lets add a user 
+So first lets add a group before adding a user.
+
