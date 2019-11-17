@@ -55,7 +55,7 @@ You can check all his groups information usinng the same `id` command.
 
 If this user needs to connect to the system then he needs a password, So let us assing a password to the user.
 
-To set / reset a password to the user we use `passwd` command. ROOT user can set / reset the password of a user, whereas an individual user can only change his password by using the same command.
+To set / reset a password to the user we use `passwd` command. ROOT user can set / reset the password of a user, whereas an individual user can only change his password by using the same command. This command prompts for entering the password and give an input and it sets as password to that user.
 
 `passwd john`{{execute}}
 
