@@ -1,1 +1,3 @@
-sh 
+#!/bin/bash 
+
+trap ''
