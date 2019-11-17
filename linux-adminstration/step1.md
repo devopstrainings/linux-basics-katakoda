@@ -13,12 +13,16 @@ If you need all the process which belongs to the current user then you can use `
 
 `ps -u`{{execute}}
 
+
 An operating system also have some other users and as well as system process running in the background.
 
 If you want to see all the process related to the system and process belongs to other users then we have to use `-e` option.
 
 `ps -e`{{execute}}
 
+
 Option `-e` show all process along with PID and PUSER, But in case of more information then you can use `-f` option along with the `-e` option.
 
 `ps -ef`{{execute}}
+
+
