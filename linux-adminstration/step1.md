@@ -4,3 +4,5 @@ In RedHat family OS, every command you execute is going to create a process in t
 
 Those process can be fethed from the command line using `ps` command.
 
+
+
