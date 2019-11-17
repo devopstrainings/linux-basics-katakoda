@@ -54,7 +54,7 @@ You can check all his groups information usinng the same `id` command.
 `id john`{{execute}}
 
 
-Assume this 
+Sometimes we create the users for 
 
 # Additional Commands for Practice
 
