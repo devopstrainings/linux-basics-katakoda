@@ -13,4 +13,4 @@ To add a user in Centos, We can use `groupadd` command. To that command we need 
 
 In above command `groupadd` is the command and where as `devops` is the group name.
 
-Now
+Now the above command will not show any output saying that group has been created, So 
