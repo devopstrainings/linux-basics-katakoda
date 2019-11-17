@@ -19,4 +19,4 @@ Now the above command will not show any output saying that group has been create
 
 Or you can also pipe the output to `grep` command to apply filter of out search as well.
 
-`cat /etc/group`
+`cat /etc/group | grep `{{execute}}
