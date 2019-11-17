@@ -26,3 +26,4 @@ Option `-e` show all process along with PID and PUSER, But in case of more infor
 `ps -ef`{{execute}}
 
 
+Ofcouse the 
