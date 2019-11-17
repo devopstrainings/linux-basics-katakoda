@@ -28,4 +28,6 @@ Option `-e` show all process along with PID and PUSER, But in case of more infor
 
 Ofcouse the above command shows all the process which we might look some process all the time, So you can filter the process by piping the output to `grep` command
 
-`ps -ef | grep ssh`{{execurte}}
+`ps -ef | grep ssh`{{execute}}
+
+
