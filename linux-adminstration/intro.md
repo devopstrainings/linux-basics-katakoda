@@ -1,1 +1,1 @@
-In this course we are going to discuss the administ
+In this course we are going to discuss the administrative commands
