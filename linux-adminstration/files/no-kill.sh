@@ -1,3 +1,4 @@
 #!/bin/bash 
 
-trap ''
+trap '' 15
+sleep 350
