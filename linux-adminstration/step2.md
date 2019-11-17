@@ -28,3 +28,4 @@ Now the group is ready and we can create a User now.
 
 To add a user, Command is `useradd`.
 
+`useradd -g devops demo`
