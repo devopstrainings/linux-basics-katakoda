@@ -52,5 +52,9 @@ Now we want to kill this process, So we would use `kill` command along with the 
 
 Now you will not find the process anymore with `ps` command.
 
+`ps -ef | grep sleep`{{execute}}
+
+
+
 
 # Additional Commands for Practice
