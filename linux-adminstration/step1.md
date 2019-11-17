@@ -55,6 +55,6 @@ Now you will not find the process anymore with `ps` command.
 `ps -ef | grep sleep`{{execute}}
 
 
-Sometimes due to some reason these process may not end with the 
+Sometimes due to some reason these process may not end with this command and hence we may need to fi
 
 # Additional Commands for Practice
