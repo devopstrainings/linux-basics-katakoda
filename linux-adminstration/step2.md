@@ -46,4 +46,4 @@ To add user to multiple groups..
 
 `
 groupadd admins
-
+usermod -a -G admins john 
