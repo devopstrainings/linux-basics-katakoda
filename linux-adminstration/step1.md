@@ -36,7 +36,10 @@ As an administrator we might need to manage the process in the system. Some time
 
 To manage the process or to be pricise that to kill a process we use `kill` command.
 
+Let us create a process in the background and we will try to kill that process 
 
+
+Let us run a po
 
 
 
