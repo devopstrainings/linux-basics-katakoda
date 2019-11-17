@@ -13,3 +13,4 @@ If you need all the process which belongs to the current user then you can use `
 
 `ps -u`{{execute}}
 
+An operating system also have some other user
