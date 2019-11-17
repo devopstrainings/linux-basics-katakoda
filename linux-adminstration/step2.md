@@ -74,7 +74,7 @@ The following command will run some services inside the system and you can check
 
 `curl -s https://raw.githubusercontent.com/devopstrainings/linux-basics-katakoda/master/linux-adminstration/files/daemon-services.sh | bash `{{execute}}
 
-
+You can check the process 
 
 # Additional Commands for Practice
 
