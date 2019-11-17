@@ -17,8 +17,14 @@
       "text": "finish.md"
     }
   },
-  "environment": {},
   "backend": {
-    "imageid": "ubuntu"
+    "trainingid": "openshift-3-11",
+    "imageid": "openshift-3-11"
+  },
+  "environment": {
+      "showdashboard": false,
+      "uilayout": "terminal-iframe",
+      "hideintro": false,
+      "hidefinish": false
   }
 }
