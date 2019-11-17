@@ -32,3 +32,5 @@ To add a user, Command is `useradd`.
 
 In the above command `useradd` is the command to add user, `-g devops` is an option instructing the useradd command to add a user in devops group and `john` is the username.
 
+
+A
