@@ -32,7 +32,7 @@ Ofcouse the above command shows all the process which we might look some process
 
 
 
-
+As an administrator we might need 
 
 
 
