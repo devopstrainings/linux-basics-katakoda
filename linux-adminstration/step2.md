@@ -48,3 +48,6 @@ To add user to multiple groups..
 groupadd admins
 usermod -a -G admins john 
 `{{execute}}
+
+You can check all his groups information usinng the same `id` command.
+
