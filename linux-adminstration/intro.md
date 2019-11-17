@@ -4,6 +4,6 @@ In this course we are going to discuss the administrative commands.
   2. User Management 
   3. Package Management 
   4. Service Management 
-  5. Permission 
+  5. Permission Management
 
-Also followed with  
+Also followed with 
