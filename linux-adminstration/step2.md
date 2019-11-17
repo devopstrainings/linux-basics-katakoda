@@ -37,4 +37,4 @@ Alike `groupadd` command `useradd` also will not show any output on the screen s
 
 `id john`{{execute}}
 
-The above command shows a number associated to the user which is **UID** (User ID) 
+The above command shows a number associated to the user which is **UID** (User ID) and which is unique to the system. 
