@@ -53,3 +53,4 @@ You can check all his groups information usinng the same `id` command.
 
 `id john`{{execute}}
 
+# Additional Commands for Practice
