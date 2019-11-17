@@ -69,6 +69,6 @@ Now you can fetch the PID and try to kill the process, But you will not be able 
 
 `kill <PID-OF-SLEEP-COMMAND>`
 
-
+So, we might need to kill such process using 
 
 # Additional Commands for Practice
