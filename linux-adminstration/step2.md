@@ -63,7 +63,7 @@ Now, You can connect to the system using from another terminal and check whether
 
 You can run the following command to check the connection,
 
-`ssh ` 
+`ssh john@` 
 
 This user which we created is a real user, But also to run our software or applications inside the server 
 
