@@ -55,7 +55,7 @@ Now you will not find the process anymore with `ps` command.
 `ps -ef | grep sleep`{{execute}}
 
 
-Sometimes due to some reason these process may not kill with this command and hence we may need to find a hard way / force way to kill them, Lets see a scenario..
+Sometimes due to some reason these process may not get killed with this command and hence we may need to find a hard way / force way to kill them, Lets see a scenario..
 
 ```
 
