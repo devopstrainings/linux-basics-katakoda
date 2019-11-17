@@ -42,3 +42,4 @@ The above command shows a number associated to the user which is **UID** (User I
 
 Generally the user primarily belongs to one group in system and at the same time he can be part of multiple groups as well. But those groups are called as supplementary groups.
 
+To add user to mul
