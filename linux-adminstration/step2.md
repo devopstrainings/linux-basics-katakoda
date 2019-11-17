@@ -72,5 +72,7 @@ This user which we created so far is a real user, But also to run our software o
 
 The following command will run some services inside the system and you can check those process and we will find those are been ran by a certain user but not by a root user.
 
+
+
 # Additional Commands for Practice
 
