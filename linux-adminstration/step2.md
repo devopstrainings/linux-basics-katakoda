@@ -59,6 +59,7 @@ To set / reset a password to the user we use `passwd` command. ROOT user can set
 
 `passwd john`{{execute}}
 
+In the above command we 
 
 This user which we created is a real user, But also to run our software or applications inside the server 
 
