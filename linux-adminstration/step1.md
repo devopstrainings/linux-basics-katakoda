@@ -7,4 +7,4 @@ Those process can be fetched from the command line using `ps` command.
 `ps`{{execute}}
 
 
-But the above command will show only the process related to the session
+But the above command will show only the process related to this session which you logged in. 
