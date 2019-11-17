@@ -19,3 +19,4 @@ If you want to see all the process related to the system and process belongs to 
 
 `ps -e`{{execute}}
 
+Also
