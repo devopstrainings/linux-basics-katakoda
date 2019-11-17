@@ -15,4 +15,4 @@ In above command `groupadd` is the command and where as `devops` is the group na
 
 Now the above command will not show any output saying that group has been created, So we need to verify that atleast that group has been created or not. To verify that a group has been created or not then run the following command.
 
-``
+`cat /etc/group`{{execute}} 
