@@ -26,4 +26,4 @@ Option `-e` show all process along with PID and PUSER, But in case of more infor
 `ps -ef`{{execute}}
 
 
-Ofcouse the 
+Ofcouse the above command shows all the process which we might look some process all the time, So you can filter the process by p
