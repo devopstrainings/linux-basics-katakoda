@@ -8,3 +8,5 @@ Those process can be fetched from the command line using `ps` command.
 
 
 But the above command will show only the process related to this session which you logged in. 
+
+If you need all the process 
