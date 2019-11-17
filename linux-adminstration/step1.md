@@ -46,6 +46,6 @@ Ok, let us find out the process ID for `sleep` command.
 
 `ps -ef | grep sleep`{{execute}}
 
-
+Now we want to close this process 
 
 # Additional Commands for Practice
