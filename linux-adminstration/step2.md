@@ -80,7 +80,9 @@ You can check the process of some services runs as a normal user but not as a ro
 ps -ef | greo httpd 
 ps -ef | grep tomcat
 ps -ef | grep mariadb 
-`
+`{{execute}}
+
+
 
 # Additional Commands for Practice
 
