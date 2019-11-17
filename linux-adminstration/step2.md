@@ -57,6 +57,7 @@ If this user needs to connect to the system then he needs a password, So let us 
 
 To set / reset a password to the user we use `passwd` command. ROOT user can set / reset the password of a user, whereas an individual user can only change his password by using the same command.
 
+`passwd john`{{execute}}
 
 
 This user which we created is a real user, But also to run our software or applications inside the server 
