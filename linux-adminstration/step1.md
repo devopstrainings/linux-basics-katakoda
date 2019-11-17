@@ -58,7 +58,8 @@ Now you will not find the process anymore with `ps` command.
 Sometimes due to some reason these process may not get killed with this command and hence we may need to find a hard way / force way to kill them, Lets see a scenario..
 
 `
-curl -s https://raw.githubusercontent.com/devopstrainings/linux-basics-katakoda/master/linux-adminstration/files/no-kill.sh
+curl -s https://raw.githubusercontent.com/devopstrainings/linux-basics-katakoda/master/linux-adminstration/files/no-kill.sh -o /tmp/no-kill.sh
+sh
 ps -ef | grep sleep 
 `{{execute}}
 
