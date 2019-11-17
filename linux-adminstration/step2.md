@@ -53,7 +53,7 @@ You can check all his groups information usinng the same `id` command.
 
 `id john`{{execute}}
 
-If this user needs to connect to the system then he needs a password 
+If this user needs to connect to the system then he needs a password, So let us 
 
 This user which we created is a real user, But also to run our software or applications inside the server 
 
