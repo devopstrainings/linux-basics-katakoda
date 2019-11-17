@@ -17,4 +17,6 @@ Now the above command will not show any output saying that group has been create
 
 `cat /etc/group`{{execute}} 
 
-Or you can also pipe the output to `grep` command to apply filter of
+Or you can also pipe the output to `grep` command to apply filter of out search as well.
+
+`cat /etc/group`
