@@ -13,4 +13,6 @@ If you need all the process which belongs to the current user then you can use `
 
 `ps -u`{{execute}}
 
-An operating system also have some other user
+An operating system also have some other users and as well as system process running in the background.
+
+If you want to see all the process related to the system and 
