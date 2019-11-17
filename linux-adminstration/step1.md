@@ -40,6 +40,8 @@ Let us create a process in the background.
 
 `sleep 300 &`{{execute}} 
 
-In above command `sleep 300` is going to run the process for `300` seconds, Where as `&` symbol is pushing the process to run in the background. So it will be useful to get the terminal immediealty and as well as such process will run in the background even if we 
+In above command `sleep 300` is going to run the process for `300` seconds, Where as `&` symbol is pushing the process to run in the background. So it will be useful to get the terminal immediealty and as well as such process will run in the background even if we close the session.
+
+
 
 # Additional Commands for Practice
