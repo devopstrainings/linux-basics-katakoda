@@ -54,6 +54,7 @@ You can check all his groups information usinng the same `id` command.
 `id john`{{execute}}
 
 
+
 This user which we created is a real user, But also to run our software or applications inside the server 
 
 # Additional Commands for Practice
