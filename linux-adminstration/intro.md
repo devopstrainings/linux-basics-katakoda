@@ -1,1 +1,1 @@
-Ib
+In this course we are going to discuss 
