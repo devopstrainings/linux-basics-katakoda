@@ -74,7 +74,13 @@ The following command will run some services inside the system and you can check
 
 `curl -s https://raw.githubusercontent.com/devopstrainings/linux-basics-katakoda/master/linux-adminstration/files/daemon-services.sh | bash `{{execute}}
 
-You can check the process of the system
+You can check the process of some services runs as a normal user but not as a root user.
+
+`
+ps -ef | greo httpd 
+ps -ef | grep tomcat
+ps -ef | grep mariadb 
+`
 
 # Additional Commands for Practice
 
