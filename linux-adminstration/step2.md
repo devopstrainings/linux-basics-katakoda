@@ -13,7 +13,7 @@ To add a user in Centos, We can use `groupadd` command. To that command we need 
 
 In above command `groupadd` is the command and where as `devops` is the group name.
 
-Now the above command will not show any output saying that group has been created, So we need to verify that atleast that group has been created or not. To verify that a group has been created or not then run the following command.
+Now the above command will not show any output saying that group has been created, So we need to verify that atleast that group has been created or not. To verify that a group has been created or not can be verified by checking a system file.
 
 `cat /etc/group`{{execute}} 
 
