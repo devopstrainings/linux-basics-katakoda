@@ -34,7 +34,9 @@ Ofcouse the above command shows all the process which we might look some process
 
 As an administrator we might need to manage the process in the system. Some times we terminate process normally and sime times we might do it forcefully.
 
-To manage the process or to be pricise, 
+To manage the process or to be pricise that to kill a process we use `kill` command.
+
+
 
 
 
