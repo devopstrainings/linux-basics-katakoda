@@ -51,3 +51,4 @@ usermod -a -G admins john
 
 You can check all his groups information usinng the same `id` command.
 
+`id john`
