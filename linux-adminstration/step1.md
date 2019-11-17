@@ -15,4 +15,5 @@ If you need all the process which belongs to the current user then you can use `
 
 An operating system also have some other users and as well as system process running in the background.
 
-If you want to see all the process related to the system and process belongs to other users then we have to use ``
+If you want to see all the process related to the system and process belongs to other users then we have to use `-e` option.
+
