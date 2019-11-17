@@ -42,6 +42,6 @@ Let us create a process in the background.
 
 In above command `sleep 300` is going to run the process for `300` seconds, Where as `&` symbol is pushing the process to run in the background. So it will be useful to get the terminal immediealty and as well as such process will run in the background even if we close the session.
 
-Ok, let us find out the process ID for `slepp` 
+Ok, let us find out the process ID for `sleep` command.
 
 # Additional Commands for Practice
