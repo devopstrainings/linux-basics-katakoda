@@ -40,6 +40,6 @@ Let us create a process in the background.
 
 `sleep 300 &`{{execute}} 
 
-In above command 
+In above command `sleep`
 
 # Additional Commands for Practice
