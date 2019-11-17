@@ -39,7 +39,8 @@
     }
   },
   "backend": {
-    "imageid": "centos-vm"
+    "trainingid": "openshift-3-11",
+    "imageid": "openshift-3-11"
   },
   "environment": {
       "showdashboard": false,
