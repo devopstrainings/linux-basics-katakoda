@@ -26,4 +26,4 @@ The above command showed the group has been created and also it has a number ass
 
 Now the group is ready and we can create a User now.
 
-To add 
+To add a user 
