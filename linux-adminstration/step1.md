@@ -44,4 +44,8 @@ In above command `sleep 300` is going to run the process for `300` seconds, Wher
 
 Ok, let us find out the process ID for `sleep` command.
 
+`ps -ef | grep sleep`{{execute}}
+
+
+
 # Additional Commands for Practice
