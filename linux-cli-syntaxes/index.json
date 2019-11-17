@@ -44,7 +44,7 @@
   },
   "environment": {
       "showdashboard": false,
-      "uilayout": "terminal-iframe",
+      "uilayout": "terminal",
       "hideintro": false,
       "hidefinish": false
   }
