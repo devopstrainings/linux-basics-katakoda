@@ -7,3 +7,4 @@ In RedHat family OS, You cannot add a user without having a group.
 
 So first lets add a group before adding a user.
 
+To add a user in 
