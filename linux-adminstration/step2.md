@@ -30,4 +30,4 @@ To add a user, Command is `useradd`.
 
 `useradd -g devops demo-user`{{execute}}
 
-In the above command `useradd` is the command to add user, ``
+In the above command `useradd` is the command to add user, `-g devops` is an option instructing the useradd command to add a user 1``
