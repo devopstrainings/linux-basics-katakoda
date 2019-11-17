@@ -40,6 +40,6 @@ Let us create a process in the background.
 
 `sleep 300 &`{{execute}} 
 
-In above command `sleep 300` is going to run the process for `300` seconds, Where as `&` 
+In above command `sleep 300` is going to run the process for `300` seconds, Where as `&` symbol is pushing the process to run in the background. So 
 
 # Additional Commands for Practice
