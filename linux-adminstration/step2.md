@@ -59,7 +59,7 @@ To set / reset a password to the user we use `passwd` command. ROOT user can set
 
 `passwd john`{{execute}}
 
-Now, You can connect to the system using 
+Now, You can connect to the system using from another terminal
 This user which we created is a real user, But also to run our software or applications inside the server 
 
 # Additional Commands for Practice
