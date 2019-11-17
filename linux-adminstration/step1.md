@@ -67,6 +67,8 @@ Now you can fetch the PID and try to kill the process, But you will not be able 
 
 `ps -ef | grep sleep`{{execute}}
 
-`kill <PID-OF>`
+`kill <PID-OF-SLEEP-COMMAND>`
+
+
 
 # Additional Commands for Practice
