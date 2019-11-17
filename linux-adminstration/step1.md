@@ -48,6 +48,6 @@ Ok, let us find out the process ID for `sleep` command.
 
 Now we want to kill this process, So we would use `kill` command along with the PID.
 
-`kill <PID`
+`kill <PID-OF-SLEEP-COMMAND>`
 
 # Additional Commands for Practice
