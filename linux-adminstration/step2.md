@@ -54,7 +54,7 @@ You can check all his groups information usinng the same `id` command.
 `id john`{{execute}}
 
 
-This user which we created is a real user, But lets say 
+This user which we created is a real user, But also 
 
 # Additional Commands for Practice
 
