@@ -68,7 +68,8 @@ You can run the following command to check the connection,
 
 ----
 
-This user which we created so far is a real user, But also to run our software or applications inside the server we need those process associated to a user. In other words we dont run softwares or pro
+This user which we created so far is a real user, But also to run our software or applications inside the server we need those process associated to a user. In other words we dont run softwares or applications with root user directly 
+
 
 # Additional Commands for Practice
 
