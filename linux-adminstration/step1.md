@@ -74,5 +74,4 @@ So, we might need to kill such process using an force option `-9`.
 `kill -9 <PID-OF-SLEEP-COMMAND>`
 
 
-
 # Additional Commands for Practice
