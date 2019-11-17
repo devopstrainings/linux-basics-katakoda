@@ -1,3 +1,5 @@
+#!/bin/bash 
+
 systemctl restart iptables
 yum install -y podman &>/dev/null 
 podman pull registry.access.redhat.com/ubi7/ubi &>/dev/null 
