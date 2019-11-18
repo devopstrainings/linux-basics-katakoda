@@ -19,4 +19,4 @@ Synatax: head <filename> By default head gives you top 10 lines of the file but 
 
 `head -n 5 /etc/passwd`{{execute}} It gives the first 5 lines of the file
 
-head command gives you the top lines of the file however if you want the 
+head command gives you the top lines of the file however if you want to print the last lines
