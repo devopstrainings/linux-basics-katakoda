@@ -3,13 +3,13 @@
 ls is a Linux shell command that lists directory contents of files and directories.Some practical examples of ls command are shown below.
 
 Get list of files and directories but it may not show hidden files.
+
 `ls`{{execute}} 
 
 Get list of hidden files and directories.
 
 `ls -A`{{execute}}
-
-`ls -l`{{execute}} Get list of files with long format, usually shows properties of a file
+Get list of files with long format, usually shows properties of a file
 
 `ls -Al`{{execute}} We can combine multiple options as well.
 
