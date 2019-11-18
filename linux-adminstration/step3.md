@@ -22,4 +22,4 @@ Alternatively you can add some files under `/etc/sudoers.d` and sudo program wil
 
 Sudoers configuration syntax looks like below:
 
-``
+`user-name    MACHINE`
