@@ -14,4 +14,4 @@ You can refer this link.
 
 Out of lot many tools **SUDO** is one of the default and widely used tool. Hence we are discussing SUDO further now..
 
-Sudoers Configuration 
+Sudoers Configuration is available in the system, So need to add 
