@@ -34,4 +34,5 @@ First check the status
 
 `systemctl status nginx`{{execute}}
 
+Let us enable the service to start 
 `systemctl enable nginx`
