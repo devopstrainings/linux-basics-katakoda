@@ -43,4 +43,6 @@ To update the complete system
 
 `yum update -y` 
 
-However if you wondered that how yum in managing the installation, You will see that it is downloading the package and installing it. But from where it is downloading. If you take a look
+However if you wondered that how yum in managing the installation, You will see that it is downloading the package and installing it. But from where it is downloading?
+
+
