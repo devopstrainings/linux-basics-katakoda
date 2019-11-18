@@ -18,4 +18,4 @@ Sudoers Configuration is available in the system, So need to customize that conf
 
 `Config File : /etc/sudoers` 
 
-Alternatively you can add 
+Alternatively you can add some files under `/etc/sudoers.d` and 
