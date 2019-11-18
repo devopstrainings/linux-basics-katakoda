@@ -37,5 +37,7 @@ Syntax: awk -F 'delimiter' '{print $column-number}' <filename>
 
 `awk -F : '{print $1}' /etc/passwd`{{execute}} it will print the first column of the file
 
-`awk -F : '{print $1,$2}' /etc/passwd`{{execute}} it will print the first column of the file
+`awk -F : '{print $1,$2}' /etc/passwd`{{execute}} it will print the first and second column of the file
+
+
 
