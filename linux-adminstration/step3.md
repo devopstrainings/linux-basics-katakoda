@@ -20,4 +20,6 @@ Sudoers Configuration is available in the system, So need to customize that conf
 
 Alternatively you can add some files under `/etc/sudoers.d` and sudo program will load them as well.
 
-Sudoers configuration 
+Sudoers configuration syntax looks like below:
+
+`user-name    MACHINE`
