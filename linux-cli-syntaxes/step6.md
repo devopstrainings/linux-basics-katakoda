@@ -24,4 +24,4 @@ Syntax: rmdir <directory>
 
 `rmdir -r demo`{{execute}} To delete them recursively we use -r option.
 
-rmdir -r d
+`rmdir -r demo1 demo1`{{execute}}
