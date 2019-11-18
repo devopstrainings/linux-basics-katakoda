@@ -4,5 +4,5 @@ Creating Directory is same as  creating a Folder in your windows machine. You ca
 
 Syntax: mkdir <directory>
 
-mkdir demo
+`mkdir demo`{{execute}} 
 
