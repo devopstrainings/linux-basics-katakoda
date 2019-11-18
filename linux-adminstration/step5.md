@@ -28,4 +28,4 @@ To restart a service
 `systemctl restart nginx`{{execute}}
 
 
-Assume in case if a machine reboots then 
+Assume in case if a machine reboots then you want start the service along with the Operating system then 
