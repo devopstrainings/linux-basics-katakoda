@@ -42,7 +42,7 @@ Now lets check the status again
 
 `systemctl status nginx`{{execute}}
 
-Finally in case if we dont want to start the service along with OS then 
+Finally in case if we don't want to start the service along with OS then 
 
 `systemctl disable nginx`
 
