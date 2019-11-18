@@ -33,4 +33,6 @@ Syntax: grep <word> <filename>
 
 In some cases the content needs to be filtered based on the columns in that case we use awk command.
 
-Syntax: awk -F 'delimiter' '{print $column-number}' <fi>
+Syntax: awk -F 'delimiter' '{print $column-number}' <filename>
+
+`awk -F
