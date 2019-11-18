@@ -14,9 +14,9 @@ This command only searches /etc directory for the passwd file. You can obseeve t
 
 ### command line browser
 
-most of the times you need to browse urls to and fetch that content to command line.Some times we need partial information of the URL or the full information. Curl command is available to browse the content over command line.
+most of the times you need to browse urls to and fetch that content to command line.Some times we need partial information of the URL or the full information. `Curl` command is available to browse the content over command line.
 
-Syntax: curl <url>
+`Syntax: curl <url>`
 
 `curl www.google.com`{{executed}} 
 
@@ -24,7 +24,7 @@ Syntax: curl <url>
 
 Most of the times we need to download softwares or tools from internet to work on them. We can use wget command to download the files from internet. It downloads the file to the location from where you are running the command by default
 
-Syntax: wget <url>
+`Syntax: wget <url>`
 
 In this example I will be downloading tomcat from the internet.
 
