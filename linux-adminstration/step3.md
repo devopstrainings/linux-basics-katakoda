@@ -45,5 +45,7 @@ First switch to normal user.
 
 ` su - john`{{execute}}
 
+Then 
 
+`sudo useradd `
 
