@@ -29,5 +29,7 @@ To install a package
 
 Above command will interrupt for an input whether to proceed with an installation or not. To avoid the interruption we can use `-y` option.
 
-`yum install tomcat -y`
+`yum install tomcat -y`{{execute}}
+
+
 
