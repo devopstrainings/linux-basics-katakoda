@@ -7,4 +7,6 @@ In RedHat OS and its family like CentOS, they use `RPM`(Redhat Package Manager),
 
 Earlier to install an **RPM** we use to use `rpm` command, But using it have some dependencies problem and local repository problems. To avoid that RedHat has introduced a new command which overcomes the problems of `rpm` command and the new command is `yum` (YelloDog Updated Modifier). 
 
-So 
+First, In case if we want to list out the packages which are installed in your system then..
+
+``
