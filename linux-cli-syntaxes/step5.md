@@ -14,4 +14,4 @@ Inorder to change the name of a file we use mv command
 
 Syntax: mv source-file destination-file
 
-`mv notes.txt sample`{{execute}}
+`mv notes.txt sample`{{execute}} Now you can observe that 
