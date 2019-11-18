@@ -2,7 +2,7 @@
 
 We can create files in multiple ways/commands in Linux.As a basic we will use touch command to create the file.
 
-syntax: touch <filename> --> This by default creates an empty file.
+Syntax: touch <filename> --> This by default creates an empty file.
 
 `touch sample notes.txt lambda.py`{{execute}} touch command can create multiple files at a single go as shown
 
@@ -10,4 +10,6 @@ syntax: touch <filename> --> This by default creates an empty file.
 
 ### Removing Files
 
-To remove files we have rm command , We can aslo use unlink command which does the same thing yet 
+To remove files we have rm command , We can aslo use unlink command which does the same thing yet rm is widely preffered and used command.
+
+Syntax: 
