@@ -30,5 +30,5 @@ In this example I will be downloading jenkins from the internet.
 
 ### Extracting the files from tar
 
-Many times in Linux world all the softwares are packaged either in .zip or .tar format.
+Many times in Linux world all the softwares are packaged either in .zip or .tar format.To extract the files from t
 
