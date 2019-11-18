@@ -30,4 +30,8 @@ To restart a service
 
 Assume in case if a machine reboots then you want start the service along with the Operating system then 
 
+First check the status 
+
+`systemctl status nginx`{{execute}}
+
 `systemctl enable nginx`
