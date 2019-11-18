@@ -31,9 +31,13 @@ In some cases the content needs to be filtered based on the columns in that case
 
 `Syntax: awk -F 'delimiter' '{print $column-number}' <filename>`
 
-`awk -F : '{print $1}' /etc/passwd`{{execute}} It will print the first column of the file
+`awk -F : '{print $1}' /etc/passwd`{{execute}} 
 
-`awk -F : '{print $1,$2}' /etc/passwd`{{execute}} it will print the first and second column of the file
+It will print the first column of the file
+
+`awk -F : '{print $1,$2}' /etc/passwd`{{execute}} 
+
+It will print the first and second column of the file
 
 
 
