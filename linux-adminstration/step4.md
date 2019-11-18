@@ -11,3 +11,4 @@ First, In case if we want to list out the packages which are installed in your s
 
 `yum list installed`{{execute}}
 
+At the same time 
