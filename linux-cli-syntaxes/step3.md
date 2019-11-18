@@ -3,6 +3,8 @@
 
 `syntax: ls <options> <Path>`
 
+Note that 
+
 `ls -lt /opt`{{execute}}
 
 Get list of files and directories but it may not show hidden files.
