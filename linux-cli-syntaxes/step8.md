@@ -14,3 +14,5 @@ most of the times you need to browse urls to and fetch that content to command l
 
 Syntax: curl <url>
 
+`curl 
+
