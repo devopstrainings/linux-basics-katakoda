@@ -8,4 +8,4 @@ Syntax: cat <filename>
 
 `cat -n /etc/passwd`{{execute}} It shows the content of the file along with the line numbers
 
-
+`tac /etc/passwd`{{execute}}
