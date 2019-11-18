@@ -19,4 +19,6 @@ In case if we want both the packages which are installed and available for insta
 
 `yum list all`{{execute}}
 
-Above command would bombard with thousands of lines output and can be 
+Above command would bombard with thousands of lines output and can be piped to filter the content.
+
+``
