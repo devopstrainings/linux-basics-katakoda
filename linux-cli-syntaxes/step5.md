@@ -34,6 +34,8 @@ Syntax: cd <directory>
 
 `cd`{{execute}} simple cd command will take you to the home directory of the user
 
+
+
 `pwd`{{execute}}
 
 `cd -`{{execute}} This command will take you the previous directory that you were using.
