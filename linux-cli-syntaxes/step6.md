@@ -10,7 +10,7 @@ Syntax: mkdir <directory>
 
 `mkdir -p demo/new/item1`{{execute}} -p option is used to create the directory recursively even if the parent directory is missing
 
-`mkdir demo1 demo2`{{execute}} you can also create multiple directories.
+`mkdir demo1 demo2 demo3`{{execute}} you can also create multiple directories.
 
 `ls`{{execute}}
 
@@ -25,6 +25,8 @@ Syntax: rmdir <directory>
 `rm -r demo`{{execute}} To delete them recursively we use -r option.
 
 `ls`{{execute}}
+
+
 
 `rm -r demo1 demo1`{{execute}} We can also delete multiple directories this way
 
