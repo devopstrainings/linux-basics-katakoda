@@ -12,5 +12,5 @@ Syntax: mkdir <directory>
 
 `mkdir demo1 demo2`{{execute}} you can also create multiple directories.
 
-`ls`
+`ls`{{execute}}
 
