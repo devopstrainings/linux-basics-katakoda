@@ -12,4 +12,5 @@ If destination exists it will overwrite the file and in some cases it will ask y
 
 Inorder to change the name of a file we use mv command
 
-Syntax: mv source
+Syntax: mv source-file destination-file
+
