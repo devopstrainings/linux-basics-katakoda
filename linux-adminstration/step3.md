@@ -39,5 +39,5 @@ Else we can give our own list of commands with list of machines.
 
 ---- 
 
-Now the user can execute the commands as normal user
+Now the user can execute the commands as normal user by using sudo privilege 
 
