@@ -4,4 +4,4 @@ We can create files in multiple ways/commands in Linux.As a basic we will use to
 
 syntax: touch <filename> --> This by default creates an empty file.
 
-`touch sample notes.txt lambda.py`{{execute}} 
+`touch sample notes.txt lambda.py`{{execute}} touch command can create multiple files 
