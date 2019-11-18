@@ -42,7 +42,7 @@ Syntax: tar -xf <filename>.tar.gz
 
 `tar -xf apache-tomcat-9.0.27.tar.gz`{{execute}} 
 
-To extract archives we use -x option and -f means file.
+To extract archives we use `-x option and -f means file.
 
 
 
