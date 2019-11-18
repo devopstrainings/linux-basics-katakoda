@@ -5,4 +5,4 @@ ls is a Linux shell command that lists directory contents of files and directori
 `ls`{{execute}} Get list of files and directories but it may not show 
 hidden files.
 
-`ls -A`{{execute}} 
+`ls -A`{{execute}} Get list of hidden files and 
