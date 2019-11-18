@@ -7,4 +7,6 @@ To list all the services which are running in the Operating System.
 
 `systemctl list-units -t service`
 
+To start a service 
 
+``
