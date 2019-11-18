@@ -30,5 +30,5 @@ In this example I will be downloading jenkins from the internet.
 
 ### Extracting the files from tar
 
-Many times in Linux world all the softwares are packaged either in .zip o
+Many times in Linux world all the softwares are packaged either in .zip or 
 
