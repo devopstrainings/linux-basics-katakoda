@@ -30,6 +30,6 @@ You can edit the configuration using the following command to avoid some mistake
 
 Refer the following video for understanding the mistakes.
 
-[![]]
+[![SUDO MISTAKES]]
 (https://www.youtube.com/watch?v=OuKpAenxh94)
 
