@@ -17,4 +17,5 @@ In many situations you might want to have only a certain number of lines from a 
 Synatax: head <filename> By default head gives you top 10 lines of the file but you can change it according to your needs.
 
 
-`head -n 5 /etc/passwd`{{execute}} It gives the first 5 lines of 
+`head -n 5 /etc/passwd`{{execute}} It gives the first 5 lines of the file
+
