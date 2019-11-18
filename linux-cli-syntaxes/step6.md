@@ -16,4 +16,4 @@ Syntax: mkdir <directory>
 
 ### Remove Directory
 
-
+To remove a directory we use 
