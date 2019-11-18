@@ -86,6 +86,6 @@ Eventhough those services are started by a ROOT user, Yet the service runs assoc
 
 # ----
 
-Being a 
+Being a root user you can switch from one user to anther user without any password. 
 # Additional Commands for Practice
 
