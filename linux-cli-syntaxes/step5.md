@@ -30,3 +30,4 @@ Syntax: cd <directory>
 
 `cd /bin`{{execute}} you will switch to /bin directory
 
+`cd` simple cd command will take you to the home directory of the user
