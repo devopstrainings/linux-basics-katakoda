@@ -5,7 +5,7 @@ Once you login into the machine. you might want to see the information related t
 
 `cat /etc/*release`{{execute}} 
 
-uname is a command and that is the first keyword/argument of a command line syntax.
+uname is a command and that is the first keyword/argument of a command line synta
 
 #### Options
 
