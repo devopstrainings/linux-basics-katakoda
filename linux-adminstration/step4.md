@@ -27,5 +27,5 @@ To install a package
 
 `yum install nginx`{{execute}}
 
-Above command 
+Above command will interrupt for an input whether to proceed with an installation or not.
 
