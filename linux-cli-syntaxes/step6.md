@@ -44,3 +44,5 @@ Syntax: cp -r dir1 dir2 --> It copies all the contents of dir1 into dir2, if dir
 
 `cp -r demo1 demo2`{{execute}} 
 
+## Moving a Directory
+
