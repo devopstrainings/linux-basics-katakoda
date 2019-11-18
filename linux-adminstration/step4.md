@@ -66,4 +66,7 @@ Check list of repos now.
 
 `ls /etc/yum.repos.d`{{execute}}
 
-Now after importing those new repo files 
+Now after importing those new repo files you would be able to install Jenkins software 
+
+`yum install jenkins -y`{{execute}}
+
