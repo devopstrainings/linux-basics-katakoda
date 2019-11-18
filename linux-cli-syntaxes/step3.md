@@ -3,7 +3,7 @@
 
 `syntax: ls <options> <Path>`
 
-Note that `ls` command works without an input i.e both the options and path are optional. It w
+Note that `ls` command works without an input i.e both the options and path are optional. It works 
 
 `ls -lt /opt`{{execute}}
 
