@@ -16,7 +16,9 @@ you can check your current working directory using `pwd` command
 
 simple `cd` command will take you to the home directory of the user
 
-`pwd`{{execute}} observe the output
+`pwd`{{execute}} 
+
+observe the output
 
 `pwd`{{execute}}
 
