@@ -7,7 +7,9 @@ To check the vendor of the operating system.
 
 This gives the name of the operating system that is being used.
 
-To check the 
+To check the CPU information
+
+`cat 
 
 Certain commands are going to have options, Options in Linux Command line will be a second argument over the command line, Usually those options will be seen in three formats..
 
