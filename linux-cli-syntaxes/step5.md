@@ -53,4 +53,4 @@ We will try cp command with the . option .
 
 `cp /root/sample .`{{execute}}
 
-`ls`{{execute}} Now if you compare the ouput from the previous ls 
+`ls`{{execute}} Now if you compare the ouput from the previous ls you will be able to see the file with name sampke 
