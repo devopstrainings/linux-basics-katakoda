@@ -2,7 +2,7 @@
 
 To copy a file we have cp command. Alternatively we have rsync but mostly e prefer to use cp command in general.
 
-Syntax: cp source-file destination-file
+`Syntax: cp source-file destination-file`
 
 `cp notes.txt lambda.py`{{execute}}
 
@@ -20,7 +20,9 @@ If destination exists it will overwrite the file and in some cases it will ask y
 
 mv command intention is to move the file from one location to another yet we use mainly to rename the files
 
-`ls`{{execute}} you can observe that the notes.txt file has been renamed to sample.
+`ls`{{execute}} 
+
+you can observe that the notes.txt file has been renamed to sample.
 
 ### Change Directory
 
