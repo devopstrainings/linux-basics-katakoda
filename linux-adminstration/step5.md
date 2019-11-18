@@ -36,4 +36,4 @@ First check the status
 
 Let us enable the service to start at the time of reboot 
 
-`systemctl enable nginx`
+`systemctl enable nginx`{{execute}}
