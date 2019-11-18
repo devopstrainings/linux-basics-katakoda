@@ -27,3 +27,5 @@ To install a package
 
 `yum install nginx`{{execute}}
 
+Above command 
+
