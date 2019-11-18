@@ -17,3 +17,4 @@ To check the disk information
 
 `fdisk -l`{{execute}}
 
+With this information in hand you will have an idea 
