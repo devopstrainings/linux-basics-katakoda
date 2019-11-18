@@ -15,5 +15,5 @@ To check the mremory information
 
 To check the disk information
 
-``disk -l
+`fdisk -l`{{execute}}
 
