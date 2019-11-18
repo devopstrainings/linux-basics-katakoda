@@ -4,4 +4,4 @@ To copy a file we have cp command. Alternatively we have rsync but mostly e pref
 
 Syntax: cp source-file destination-file
 
-If destination exoists it will overwrite 
+If destination exoists it will overwrite he file and in some casesn
