@@ -64,6 +64,6 @@ rpm --import https://pkg.jenkins.io/redhat-stable/jenkins.io.key
 
 Check list of repos now.
 
-`ls /etc/yum.repos.d`
+`ls /etc/yum.repos.d`{{execute}}
 
 Now after those importing of new repo files 
