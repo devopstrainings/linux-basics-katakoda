@@ -53,5 +53,7 @@ Let us understand it through a situation.
 
 Above command will try to install Jenkins software but it will be a failure, So let us download a repo file and check it.
 
-`curl -s https://pkg.jenkins.io/redhat-stable/jenkins.repo -o `
+`
+curl -s https://pkg.jenkins.io/redhat-stable/jenkins.repo -o /etc/yum.repos.d/jenkins.repo
+`
 
