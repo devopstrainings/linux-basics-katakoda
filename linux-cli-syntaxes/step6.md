@@ -10,5 +10,5 @@ Syntax: mkdir <directory>
 
 `mkdir -p demo/new/item1`{{execute}} -p option is used to create the directory recursively even if the parent directory is missing
 
-
+`mkdir demo1 demo2
 
