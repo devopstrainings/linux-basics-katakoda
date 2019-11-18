@@ -21,6 +21,6 @@ Then check the status
 
 To stop a service 
 
-
+`systemctl stop nginx`{{execute}}
 
 
