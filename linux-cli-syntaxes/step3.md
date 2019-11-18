@@ -7,4 +7,5 @@ hidden files.
 
 `ls -A`{{execute}} Get list of hidden files and directories.
 
-`ls -l`{{execute}} Get list of files with long format, usually 
+`ls -l`{{execute}} Get list of files with long format, usually shows properties of a file
+
