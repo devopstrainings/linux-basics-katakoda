@@ -6,4 +6,4 @@ Syntax: find <location-to-find> <search-criteria>
 
 `find / -name passwd`{{execute}} This command searches through all the directories as we have given the location as / . you will find many files 
 
-`find /etc -name 
+`find /etc -name passwd`{{execute}}
