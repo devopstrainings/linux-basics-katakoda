@@ -13,6 +13,8 @@ To check the status of a single service
 
 To start a service 
 
-`systemctl start nginx`
+`systemctl start nginx`{{execute}}
+
+
 
 
