@@ -13,4 +13,10 @@ First, In case if we want to list out the packages which are installed in your s
 
 At the same time we can also get the packges which are not installed and also available for installation from remote repositories.
 
-`yum list available`
+`yum list available`{{execute}}
+
+In case if we want both the packages which are installed and available for install then we can use a flag `list`..
+
+`yum list all`{{execvute}}
+
+But we might 
