@@ -11,4 +11,4 @@ hidden files.
 
 `ls -Al`{{execute}} We can combine multiple options as well.
 
-###NOTE: Giving multiple options depends on the command. ls accepts multiple options 
+###NOTE: Giving multiple options depends on the command. ls accepts multiple options but it isn't applicable for all.
