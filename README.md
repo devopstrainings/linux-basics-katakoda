@@ -1,2 +1,1 @@
 # linux-basics-katakoda
-test
