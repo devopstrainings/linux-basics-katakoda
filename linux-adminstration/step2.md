@@ -78,10 +78,9 @@ You can check the process of some services runs as a normal user but not as a ro
 
 `ps -ef | grep httpd`{{execute}}
 
+`ps -ef | grep tomcat`{{execute}}
 
-ps -ef | grep tomcat
-ps -ef | grep mariadb 
-`{{execute}}
+`ps -ef | grep mariadb`{{execute}}
 
 
 
