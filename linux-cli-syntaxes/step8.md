@@ -5,3 +5,5 @@ Most of the times when you login you have no idea where the files are located at
 Syntax: find <location-to-find> <search-criteria>
 
 `find / -name passwd`{{execute}} This command searches through all the directories as we have given the location as / . you will find many files 
+
+`
