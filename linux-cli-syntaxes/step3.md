@@ -7,4 +7,4 @@ hidden files.
 
 `ls -A`{{execute}} Get list of hidden files and directories.
 
-ls
+`ls -l`{{execute}} 
