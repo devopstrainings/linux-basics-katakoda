@@ -5,4 +5,7 @@ cat(concatenate) command is very frequently used in Linux. It reads data from th
 Syntax: cat <filename>
 
 `cat /etc/passwd`{{execute}} It shows the content of the file
-`cat -n /etc/passwd`{{execute}} T
+
+`cat -n /etc/passwd`{{execute}} It shows the content of the file along with the line numbers
+
+
