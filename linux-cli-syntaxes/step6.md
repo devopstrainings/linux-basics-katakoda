@@ -20,7 +20,7 @@ To remove a directory we use rmdircommand in lunux. Removing directories also de
 
 Syntax: rmdir <directory>
 
-`rmdir demo`{{execute}} It deletes the directory with the name demo but in this example you will see an error saying the directory is not empty.Th
+`rmdir demo`{{execute}} It deletes the directory with the name demo but in this example you will see an error saying the directory is not empty.That is because we have already created 
 
 `ls`{{execute}}
 
