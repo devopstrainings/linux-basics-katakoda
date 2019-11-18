@@ -13,4 +13,4 @@ touch sample.txt
 ls -l 
 `{{execute}}
 
-When we create a file the permissions to that file is getting the infomation from the user whom created that file. 
+When we create a file the permissions to that file is getting the information from the user whom created that file. 
