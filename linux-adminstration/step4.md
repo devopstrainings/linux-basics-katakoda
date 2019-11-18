@@ -51,4 +51,5 @@ Let us understand it through a situation.
 
 `yum install jenkins -y`{{execute}}
 
+Above command will try to install Jenkins software but it will be a failure, So let us download a repo file 
 
