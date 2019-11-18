@@ -70,3 +70,5 @@ Now after importing those new repo files you would be able to install Jenkins so
 
 `yum install jenkins -y`{{execute}}
 
+
+# Additional Commands for Practice
