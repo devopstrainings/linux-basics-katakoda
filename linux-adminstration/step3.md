@@ -43,5 +43,7 @@ Now the user can execute the commands as normal user by using sudo privilege and
 
 First switch to normal user.
 
-` su - john`
+` su - john`{{execute}}
+
+
 
