@@ -10,7 +10,7 @@ you will switch to /bin directory
 
 `pwd`{{execute}} 
 
-you can check your current working directories using pwd command
+you can check your current working directory using `pwd` command
 
 `cd`{{execute}} simple cd command will take you to the home directory of the user
 
