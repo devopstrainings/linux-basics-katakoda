@@ -10,3 +10,4 @@ syntax: touch <filename> --> This by default creates an empty file.
 
 ### Removing Files
 
+To remove files 
