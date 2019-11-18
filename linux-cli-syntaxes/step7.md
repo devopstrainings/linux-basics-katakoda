@@ -14,4 +14,4 @@ Syntax: cat <filename>
 
 In many situations you might want to have only a certain number of lines from a file. You can use filter commands (head/tail) or a combination of them to get your work done.
 
-Syna
+Synatax: head <filename> By default head 
