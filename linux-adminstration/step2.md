@@ -63,7 +63,7 @@ Now, You can connect to the system using from another terminal and check whether
 
 You can run the following command to check the connection,
 
-`echo ssh john@$(curl ifconfig.co)`{{execute}}
+`echo ssh john@$(curl -s ifconfig.co)`{{execute}}
 
 
 ----
