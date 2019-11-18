@@ -26,7 +26,7 @@ Syntax: rmdir <directory>
 
 `ls`{{execute}}
 
-rm
+
 
 `rm -r demo1 demo1`{{execute}} We can also delete multiple directories this way
 
