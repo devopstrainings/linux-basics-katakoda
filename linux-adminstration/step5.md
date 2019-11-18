@@ -9,4 +9,4 @@ To list all the services which are running in the Operating System.
 
 To start a service 
 
-``
+`systemctl start nginx`
