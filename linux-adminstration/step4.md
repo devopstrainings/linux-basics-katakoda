@@ -33,5 +33,10 @@ Above command will interrupt for an input whether to proceed with an installatio
 
 To remove / erase a package in the system 
 
-`yum remove `
+`yum remove nginx -y` {{execute}}
+
+To update a package 
+
+`yum update nginx -y`{{execute}}
+
 
