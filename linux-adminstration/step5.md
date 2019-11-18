@@ -15,6 +15,12 @@ To start a service
 
 `systemctl start nginx`{{execute}}
 
+Then check the status 
+
+`systemctl start nginx`{{execute}}
+
+To stop a service 
+
 
 
 
