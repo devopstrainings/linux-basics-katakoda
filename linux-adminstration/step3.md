@@ -18,4 +18,6 @@ Sudoers Configuration is available in the system, So need to customize that conf
 
 `Config File : /etc/sudoers` 
 
-Alternatively you can add some files under `/etc/sudoers.d` and 
+Alternatively you can add some files under `/etc/sudoers.d` and sudo program will load them as well.
+
+In order to 
