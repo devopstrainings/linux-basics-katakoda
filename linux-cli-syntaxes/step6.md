@@ -50,11 +50,17 @@ Syntax: mkdir <directory>
 
 This will create a new directory with the name demo. you can check using ls command.
 
-`ls`{{execute}} Now you can see demo directory listed
+`ls`{{execute}} 
 
-`mkdir -p demo/new/item1`{{execute}} -p option is used to create the directory recursively even if the parent directory is missing
+Now you can see demo directory listed
 
-`mkdir demo1 demo2 demo3 demo4`{{execute}} you can also create multiple directories.
+`mkdir -p demo/new/item1`{{execute}} 
+
+-p option is used to create the directory recursively even if the parent directory is missing
+
+`mkdir demo1 demo2 demo3 demo4`{{execute}} 
+
+you can also create multiple directories.
 
 `ls`{{execute}}
 
