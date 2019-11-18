@@ -18,7 +18,7 @@ Syntax: curl <url>
 
 ### Download Files
 
-Most of the times we need to download softwares or tools from internet to work on them. We can use wget command to download the files from internet.
+Most of the times we need to download softwares or tools from internet to work on them. We can use wget command to download the files from internet. It 
 
 
 
