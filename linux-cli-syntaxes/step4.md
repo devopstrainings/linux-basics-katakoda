@@ -16,7 +16,7 @@ Now you can use ls command to check the list of newly created files that you hav
 
 ### Removing Files
 
-To remove files we have rm command , We can aslo use unlink command which does the same thing yet rm is widely preffered and used command.
+To remove files we have `rm`command , We can aslo use `unlink` command which does the same thing yet rm is widely preffered and used command.
 
 Syntax: `rm <filename>`
 
