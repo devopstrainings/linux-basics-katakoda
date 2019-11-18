@@ -13,3 +13,4 @@ To check the mremory information
 
 `cat /proc/meminfo`{{execute}}
 
+To check the disk information
