@@ -31,5 +31,7 @@ Above command will interrupt for an input whether to proceed with an installatio
 
 `yum install tomcat -y`{{execute}}
 
+To remove / erase a package in the system 
 
+`yum remove `
 
