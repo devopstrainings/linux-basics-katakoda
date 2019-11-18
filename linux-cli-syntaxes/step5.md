@@ -12,7 +12,7 @@ If destination exists it will overwrite the file and in some cases it will ask y
 
 Inorder to change the name of a file we use mv command
 
-Syntax: mv source-file destination-file
+`Syntax: mv source-file destination-file`
 
 `mv notes.txt sample`{{execute}} 
 
@@ -28,7 +28,7 @@ you can observe that the notes.txt file has been renamed to sample.
 
 To change the working directory from one location to another we use cd command
 
-Syntax: cd <directory>
+`Syntax: cd <directory>`
 
 `cd /bin`{{execute}} you will switch to /bin directory
 
