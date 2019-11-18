@@ -16,4 +16,4 @@ Syntax: rm <filename>
 
 `rm sample`{{execute}} It may ask you for a prompt (yes/no) to remove the files. You can supress the prompt by passing -f option in the command.
 
-`ls`{{execute}} Now 
+`ls`{{execute}} Now again when you list the files using ls command 
