@@ -11,3 +11,5 @@ You can check the permissions of a file using `ls ` command.
 `
 touch sample.txt 
 ls -l 
+`{{execute}}
+
