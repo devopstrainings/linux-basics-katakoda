@@ -49,6 +49,6 @@ Command `yum` will refer the repos available under `/etc/yum.repos.d/*.repo` fil
 
 Let us understand it through a situation.
 
-`yum install jenkins -y`
+`yum install jenkins -y`{{execute}}
 
 
