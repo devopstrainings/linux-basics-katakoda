@@ -5,7 +5,7 @@ To check the vendor of the operating system.
 
 `cat /etc/*release`{{execute}} 
 
-This g
+This gives the 
 
 #### Options
 
