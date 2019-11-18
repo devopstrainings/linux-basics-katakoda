@@ -23,3 +23,7 @@ Above command would bombard with thousands of lines output and can be piped to f
 
 `yum list all | grep ^httpd`{{execute}}
 
+To install a package 
+
+`yum install nginx`{{execute}}
+
