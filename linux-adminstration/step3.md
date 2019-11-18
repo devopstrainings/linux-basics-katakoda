@@ -26,9 +26,9 @@ Sudoers configuration syntax looks like below:
 
 So either you add the above entries directly in `/etc/sudoers` or in a saperate file in `/etc/sudoers.d/` directory.
 
-You can edit the configuration using the following command to avoid some mistakes.
-
 Refer the following video for understanding the mistakes. https://www.youtube.com/watch?v=OuKpAenxh94 
 
+You can edit the configuration using the following command to avoid some mistakes.
 
+``
 
