@@ -8,5 +8,5 @@ Syntax: mkdir <directory>
 
 `ls`{{execute}} Now you can see demo directory listed
 
-`mkdir -p demo/new/item1`{{execute}}
+`mkdir -p demo/new/item1`{{execute}} 
 
