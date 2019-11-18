@@ -58,4 +58,4 @@ curl -s https://pkg.jenkins.io/redhat-stable/jenkins.repo -o /etc/yum.repos.d/je
 rpm --import https://pkg.jenkins.io/redhat-stable/jenkins.io.key
 `{{execute}}
 
-Now after those importing of
+Now after those importing of new repo files 
