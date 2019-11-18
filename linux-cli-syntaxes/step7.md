@@ -1,4 +1,4 @@
-### Head command
+### Head Command
 
 In many situations you might want to have only a certain number of lines from a file. You can use filter commands (head/tail) or a combination of them to get your work done.
 
@@ -11,7 +11,7 @@ In many situations you might want to have only a certain number of lines from a 
 
 It gives the first 5 lines of the file
 
-
+### Tail Command
 
 head command gives you the top lines of the file however if you want to print the last lines you can use tail command
 
