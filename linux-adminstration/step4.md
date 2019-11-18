@@ -32,7 +32,7 @@ Above command will interrupt for an input whether to proceed with an installatio
 
 To remove / erase a package in the system 
 
-`yum remove nginx -y` {{execute}}
+`yum remove nginx -y`{{execute}}
 
 To update a package 
 
