@@ -20,7 +20,7 @@ Syntax: curl <url>
 
 Most of the times we need to download softwares or tools from internet to work on them. We can use wget command to download the files from internet. It downloads the file to the location from where you are running the command by default
 
-
+Syntax: wget <url>
 
 
 
