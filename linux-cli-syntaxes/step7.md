@@ -10,4 +10,6 @@ Syntax: cat <filename>
 
 `tac /etc/passwd`{{execute}} It displays the content of the file in reverse order.
 
+### Filter commands
 
+In many situations 
