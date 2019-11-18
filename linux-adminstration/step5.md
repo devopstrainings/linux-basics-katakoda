@@ -46,4 +46,4 @@ Finally in case if we dont want to start the service along with OS then
 
 `systemctl disable nginx`
 
-This nginx service along with the package you installed in Package Management section. Some softwares which we might install in future may not come as a RPM and those services will not come by default. In that case we run the service 
+This nginx service along with the package you installed in Package Management section. Some softwares which we might install in future may not come as a RPM and those services will not come by default. In that case we create 
