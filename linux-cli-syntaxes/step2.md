@@ -1,4 +1,4 @@
-## Hardware and Operating system Information
+
 
 Once you login into the machine. you might want to see the information related to hardware and operating system of that machine.
 
