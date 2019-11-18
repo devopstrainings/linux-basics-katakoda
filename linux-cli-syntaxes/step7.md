@@ -4,17 +4,25 @@
 
 `Syntax: cat <filename>`
 
-`cat /etc/passwd`{{execute}} It shows the content of the file
+`cat /etc/passwd`{{execute}} 
 
-`cat -n /etc/passwd`{{execute}} It shows the content of the file along with the line numbers
+It shows the content of the file
 
-`tac /etc/passwd`{{execute}} It displays the content of the file in reverse order.
+`cat -n /etc/passwd`{{execute}} 
+
+It shows the content of the file along with the line numbers
+
+`tac /etc/passwd`{{execute}} 
+
+It displays the content of the file in reverse order.
 
 ### Filter commands
 
 In many situations you might want to have only a certain number of lines from a file. You can use filter commands (head/tail) or a combination of them to get your work done.
 
-Synatax: head <filename> By default head gives you top 10 lines of the file but you can change it according to your needs.
+`Synatax: head <filename>`
+
+ By default head gives you top 10 lines of the file but you can change it according to your needs.
 
 
 `head -n 5 /etc/passwd`{{execute}} It gives the first 5 lines of the file
