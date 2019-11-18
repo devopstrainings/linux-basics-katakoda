@@ -16,3 +16,6 @@ Out of lot many tools **SUDO** is one of the default and widely used tool. Hence
 
 Sudoers Configuration is available in the system, So need to customize that configuration and tell to sudoers that which users can perform which activities and then system allows only that users to perform those commands.
 
+`Config File : /etc/sudoers` 
+
+Alternatively you can add 
