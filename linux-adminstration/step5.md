@@ -1,2 +1,2 @@
 
-A server is 
+A server is used to serve 
