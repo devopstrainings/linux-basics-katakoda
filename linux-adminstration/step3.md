@@ -5,4 +5,5 @@ In companies even though we know the ROOT user password, We might not login dire
 So we usually create users in the system and those users login to the system to perform or do some work. But a normal user cannot do the admin activities and also as a standard practice we cannot login with ROOT user. Hence we need an alternate option to login as a normal user but perform the work as root user. 
 
 To gain the above scenario we need to use some Privilege Escalation tools and few of them are 
-  
+  1. SUDO 
+  2. 
