@@ -46,4 +46,4 @@ Finally in case if we dont want to start the service along with OS then
 
 `systemctl disable nginx`
 
-
+This nginx service along with the package you installed in Pack
