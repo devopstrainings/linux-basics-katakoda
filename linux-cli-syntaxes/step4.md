@@ -18,4 +18,4 @@ Syntax: rm <filename>
 
 `ls`{{execute}} Now again when you list the files using ls command the sample file should be gone as you have removed it.
 
-### No
+### Note: Be careful while removing a file as it deletes all the contents of the file and retireving 
