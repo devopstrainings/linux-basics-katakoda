@@ -28,4 +28,5 @@ To change the working directory from one location to another we use cd command
 
 Syntax: cd <directory>
 
-`cd /bin`{{execute}} you will switch ti 
+`cd /bin`{{execute}} you will switch to /bin directory
+
