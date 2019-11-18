@@ -28,7 +28,7 @@ In this example I will be downloading jenkins from the internet.
 
 `ls`{{execute}} you can find a new jenkins.tar here
 
-### UExtracting the files from tar
+### Extracting the files from tar
 
 
 
