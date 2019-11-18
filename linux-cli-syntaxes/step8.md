@@ -34,5 +34,5 @@ Many times in Linux world all the softwares are packaged either in .zip or .tar 
 
 Syntax: tar -xf <filename>.tar.gz
 
-
+`tar -xf 
 
