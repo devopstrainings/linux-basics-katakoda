@@ -26,5 +26,7 @@ In this example I will be downloading jenkins from the internet.
 
 `wget https://pkg.jenkins.io/redhat-stable/jenkins-2.190.2-1.1.noarch.rpm`{{execute}}
 
-`ls`{{execute}} you can find a new jenkins.
+`ls`{{execute}} you can find a new jenkins.tar here
+
+
 
