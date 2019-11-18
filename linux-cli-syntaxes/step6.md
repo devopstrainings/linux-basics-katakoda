@@ -56,7 +56,7 @@ Now you can see demo directory listed
 
 `mkdir -p demo/new/item1`{{execute}} 
 
--p option is used to create the directory recursively even if the parent directory is missing
+`-p` option is used to create the directory recursively even if the parent directory is missing
 
 `mkdir demo1 demo2 demo3 demo4`{{execute}} 
 
