@@ -5,11 +5,11 @@ Until CentOS-6 OS we use to manage services with `service` and `chkconfig` comma
 
 To list all the services which are running in the Operating System.
 
-`systemctl list-units -t service`
+`systemctl list-units -t service`{{execute}}
 
 To check the status of a single service 
 
-`systemctl s`
+`systemctl status nginx`{{execute}}
 
 To start a service 
 
