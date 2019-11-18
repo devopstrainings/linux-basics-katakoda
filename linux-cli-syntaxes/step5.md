@@ -34,4 +34,4 @@ Syntax: cd <directory>
 
 `cd -` This command will take you the previous directory that you were using.
 
-`cd ..` .. means parent directory 
+`cd ..` .. means parent directory and it takes you to the parent directory of the 
