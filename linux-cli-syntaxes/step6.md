@@ -24,7 +24,7 @@ observe the output
 
 `cd ..`{{execute}} .. means parent directory and it takes you to the parent directory of the current directory
 
-
+`pwd`{{execute}}
 
 ### Single dot (.)
 
