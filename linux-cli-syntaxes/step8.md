@@ -22,5 +22,7 @@ Most of the times we need to download softwares or tools from internet to work o
 
 Syntax: wget <url>
 
+In this example I will be downloading jenkins from the internet.
+
 
 
