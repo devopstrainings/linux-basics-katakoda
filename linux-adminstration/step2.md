@@ -82,7 +82,7 @@ You can check the process of some system services runs as a normal user but not 
 
 `ps -ef | grep mariadb`{{execute}}
 
-
+Eventhough those services are started 
 
 
 # Additional Commands for Practice
