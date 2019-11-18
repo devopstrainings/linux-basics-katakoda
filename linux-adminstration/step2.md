@@ -49,7 +49,7 @@ groupadd admins
 usermod -a -G admins john 
 `{{execute}}
 
-You can check all his groups information usinng the same `id` command.
+You can check all his groups information using the same `id` command.
 
 `id john`{{execute}}
 
