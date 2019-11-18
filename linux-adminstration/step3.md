@@ -33,6 +33,5 @@ Refer the following video for understanding the mistakes.
 [![SUDO MISTAKES](https://github.com/devopstrainings/linux-basics-katakoda/raw/master/linux-adminstration/images/sudo-mistakes.png)](https://www.youtube.com/watch?v=OuKpAenxh94)
 
 
-<iframe height="480" width="500"src="https://www.youtube.com/embed/il_t1WVLNxk"> 
-</iframe> 
+<iframe height="480" width="500"src="https://www.youtube.com/embed/il_t1WVLNxk"></iframe> 
 
