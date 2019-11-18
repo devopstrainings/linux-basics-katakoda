@@ -34,7 +34,7 @@ Syntax: cd <directory>
 
 `cd`{{execute}} simple cd command will take you to the home directory of the user
 
-`pwd`{{execute}}
+`pwd`{{execute}} observe the output
 
 `pwd`{{execute}}
 
