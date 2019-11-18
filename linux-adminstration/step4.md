@@ -11,4 +11,4 @@ First, In case if we want to list out the packages which are installed in your s
 
 `yum list installed`{{execute}}
 
-At the same time 
+At the same time we can also get the packges which are not installed and also available for installation from remote repositories
