@@ -45,4 +45,10 @@ To update the complete system
 
 However if you wondered that how `yum` in managing the installation, You will see that it is downloading the package and installing it. But from where it is downloading?
 
-Command `yum` will refer the repos available under `/etc/yum.repos.d/*.repo` files 
+Command `yum` will refer the repos available under `/etc/yum.repos.d/*.repo` files and reach out to only those destinations to download the files.
+
+Let us understand it through a situation.
+
+`yum install jenkins -y`
+
+
