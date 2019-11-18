@@ -38,3 +38,4 @@ Syntax: cd <directory>
 
 ### Single dot (.)
 
+Dot in linux indicates 
