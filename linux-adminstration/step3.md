@@ -30,5 +30,5 @@ You can edit the configuration using the following command to avoid some mistake
 
 Refer the following video for understanding the mistakes.
 
-[![SUDO MISTAKES]()](https://www.youtube.com/watch?v=OuKpAenxh94)
+[![SUDO MISTAKES](https://github.com/devopstrainings/linux-basics-katakoda/raw/master/linux-adminstration/images/sudo-mistakes.png)](https://www.youtube.com/watch?v=OuKpAenxh94)
 
