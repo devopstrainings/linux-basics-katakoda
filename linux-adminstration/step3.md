@@ -39,5 +39,7 @@ Else we can give our own list of commands with list of machines.
 
 ---- 
 
-Now the user can execute the commands as normal user by using sudo privilege 
+Now the user can execute the commands as normal user by using sudo privilege and those commands will be executed as root user in the background.
+
+
 
