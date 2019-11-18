@@ -82,7 +82,7 @@ You can check the process of some system services runs as a normal user but not 
 
 `ps -ef | grep mariadb`{{execute}}
 
-Eventhough those services are started by a ROOT user, Yet the service runs associated by a normal user
+Eventhough those services are started by a ROOT user, Yet the service runs associated by a normal user but not a ROOT User.
 
 
 # Additional Commands for Practice
