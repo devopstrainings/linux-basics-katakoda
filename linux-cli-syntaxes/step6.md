@@ -32,3 +32,5 @@ Syntax: rmdir <directory>
 
 ### Note: You cannot use -r option with rmdir to use the -r we need to use rm command instead of rmdir.
 
+### Copy Directories
+
