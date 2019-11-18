@@ -9,3 +9,4 @@ hidden files.
 
 `ls -l`{{execute}} Get list of files with long format, usually shows properties of a file
 
+`ls -Al`{{execute}} 
