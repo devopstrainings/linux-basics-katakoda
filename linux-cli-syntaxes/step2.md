@@ -9,13 +9,8 @@ This gives the name of the operating system that is being used.
 
 To check the CPU information
 
-`cat /proc/cpuinfo`
+`cat /proc/cpuinfo`{execute}
 
-Certain commands are going to have options, Options in Linux Command line will be a second argument over the command line, Usually those options will be seen in three formats..
-
-  1. `<command>    -<single character>` (Ex: -h , -v )
-  2. `<command>    --<single word>`  (Ex: --help , --version)
-  3. `<command>    -<single word>` (Ex: -version, -help)
 
 For Example:
 
