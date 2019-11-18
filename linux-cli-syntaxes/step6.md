@@ -40,4 +40,4 @@ Syntax: rmdir <directory>
 
 Copying directories can be done with the same command cp that is used to copy the files but while copying the directories we need mention -r option.
 
-Syntax: cp -r dir1 dir2 
+Syntax: cp -r dir1 dir2 --> It copies all the contents of 
