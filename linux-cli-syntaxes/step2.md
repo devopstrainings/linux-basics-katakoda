@@ -8,7 +8,7 @@ To check the vendor of the operating system.
 
 To check the CPU information
 
-`cat /proc/cpuinfo`{{execute}
+`cat /proc/cpuinfo`{{execute}}
 
 To check the mremory information 
 
