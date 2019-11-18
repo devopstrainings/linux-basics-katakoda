@@ -6,4 +6,5 @@ So we usually create users in the system and those users login to the system to 
 
 To gain the above scenario we need to use some Privilege Escalation tools and few of them are 
   1. SUDO 
-  2. 
+  2. PowerBroker 
+  3. 
