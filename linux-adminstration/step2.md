@@ -30,7 +30,7 @@ To add a user, Command is `useradd`.
 
 `useradd -g devops john`{{execute}}
 
-In the above command `useradd` is the command to add user, `-g devops` is an option instructing the useradd command to add a user in devops group and `john` is the username.
+In the above command `useradd` is the command to add user, `-g devops` is an option instructing the `useradd` command to add a user in devops group and `john` is the username.
 
 
 Alike `groupadd` command `useradd` also will not show any output on the screen showing that user has been created. So to check whether the user has been created or not, You can run the following command.
