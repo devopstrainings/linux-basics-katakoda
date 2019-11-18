@@ -12,4 +12,4 @@ Syntax: cat <filename>
 
 ### Filter commands
 
-In many situations you might want to have only a certain number of lines from a file. You can use head 
+In many situations you might want to have only a certain number of lines from a file. You can use filter commands (head/tail)
