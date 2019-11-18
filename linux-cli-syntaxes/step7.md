@@ -25,13 +25,17 @@ In many situations you might want to have only a certain number of lines from a 
  By default head gives you top 10 lines of the file but you can change it according to your needs.
 
 
-`head -n 5 /etc/passwd`{{execute}} It gives the first 5 lines of the file
+`head -n 5 /etc/passwd`{{execute}} 
+
+It gives the first 5 lines of the file
 
 head command gives you the top lines of the file however if you want to print the last lines you can use tail command
 
-Syntax: tail <filename>
+`Syntax: tail <filename>`
 
-`tail -n 5 /etc/passwd`{{execute}} It gives the last 5 lines of the file
+`tail -n 5 /etc/passwd`{{execute}} 
+
+It gives the last 5 lines of the file
 
 The grep filter searches a file for a particular pattern of characters, and displays all lines that contain that pattern. The pattern that is searched in the file is referred to as the regular expression (grep stands for globally search for regular expression and print out).
 
