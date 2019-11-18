@@ -32,5 +32,6 @@ You can edit the configuration using the following command to avoid some mistake
 
 `visudo`{{execute}}
 
-`ALL` is a default keyword which is available to 
+`ALL` is a default keyword which is available in sudoers to add all the commands access to all the machines.
+Else we can give o
 
