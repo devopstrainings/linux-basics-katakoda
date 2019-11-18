@@ -12,4 +12,4 @@ Syntax: cat <filename>
 
 ### Filter commands
 
-In many situations you might want to have only a certain number of lines form the file
+In many situations you might want to have only a certain number of lines from a file. 
