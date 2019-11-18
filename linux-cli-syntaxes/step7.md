@@ -21,4 +21,5 @@ Synatax: head <filename> By default head gives you top 10 lines of the file but 
 
 head command gives you the top lines of the file however if you want to print the last lines you can use tail command
 
-Syntax
+Syntax: tail <filename>
+
