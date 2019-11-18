@@ -2,4 +2,6 @@
 
 To copy a file we have cp command. Alternatively we have rsync but mostly e prefer to use cp command in general.
 
-Syntax: 
+Syntax: cp source-file destination-file
+
+I 
