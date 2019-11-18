@@ -29,4 +29,5 @@ The grep filter searches a file for a particular pattern of characters, and disp
 
 Syntax: grep <word> <filename>
 
-`grep root /etc/passwd`{{execute}} It fetches all the 
+`grep root /etc/passwd`{{execute}} It fetches all the lines which have the word root in them.
+
