@@ -14,6 +14,8 @@ Get list of files with long format, usually shows properties of a file
 
 `ls -l`{{execute}} 
 
-`ls -Al`{{execute}} We can combine multiple options as well.
+ We can combine multiple options as well.
+ 
+`ls -Al`{{execute}}
 
 ### NOTE: Giving multiple options depends on the command. ls accepts multiple options but it isn't applicable for all.
