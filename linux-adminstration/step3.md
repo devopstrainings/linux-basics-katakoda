@@ -28,5 +28,7 @@ So either you add the above entries directly in `/etc/sudoers` or in a saperate 
 
 You can edit the configuration using the following command to avoid some mistakes.
 
-Refer the following video for understanding the mistakes. https://www.youtube.com/watch?v=OuKpAenxh94"></iframe> 
+Refer the following video for understanding the mistakes. https://www.youtube.com/watch?v=OuKpAenxh94 
+
+
 
