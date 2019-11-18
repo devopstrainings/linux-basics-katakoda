@@ -23,4 +23,4 @@ head command gives you the top lines of the file however if you want to print th
 
 Syntax: tail <filename>
 
-`tail -n 5 /etc/passwd`
+`tail -n 5 /etc/passwd`{{execute}} It gives the last 5 lines of the file
