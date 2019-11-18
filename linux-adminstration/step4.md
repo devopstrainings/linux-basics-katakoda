@@ -9,4 +9,5 @@ Earlier to install an **RPM** we use to use `rpm` command, But using it have som
 
 First, In case if we want to list out the packages which are installed in your system then..
 
-``
+`yum list installed`{{execute}}
+
