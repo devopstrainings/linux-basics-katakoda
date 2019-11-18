@@ -34,6 +34,8 @@ Syntax: mv source destination
 
 `mv demo4 renaming`{{execute}} This will rename the demo4 as renaming 
 
+`ls`{{execute}}
+
 ### Remove Directory
 
 To remove a directory we use rmdircommand in lunux. Removing directories also deletes all the files that the directory holds
