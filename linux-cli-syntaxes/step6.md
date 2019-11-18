@@ -90,9 +90,9 @@ This will rename the demo4 as renaming
 
 ### Remove Directory
 
-To remove a directory we use rmdircommand in lunux. Removing directories also deletes all the files that the directory holds
+To remove a directory we use rmdir command in lunux. Removing directories also deletes all the files that the directory holds
 
-Syntax: rmdir <directory>
+`Syntax: rmdir <directory>`
 
 `rmdir demo1`{{execute}}
 
