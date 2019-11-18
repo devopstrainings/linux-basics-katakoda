@@ -10,4 +10,5 @@ To gain the above scenario we need to use some Privilege Escalation tools and fe
   3. Centrify.. Etc
 
 You can refer this link.
-![Sudo Alternatives]
+![Sudo Alternatives](https://www.sudo.ws/other.html)
+
