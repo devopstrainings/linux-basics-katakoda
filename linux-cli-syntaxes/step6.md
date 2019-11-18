@@ -22,6 +22,8 @@ Syntax: rmdir <directory>
 
 `rmdir demo`{{execute}} It deletes the directory with the name demo
 
+`ls`
+
 `rmdir -r demo`{{execute}} To delete them recursively we use -r option.
 
-`rmdir -r demo1 demo1`{{execute}} We can also delete multiple 
+`rmdir -r demo1 demo1`{{execute}} We can also delete multiple directories this way
