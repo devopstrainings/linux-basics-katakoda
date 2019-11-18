@@ -4,5 +4,7 @@ Creating Directory is same as  creating a Folder in your windows machine. You ca
 
 Syntax: mkdir <directory>
 
-`mkdir demo`{{execute}} 
+`mkdir demo`{{execute}} This will create a new directory with the name demo. you can check using ls command.
+
+`ls
 
