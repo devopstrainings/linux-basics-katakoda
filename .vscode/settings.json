@@ -37,7 +37,9 @@
     "repos"
   ],
   "cSpell.ignoreWords": [
+    "appuser",
     "centrify",
+    "useradd",
     "visudo"
   ]
 }
