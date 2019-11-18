@@ -55,5 +55,6 @@ Above command will try to install Jenkins software but it will be a failure, So 
 
 `
 curl -s https://pkg.jenkins.io/redhat-stable/jenkins.repo -o /etc/yum.repos.d/jenkins.repo
+rpm --import https://pkg.jenkins.io/redhat-stable/jenkins.io.key
 `
 
