@@ -8,3 +8,5 @@ Syntax: cp source-file destination-file
 
 If destination exists it will overwrite the file and in some cases it will ask you for a prompt (yes/no) to overwrite the file or not.
 
+### Renaming a File
+
