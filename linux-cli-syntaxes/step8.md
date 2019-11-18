@@ -16,5 +16,7 @@ Syntax: curl <url>
 
 `curl www.google.com`{{executed}} 
 
-##
+### Download Files
+
+Most of the times we need to download 
 
