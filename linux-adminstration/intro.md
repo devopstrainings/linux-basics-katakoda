@@ -17,4 +17,5 @@ Fetch the **`Public IP`** of the server and connect to the session using the fol
 
 ![Basic Connection](https://github.com/devopstrainings/linux-basics-katakoda/raw/master/linux-cli-syntaxes/images/01-connect.png)
 
+![Test]()
 ### Note: Above example shows that you are connecting to server **`34.212.20.238`**, But that need to be replaced with the IP-Address of your server.
