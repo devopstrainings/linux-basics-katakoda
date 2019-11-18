@@ -37,3 +37,13 @@ First check the status
 Let us enable the service to start at the time of reboot 
 
 `systemctl enable nginx`{{execute}}
+
+Now lets check the status again 
+
+`systemctl status nginx`{{execute}}
+
+Finally in case if we dont want to start the service along with OS then 
+
+`systemctl disable nginx`
+
+
