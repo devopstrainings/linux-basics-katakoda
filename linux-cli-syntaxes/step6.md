@@ -100,13 +100,19 @@ To remove a directory we use `rmdir` command in lunux. Removing directories also
 
 check the output to see if the directory is deleted or not
 
-`rmdir demo`{{execute}} It deletes the directory with the name demo but in this example you will see an error saying the directory is not empty.That is because we have already created  sub-directories named new and test inside demo.
+`rmdir demo`{{execute}} 
 
-`rm -r demo`{{execute}} To delete them recursively we use -r option.
+It deletes the directory with the name demo but in this example you will see an error saying the directory is not empty.That is because we have already created  sub-directories named new and test inside demo.
+
+`rm -r demo`{{execute}} 
+
+To delete them recursively we use -r option.
 
 `ls`{{execute}}
 
-`rm -r demo2 demo3`{{execute}} We can also delete multiple directories this way
+`rm -r demo2 demo3`{{execute}} 
+
+We can also delete multiple directories this way
 
 `ls`{{execute}}
 
