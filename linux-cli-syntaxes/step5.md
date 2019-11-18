@@ -30,7 +30,7 @@ Syntax: cd <directory>
 
 `cd /bin`{{execute}} you will switch to /bin directory
 
-`pwd`{{execute}}
+`pwd`{{execute}} you can check your 
 
 `cd`{{execute}} simple cd command will take you to the home directory of the user
 
