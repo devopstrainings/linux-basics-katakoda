@@ -1,5 +1,5 @@
 
-Once you login into the machine. you might want to see 
+Once you login into the machine. you might want to see the information related to hardware andn 
 For example:
 
 `uname`{{execute}} 
