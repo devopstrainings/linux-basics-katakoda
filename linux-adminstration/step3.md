@@ -10,7 +10,7 @@ To gain the above scenario we need to use some Privilege Escalation tools and fe
   3. Centrify.. Etc
 
 You can refer this link.
-![Sudo Alternatives](https://www.sudo.ws/other.html)
+https://www.sudo.ws/other.html
 
 Out of lot many tools **SUDO** is one of the default and widely used tool. Hence we are discussing SUDO further now..
 
@@ -31,4 +31,7 @@ You can edit the configuration using the following command to avoid some mistake
 Refer the following video for understanding the mistakes.
 
 [![SUDO MISTAKES](https://github.com/devopstrainings/linux-basics-katakoda/raw/master/linux-adminstration/images/sudo-mistakes.png)](https://www.youtube.com/watch?v=OuKpAenxh94)
+
+
+<iframe height="480" width="500"src="https://www.youtube.com/embed/il_t1WVLNxk"></iframe> 
 
