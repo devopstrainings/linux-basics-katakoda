@@ -18,4 +18,6 @@ Syntax: mkdir <directory>
 
 To remove a directory we use rmdircommand in lunux. Removing directories also deletes all the files that the directory holds
 
+Syntax: rmdir <directory>
 
+'
