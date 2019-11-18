@@ -10,7 +10,7 @@ To check the CPU information
 
 `cat /proc/cpuinfo`{{execute}}
 
-To check the mremory information 
+To check the memory information 
 
 `cat /proc/meminfo`{{execute}}
 
