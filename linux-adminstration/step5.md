@@ -7,6 +7,10 @@ To list all the services which are running in the Operating System.
 
 `systemctl list-units -t service`
 
+To check the status of a single service 
+
+`systemctl s`
+
 To start a service 
 
 `systemctl start nginx`
