@@ -11,6 +11,8 @@ To check the CPU information
 
 To check the mremory information 
 
+`cat /
+
 For Example:
 
 `uname -a`{{execute}}
