@@ -39,4 +39,6 @@ To update a package
 
 `yum update nginx -y`{{execute}}
 
+To update the complete system 
 
+``
