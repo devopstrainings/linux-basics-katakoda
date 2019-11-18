@@ -41,4 +41,6 @@ To update a package
 
 To update the complete system 
 
-``
+`yum update -y` 
+
+
