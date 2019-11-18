@@ -1,6 +1,6 @@
 ### Creating Files
 
-We can create files in multiple ways/commands in Linux.As a basic we will use touch command to create the file.
+We can create files in multiple ways/commands in Linux.As a basic we will use `touch` command to create the file.
 
 `Syntax: touch <filename>` 
 
