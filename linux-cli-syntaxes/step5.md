@@ -36,3 +36,4 @@ Syntax: cd <directory>
 
 `cd ..`{{execute}} .. means parent directory and it takes you to the parent directory of the current directory
 
+### Single dot ()
