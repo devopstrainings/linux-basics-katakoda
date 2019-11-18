@@ -21,7 +21,7 @@ head command gives you the top lines of the file however if you want to print th
 
 It gives the last 5 lines of the file
 
-##
+## Grep command
 
 The `grep` filter searches a file for a particular pattern of characters, and displays all lines that contain that pattern. The pattern that is searched in the file is referred to as the regular expression (grep stands for globally search for regular expression and print out).
 
@@ -30,6 +30,8 @@ The `grep` filter searches a file for a particular pattern of characters, and di
 `grep root /etc/passwd`{{execute}} 
 
 It fetches all the lines which have the word root in them.
+
+###
 
 In some cases the content needs to be filtered based on the columns in that case we use awk command.
 
