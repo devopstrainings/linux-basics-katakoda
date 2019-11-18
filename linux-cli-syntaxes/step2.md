@@ -17,4 +17,4 @@ To check the disk information
 
 `fdisk -l`{{execute}}
 
-With this information in hand you will have an idea of what you are dealing with and the 
+With this information in hand you will have an idea of what you are dealing with and the specifications of that Linux machine.
