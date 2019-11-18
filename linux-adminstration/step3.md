@@ -24,4 +24,4 @@ Sudoers configuration syntax looks like below:
 
 `user-name    MACHINE=COMMANDS` 
 
-So either you add 
+So either you add some 
