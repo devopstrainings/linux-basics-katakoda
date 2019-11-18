@@ -18,4 +18,6 @@ Syntax: mv source-file destination-file
 
 If destination exists it will overwrite the file and in some cases it will ask you for a prompt (yes/no) to overwrite the file or not.
 
-mv command intention is to move the file from one location to another yet we use 
+mv command intention is to move the file from one location to another yet we use mainly to rename the files
+
+`ls`{{execute}} 
