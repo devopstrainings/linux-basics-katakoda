@@ -17,6 +17,6 @@ At the same time we can also get the packges which are not installed and also av
 
 In case if we want both the packages which are installed and available for install then we can use a flag `list`..
 
-`yum list all`{{execvute}}
+`yum list all`{{execute}}
 
 Above command would bombard with thousands of lines 
