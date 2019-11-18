@@ -1,5 +1,5 @@
 
-Once you login into the 
+Once you login into the machine. you might want to see 
 For example:
 
 `uname`{{execute}} 
