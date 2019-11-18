@@ -24,4 +24,4 @@ mv command intention is to move the file from one location to another yet we use
 
 ### Change Directory
 
-To change the 
+To change the working directory 
