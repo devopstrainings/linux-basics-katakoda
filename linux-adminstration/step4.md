@@ -19,4 +19,4 @@ In case if we want both the packages which are installed and available for insta
 
 `yum list all`{{execvute}}
 
-But we might 
+Above command would bombard with thousands of lines 
