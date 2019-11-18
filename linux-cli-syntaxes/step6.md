@@ -67,7 +67,7 @@ you can also create multiple directories.
 
 ### Copy Directories
 
-Copying directories can be done with the same command cp that is used to copy the files but while copying the directories we need mention -r option.
+Copying directories can be done with the same command `cp`` that is used to copy the files but while copying the directories we need mention -r option.
 
 `Syntax: cp -r dir1 dir2` --> It copies all the contents of dir1 into dir2, if dir1 already exists dir1 will be copied inside dir2
 
@@ -75,7 +75,7 @@ Copying directories can be done with the same command cp that is used to copy th
 
 ## Moving a Directory
 
-Moving directories or renaming directories can be done using mv command.
+Moving directories or renaming directories can be done using `mv` command.
 
 `Syntax: mv source destination`
 
@@ -90,7 +90,7 @@ This will rename the demo4 as renaming
 
 ### Remove Directory
 
-To remove a directory we use rmdir command in lunux. Removing directories also deletes all the files that the directory holds
+To remove a directory we use `rmdir` command in lunux. Removing directories also deletes all the files that the directory holds
 
 `Syntax: rmdir <directory>`
 
