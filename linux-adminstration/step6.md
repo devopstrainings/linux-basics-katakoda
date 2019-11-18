@@ -9,3 +9,5 @@ When a file created inside a system, that file has to be associated to a `user` 
 You can check the permissions of a file using `ls ` command.
 
 `
+touch sample.txt 
+ls -l 
