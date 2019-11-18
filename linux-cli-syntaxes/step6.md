@@ -42,7 +42,7 @@ Now if you compare the ouput from the previous ls you will be able to see the fi
 
 ### Create Directory
 
-Creating Directory is same as  creating a Folder in your windows machine. You can create a directory using mkdir command.
+Creating Directory is same as creating a Folder in your windows machine. You can create a directory using `mkdir` command.
 
 Syntax: mkdir <directory>
 
