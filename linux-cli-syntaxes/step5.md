@@ -32,4 +32,5 @@ Syntax: cd <directory>
 
 `cd` simple cd command will take you to the home directory of the user
 
-`cd -` This command will take you the previous directory that you were using in this case 
+`cd -` This command will take you the previous directory that you were using.
+
