@@ -24,7 +24,7 @@ Sudoers configuration syntax looks like below:
 
 `user-name    MACHINE=COMMANDS` 
 
-So either you add the above entries directly in `/etc/sudoers` or in a saperate file in `/etc/sudoers.d/` directory.
+So either you add the above entries directly in `/etc/sudoers` or in a separate file in `/etc/sudoers.d/` directory.
 
 Refer the following video for understanding the mistakes. https://www.youtube.com/watch?v=OuKpAenxh94 
 
