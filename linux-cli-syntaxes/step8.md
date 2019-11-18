@@ -10,4 +10,4 @@ Syntax: find <location-to-find> <search-criteria>
 
 ### command line browser
 
-most of the times you need to browse urls to and fetch that content to command line.Some times we need partial information of the URL or the full information. Curl 
+most of the times you need to browse urls to and fetch that content to command line.Some times we need partial information of the URL or the full information. Curl command is available to browse the content over 
