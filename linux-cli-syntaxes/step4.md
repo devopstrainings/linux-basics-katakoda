@@ -10,4 +10,4 @@ syntax: touch <filename> --> This by default creates an empty file.
 
 ### Removing Files
 
-To remove files we have rm command , We can aslo use unlink command which does the same thing 
+To remove files we have rm command , We can aslo use unlink command which does the same thing yet 
