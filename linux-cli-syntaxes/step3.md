@@ -11,4 +11,4 @@ hidden files.
 
 `ls -Al`{{execute}} We can combine multiple options as well.
 
-###NOTE:
+###NOTE: Giving 
