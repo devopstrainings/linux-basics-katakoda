@@ -14,5 +14,5 @@ You can refer this link.
 
 Out of lot many tools **SUDO** is one of the default and widely used tool. Hence we are discussing SUDO further now..
 
-Sudoers Configuration is available in the system, So need to customize that configuration and tell to sudoers that which users can perform which activities and them system allows only that users to perform those commands.
+Sudoers Configuration is available in the system, So need to customize that configuration and tell to sudoers that which users can perform which activities and then system allows only that users to perform those commands.
 
