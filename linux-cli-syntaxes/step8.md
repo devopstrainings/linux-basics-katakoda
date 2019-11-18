@@ -8,4 +8,5 @@ Syntax: find <location-to-find> <search-criteria>
 
 `find /etc -name passwd`{{execute}} This command only searches /etc directory for the passwd file. You can obseeve that the results are smaller in size.
 
-##
+### command line browser
+
