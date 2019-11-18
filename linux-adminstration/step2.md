@@ -77,7 +77,7 @@ The following command will run some services inside the system and you can check
 You can check the process of some services runs as a normal user but not as a root user.
 
 `
-ps -ef | greo httpd 
+ps -ef | grep httpd 
 ps -ef | grep tomcat
 ps -ef | grep mariadb 
 `{{execute}}
