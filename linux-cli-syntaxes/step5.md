@@ -51,4 +51,4 @@ Dot in linux indicates present working directory , you can use it in the command
 
 We will try cp command with the . option .
 
-`cp /root
+`cp /root/
