@@ -10,4 +10,4 @@ Syntax: find <location-to-find> <search-criteria>
 
 ### command line browser
 
-most of the times you need to browse urls to and fetch that content to command line
+most of the times you need to browse urls to and fetch that content to command line.
