@@ -6,5 +6,5 @@ Syntax: mkdir <directory>
 
 `mkdir demo`{{execute}} This will create a new directory with the name demo. you can check using ls command.
 
-`ls
+`ls`{{execute}} 
 
