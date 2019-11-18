@@ -11,7 +11,7 @@ To check the CPU information
 
 To check the mremory information 
 
-`cat /
+`cat /proc/meminfo`{{execute}}
 
 For Example:
 
