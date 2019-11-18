@@ -26,7 +26,7 @@ In this example I will be downloading tomcat from the internet.
 
 `wget http://mirrors.estointernet.in/apache/tomcat/tomcat-9/v9.0.27/bin/apache-tomcat-9.0.27.tar.gz`{{execute}}
 
-`ls`{{execute}} you can find a new jenkins.tar here
+`ls`{{execute}} you can find a new tomcat.tar.gz here
 
 ### Extracting the files from tar
 
