@@ -5,4 +5,4 @@ Until CentOS-6 OS we use to manage services with `service` and `chkconfig` comma
 
 TO list all the services which are running in the Operating System.
 
-``
+`systemctl `
