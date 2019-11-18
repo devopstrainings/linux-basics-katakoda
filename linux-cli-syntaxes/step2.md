@@ -1,9 +1,9 @@
 
 Once you login into the machine. you might want to see the information related to hardware and operating system of that machine.
 
-.To check the vendor of the 
+.To check the vendor of the operating system.
 
-`uname`{{execute}} 
+`cat `{{execute}} 
 
 uname is a command and that is the first keyword/argument of a command line syntax.
 
