@@ -12,4 +12,5 @@ To gain the above scenario we need to use some Privilege Escalation tools and fe
 You can refer this link.
 ![Sudo Alternatives](https://www.sudo.ws/other.html)
 
-Out of lot many tools **SUDO** is one of the default and widely used tool. Hence we are talking about this
+Out of lot many tools **SUDO** is one of the default and widely used tool. Hence we are discussing SUDO further now..
+
