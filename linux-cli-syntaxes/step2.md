@@ -5,8 +5,6 @@ To check the vendor of the operating system.
 
 `cat /etc/*release`{{execute}} 
 
-This gives the name of the operating system that is being used.
-
 To check the CPU information
 
 `cat /proc/cpuinfo`{execute}
