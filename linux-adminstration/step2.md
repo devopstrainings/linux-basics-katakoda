@@ -91,5 +91,7 @@ Being a root user you can switch from one user to another user without any passw
 Either of the way if you want to switch then use a command `su`
 
 `su - john`{{execute}}
+
+
 # Additional Commands for Practice
 
