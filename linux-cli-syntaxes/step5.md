@@ -45,4 +45,4 @@ Syntax: cd <directory>
 
 ### Single dot (.)
 
-Dot in linux indicates 
+Dot in linux indicates present working directory 
