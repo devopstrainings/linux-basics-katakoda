@@ -49,4 +49,5 @@ Dot in linux indicates present working directory , you can use it in the command
 
 `ls`{{execute}} observe the names of the files
 
-We will try 
+We will try cp command with the . option .
+
