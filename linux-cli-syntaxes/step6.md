@@ -30,4 +30,4 @@ Syntax: rmdir <directory>
 
 `ls`{{execute}}
 
-### Note: You cannot use -r option with rmdir to use the -r 
+### Note: You cannot use -r option with rmdir to use the -r we need to use rm command instead of rmdir.
