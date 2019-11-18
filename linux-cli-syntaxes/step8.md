@@ -18,5 +18,5 @@ Syntax: curl <url>
 
 ### Download Files
 
-Most of the times we need to download 
+Most of the times we need to download softwares or tools from internet 
 
