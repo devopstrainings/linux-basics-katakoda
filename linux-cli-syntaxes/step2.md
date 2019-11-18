@@ -1,7 +1,5 @@
-## Command line Syntaxes.
 
-#### Commands
-In termninal the first argument we give to execute is a command.
+
 
 For example:
 
