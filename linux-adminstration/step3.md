@@ -37,5 +37,7 @@ Else we can give our own list of commands with list of machines.
 
 ## 
 
+---- 
 
+Now the user can execute the commands as normal user
 
