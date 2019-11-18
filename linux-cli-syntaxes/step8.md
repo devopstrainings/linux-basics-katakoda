@@ -22,9 +22,9 @@ Most of the times we need to download softwares or tools from internet to work o
 
 Syntax: wget <url>
 
-In this example I will be downloading jenkins from the internet.
+In this example I will be downloading tomcat from the internet.
 
-`wget https://pkg.jenkins.io/redhat-stable/jenkins-2.190.2-1.1.noarch.rpm`{{execute}}
+`wget http://mirrors.estointernet.in/apache/tomcat/tomcat-9/v9.0.27/bin/apache-tomcat-9.0.27.tar.gz`{{execute}}
 
 `ls`{{execute}} you can find a new jenkins.tar here
 
