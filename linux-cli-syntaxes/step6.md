@@ -29,3 +29,4 @@ Syntax: rmdir <directory>
 `rm -r demo1 demo1`{{execute}} We can also delete multiple directories this way
 
 `ls`{{execute}}
+
