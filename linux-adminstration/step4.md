@@ -66,4 +66,4 @@ Check list of repos now.
 
 `ls /etc/yum.repos.d`{{execute}}
 
-Now after those importing of new repo files 
+Now after importing those new repo files 
