@@ -32,7 +32,7 @@ Syntax: cd <directory>
 
 `cd`{{execute}} simple cd command will take you to the home directory of the user
 
-`cd -`{{execute}}  This command will take you the previous directory that you were using.
+`cd -`{{execute}} This command will take you the previous directory that you were using.
 
-`cd ..` .. means parent directory and it takes you to the parent directory of the current directory
+`cd ..`{{execute}} .. means parent directory and it takes you to the parent directory of the current directory
 
