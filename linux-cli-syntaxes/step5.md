@@ -47,3 +47,4 @@ Syntax: cd <directory>
 
 Dot in linux indicates present working directory , you can use it in the commands which we have used so far
 
+`ls`{{execute}} observe the 
