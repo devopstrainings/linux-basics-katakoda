@@ -47,5 +47,5 @@ First switch to normal user.
 
 Then 
 
-`sudo useradd `
+`sudo useradd`
 
