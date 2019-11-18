@@ -23,4 +23,4 @@ To stop a service
 
 `systemctl stop nginx`{{execute}}
 
-
+To 
