@@ -3,7 +3,7 @@
 
 `syntax: ls <options> <Path>`
 
-Note that `ls` command works 
+Note that `ls` command works without an input i.e both the options and pat
 
 `ls -lt /opt`{{execute}}
 
