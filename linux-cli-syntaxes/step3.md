@@ -9,7 +9,10 @@ Get list of files and directories but it may not show hidden files.
 Get list of hidden files and directories.
 
 `ls -A`{{execute}}
+
 Get list of files with long format, usually shows properties of a file
+
+`ls -l`{{execute}} 
 
 `ls -Al`{{execute}} We can combine multiple options as well.
 
