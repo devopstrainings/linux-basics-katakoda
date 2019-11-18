@@ -1,6 +1,6 @@
 ### Change Directory
 
-To change the working directory from one location to another we use cd command
+To change the working directory from one location to another we use `cd`command
 
 `Syntax: cd <directory>`
 
