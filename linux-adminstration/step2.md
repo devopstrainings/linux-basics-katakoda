@@ -88,6 +88,8 @@ Eventhough those services are started by a ROOT user, Yet the service runs assoc
 
 Being a root user you can switch from one user to another user without any password. At the same time a normal user also can swithch from one user to another but with a password. 
 
-Either of the way if you want to switch then use a command `su\`
+Either of the way if you want to switch then use a command `su`
+
+`su - john`{{execute}}
 # Additional Commands for Practice
 
