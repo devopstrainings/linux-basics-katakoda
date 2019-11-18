@@ -25,4 +25,7 @@ To stop a service
 
 To restart a service 
 
-`systemctl restart nginx`
+`systemctl restart nginx`{{execute}}
+
+
+Assume in case if a machine reboots then 
