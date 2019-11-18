@@ -48,4 +48,5 @@ Syntax: cp -r dir1 dir2 --> It copies all the contents of dir1 into dir2, if dir
 
 Moving directories or renaming directories can be done using mv command.
 
-Syntax: mv soo
+Syntax: mv source destination 
+
