@@ -26,7 +26,7 @@ In this example I will be downloading tomcat from the internet.
 
 `wget http://mirrors.estointernet.in/apache/tomcat/tomcat-9/v9.0.27/bin/apache-tomcat-9.0.27.tar.gz`{{execute}}
 
-`ls`{{execute}} you can find a new tomcat.tar.gz here
+`ls`{{execute}} you can find a new apache-tomcat-9.0.27.tar.gz here
 
 ### Extracting the files from tar
 
@@ -34,5 +34,5 @@ Many times in Linux world all the softwares are packaged either in .zip or .tar 
 
 Syntax: tar -xf <filename>.tar.gz
 
-`tar -xf 
+`tar -xf apache-tomcat-9.0.27.tar.gz`{{execute}} 
 
