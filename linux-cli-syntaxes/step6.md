@@ -4,9 +4,13 @@ To change the working directory from one location to another we use cd command
 
 `Syntax: cd <directory>`
 
-`cd /bin`{{execute}} you will switch to /bin directory
+`cd /bin`{{execute}} 
 
-`pwd`{{execute}} you can check your current working directories using pwd command
+you will switch to /bin directory
+
+`pwd`{{execute}} 
+
+you can check your current working directories using pwd command
 
 `cd`{{execute}} simple cd command will take you to the home directory of the user
 
