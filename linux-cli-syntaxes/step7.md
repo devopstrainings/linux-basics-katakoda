@@ -25,4 +25,6 @@ Syntax: tail <filename>
 
 `tail -n 5 /etc/passwd`{{execute}} It gives the last 5 lines of the file
 
-The grep filter searches a file for a particular pattern of characters, and displays all lines that contain that pattern. The pattern that is searched in the file is referred to as the regular expression (grep stands for globally search for regular expression and print out).In case if you want to get particul
+The grep filter searches a file for a particular pattern of characters, and displays all lines that contain that pattern. The pattern that is searched in the file is referred to as the regular expression (grep stands for globally search for regular expression and print out).
+
+Syntax: grep word 
