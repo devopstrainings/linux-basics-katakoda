@@ -14,4 +14,6 @@ Syntax: mkdir <directory>
 
 `ls`{{execute}}
 
+### Remove Directory
+
 
