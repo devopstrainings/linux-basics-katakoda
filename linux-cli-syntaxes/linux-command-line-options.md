@@ -1,6 +1,6 @@
 ## Command line Syntaxes.
 
-
+You can see the following exa
 
 #### Commands
 In terminal the first argument we give to execute is a command.
