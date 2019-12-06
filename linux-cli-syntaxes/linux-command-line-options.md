@@ -2,9 +2,17 @@
 
 You can see in the picture like how commands would be in Linux.
 
+![Prompt Example](https://github.com/devopstrainings/linux-basics-katakoda/raw/master/linux-cli-syntaxes/images/01-connect.png)
+
+Also we need to understand the architecure of the Linux.
+
+
+
+In the above diagram-1 we are executing the commands on shell. Shell is a place where users will execute the command on server.
 
 
 #### Commands
+
 In terminal the first argument we give to execute is a command.
 
 For example:
