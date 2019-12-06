@@ -1,6 +1,8 @@
 ## Command line Syntaxes.
 
-You can see in the picture like how commands 
+You can see in the picture like how commands would be in Linux.
+
+
 
 #### Commands
 In terminal the first argument we give to execute is a command.
