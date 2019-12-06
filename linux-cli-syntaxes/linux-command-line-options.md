@@ -1,5 +1,7 @@
 ## Command line Syntaxes.
 
+
+
 #### Commands
 In terminal the first argument we give to execute is a command.
 
