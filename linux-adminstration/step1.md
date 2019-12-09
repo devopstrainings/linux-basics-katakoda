@@ -21,12 +21,12 @@ If you want to see every process related to the system and process belongs to ot
 `ps -e`{{execute}}
 
 
-Option `-e` show all process along with PID and PUSER, But in case of more information then you can use `-f` option along with the `-e` option.
+Option `-e` show all process along with PID and PNAME, But in case of more information then you can use `-f` option along with the `-e` option.
 
 `ps -ef`{{execute}}
 
 
-Ofcouse the above command shows all the process which we might look some process all the time, So you can filter the process by piping the output to `grep` command
+Ofcourse the above command shows all the process which we might look some process all the time, So you can filter the process by piping the output to `grep` command
 
 `ps -ef | grep ssh`{{execute}}
 
