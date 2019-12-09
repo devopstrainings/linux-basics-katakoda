@@ -34,13 +34,13 @@ Ofcouse the above command shows all the process which we might look some process
 
 As an administrator we might need to manage the process in the system. Some times we terminate process normally and sime times we might do it forcefully.
 
-To manage the process or to be pricise that to kill a process we use `kill` command.
+To manage the process or to be precise that to kill a process we use `kill` command.
 
 Let us create a process in the background.
 
 `sleep 300 &`{{execute}} 
 
-In above command `sleep 300` is going to run the process for `300` seconds, Where as `&` symbol is pushing the process to run in the background. So it will be useful to get the terminal immediealty and as well as such process will run in the background even if we close the session.
+In above command `sleep 300` is going to run the process for `300` seconds, Where as `&` symbol is pushing the process to run in the background. So it will be useful to get the terminal immediate and as well as such process will run in the background even if we close the session.
 
 Ok, let us find out the process ID for `sleep` command.
 
