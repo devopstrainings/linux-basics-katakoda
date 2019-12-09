@@ -98,4 +98,4 @@ Either of the way if you want to switch then use a command `su`
   1. Create a group with custom *GID*
   2. Create a user with custom *UID*
   3. After creating user try to change the *GID*
-  4. Try to remove a group to a user
+  4. Try to remove a supplementary group to a user
