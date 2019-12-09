@@ -75,7 +75,7 @@ So, we might need to kill such process using an force option `-9`.
 
 # Additional Commands for Practice
 
-  1. Process Priority - How t
+  1. Process Priority - How to set some priority to a process.
 
 # Self Exploring tasks
 
