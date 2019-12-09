@@ -97,4 +97,5 @@ Either of the way if you want to switch then use a command `su`
 
   1. Create a group with custom *GID*
   2. Create a user with custom *UID*
-  
+  3. After creating user try to change the *GID*
+  4. 
