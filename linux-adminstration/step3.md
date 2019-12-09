@@ -51,4 +51,5 @@ Then
 
 # Additional Tasks for Student Practice
 
-  1. 
+  1. Add sudo access to the group, Check whether it is working or not.
+  
