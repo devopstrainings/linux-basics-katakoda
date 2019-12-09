@@ -78,4 +78,4 @@ So, we might need to kill such process using an force option `-9`.
 
 # Self Exploring tasks
 
-  1.  
+  1. What happens to the childs if you kill a parent pr 
