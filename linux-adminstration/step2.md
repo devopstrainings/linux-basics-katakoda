@@ -96,4 +96,5 @@ Either of the way if you want to switch then use a command `su`
 # Additional Commands for Practice
 
   1. Create a group with custom *GID*
-  2. 
+  2. Create a user with custom *UID*
+  
