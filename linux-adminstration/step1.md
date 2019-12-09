@@ -76,4 +76,6 @@ So, we might need to kill such process using an force option `-9`.
 # Additional Commands for Practice
 
 
-# Self E
+# Self Exploring tasks
+
+1. 
