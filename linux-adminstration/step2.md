@@ -95,4 +95,4 @@ Either of the way if you want to switch then use a command `su`
 
 # Additional Commands for Practice
 
-  1. Create a user with 
+  1. Create a group with custom GID*
