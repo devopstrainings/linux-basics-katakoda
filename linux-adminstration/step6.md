@@ -60,3 +60,4 @@ Owners of a file are three
   3. Others as Owners. (`o`) 
 
 
+Following diagram illustrates the out
