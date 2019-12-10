@@ -73,5 +73,7 @@ chmod ugo+rwx sample.txt
 ls -l sample.txt
 `{{execute}}
 
-Those options can be 
+Those options can be used in the way shown in the following diagram.
+
+
 
