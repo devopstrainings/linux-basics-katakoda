@@ -48,3 +48,4 @@ ls -l sample.txt
 
 ----
 
+Permissions of a file 
