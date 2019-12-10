@@ -78,8 +78,10 @@ We can also install a package using the URL directly.
 
 
 # Additional Commands for Practice 
+  
   `rpm`
 
 # Additional Tasks for Student Practice
   1. Check what is gpg in yum and how it will be be used to enable security
   2. Explore `rpm` commands deal the task that what `yum` is doing.
+  
