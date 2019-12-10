@@ -71,5 +71,7 @@ touch sample.txt
 ls -l sample.txt 
 chmod ugo+rwx sample.txt 
 ls -l sample.txt
+`{{execute}}
 
+`
 
