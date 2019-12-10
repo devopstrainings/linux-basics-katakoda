@@ -6,6 +6,8 @@ In the echo system of Linux OS, Files properties management are categorized in t
 
 When a file created inside a system, that file has to be associated to a `user` which is **Owner** and also a `group` which is **Group Owner**.
 
+When we create a file the permissions to that file is getting the information from the user whom created that file. 
+
 You can check the permissions of a file using `ls -l` command.
 
 `
