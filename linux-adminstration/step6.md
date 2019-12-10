@@ -35,7 +35,7 @@ ls -l sample.txt
 
 In above situation you are dealing with a file, If that is a directory then use `-R` option along with both the commands.
 
-One more thing from the above situation is we are using two commands to change the owner and group, Where as we can do that with one single command
+One more thing from the above situation is we are using two commands to change the owner and group, Where as we can do that with one single command.
 
 `
 chown centos:devops sample.txt
@@ -59,4 +59,3 @@ Owners of a file are three
   2. Group Owner (`g`)
   3. Others as Owners. (`o`) 
 
-  
