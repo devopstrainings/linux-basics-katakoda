@@ -17,7 +17,6 @@ ls -l sample.txt
 
 When we want to change the ownership we use `chown` command.
 When we want to change the group ownership then we use `chgrp` command.
-
 To change ownership:
 
 `
@@ -49,6 +48,11 @@ ls -l sample.txt
 ----
 
 Permissions of a file telling that which owner can do what.
+
+The operations performed on the file are 
+  1. read 
+  2. write 
+  
 
 Owners of a file are three
   1. File Owner
