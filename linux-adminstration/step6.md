@@ -10,7 +10,7 @@ You can check the permissions of a file using `ls -l` command.
 
 `
 touch sample.txt 
-ls -l 
+ls -l sample.txt
 `{{execute}}
 
 When we want to change the ownership we use `chown` command.
@@ -20,7 +20,7 @@ To change ownership:
 
 `
 chown centos sample.txt
-ls -l 
+ls -l sample.txt
 `{{execute}}
 
 
@@ -29,7 +29,7 @@ To change group ownership:
 `
 groupadd devops
 chgrp devops sample.txt
-ls -l 
+ls -l sample.txt
 `{{execute}}
 
 When we create a file the permissions to that file is getting the information from the user whom created that file. 
