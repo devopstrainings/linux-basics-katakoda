@@ -32,6 +32,8 @@ chgrp devops sample.txt
 ls -l sample.txt
 `{{execute}}
 
-In above situation you are dealing with a file, If that is a directory then use `-R` option alo
+In above situation you are dealing with a file, If that is a directory then use `-R` option along with both the commands.
+
+
 
 When we create a file the permissions to that file is getting the information from the user whom created that file. 
