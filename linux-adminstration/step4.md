@@ -80,4 +80,4 @@ We can also install a package using the URL directly.
 # Additional Commands for Practice 
 
 # Additional Tasks for Student Practice
-  1. Check what is gpgcheck 
+  1. Check what is gpg in yum and how it 
