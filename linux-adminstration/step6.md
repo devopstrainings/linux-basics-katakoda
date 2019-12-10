@@ -16,6 +16,7 @@ ls -l
 When we want to change the ownership we use `chown` command.
 When we want to change the group ownership then we use `chgrp` command.
 
+To change ownership:
 
 `
 chown centos sample.txt
