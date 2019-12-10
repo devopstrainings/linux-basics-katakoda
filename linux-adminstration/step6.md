@@ -34,6 +34,9 @@ ls -l sample.txt
 
 In above situation you are dealing with a file, If that is a directory then use `-R` option along with both the commands.
 
+One more thing from the above situation is we are using two commands to change the owner and group, Where as we can do that with one single command
 
+`
+chown 
 
 When we create a file the permissions to that file is getting the information from the user whom created that file. 
