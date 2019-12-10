@@ -60,4 +60,5 @@ Owners of a file are three
   3. Others as Owners. (`o`) 
 
 
-Following diagram illustrates the output of `ls -l` command showing the permissions
+Following diagram illustrates the output of `ls -l` command showing the permissions.
+
