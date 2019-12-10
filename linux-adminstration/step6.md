@@ -69,5 +69,7 @@ Now we can change those permissions using `chmod` command.
 `
 touch sample.txt 
 ls -l sample.txt 
+chmod ugo+rwx sample.txt 
+ls -l sample.txt
 
 
