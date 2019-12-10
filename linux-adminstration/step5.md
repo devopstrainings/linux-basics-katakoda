@@ -57,4 +57,5 @@ This nginx service along with the package you installed in Package Management se
 
 # Additional Commands for Practice
 
-  1. How to add a new service to `systemd` using syst
+  1. How to add a new service to `systemd` using systtemd template
+  2. 
