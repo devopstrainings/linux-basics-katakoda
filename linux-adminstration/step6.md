@@ -62,7 +62,7 @@ Owners of a file are three
 
 Following diagram illustrates the output of `ls -l` command showing the permissions.
 
-![Permissions](https://github.com/devopstrainings/linux-basics-katakoda/raw/master/linux-cli-syntaxes/images/03-architecture.jpeg)
+![Permissions](https://github.com/devopstrainings/linux-basics-katakoda/blob/master/linux-adminstration/images/permissions.jpeg)
 
-?raw=true
+
 
