@@ -50,9 +50,9 @@ ls -l sample.txt
 Permissions of a file telling that which owner can do what.
 
 The operations performed on the file are 
-  1. read 
-  2. write 
-  
+  1. read (r)
+  2. write (w)
+  3. execute (x)
 
 Owners of a file are three
   1. File Owner
