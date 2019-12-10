@@ -49,6 +49,7 @@ ls -l sample.txt
 ----
 
 Permissions of a file telling that which owner can do what.
+
 Owners of a file are three
   1. File Owner
   2. Group Owner 
