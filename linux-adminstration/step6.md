@@ -66,5 +66,6 @@ Following diagram illustrates the output of `ls -l` command showing the permissi
 
 Now we can change those permissions using `chmod` command.
 
-
+`
+ch
 
