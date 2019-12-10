@@ -77,4 +77,6 @@ We can also install a package using the URL directly.
 `yum install https://pkg.jenkins.io/redhat-stable/jenkins-2.190.2-1.1.noarch.rpm -y`{{execute}}
 
 
-# Additional Commands for Practice
+# Additional Commands for Practice 
+
+# Additional Tasks for Student Practice
