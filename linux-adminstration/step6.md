@@ -64,5 +64,7 @@ Following diagram illustrates the output of `ls -l` command showing the permissi
 
 ![Permissions](https://github.com/devopstrainings/linux-basics-katakoda/blob/master/linux-adminstration/images/permissions.jpeg)
 
+Now we can change those permissions using `chmod` command.
+
 
 
