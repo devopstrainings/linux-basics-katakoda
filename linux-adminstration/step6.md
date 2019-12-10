@@ -75,5 +75,6 @@ ls -l sample.txt
 
 Those options can be used in the way shown in the following diagram.
 
+![Permissions](https://github.com/devopstrainings/linux-basics-katakoda/blob/master/linux-adminstration/images/permissions.jpeg)
 
 
