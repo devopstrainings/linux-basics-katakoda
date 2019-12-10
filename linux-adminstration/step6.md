@@ -75,7 +75,7 @@ ls -l sample.txt
 
 Those options can be used in the way shown in the following diagram.
 
-![Chmod Illustration](https://github.com/devopstrainings/linux-basics-katakoda/blob/master/linux-adminstration/images/permissions.jpeg)
+![Chmod Illustration](https://github.com/devopstrainings/linux-basics-katakoda/raw/master/linux-adminstration/images/permissions.jpeg)
 
 
 
