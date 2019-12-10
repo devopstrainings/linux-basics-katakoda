@@ -38,6 +38,9 @@ One more thing from the above situation is we are using two commands to change t
 
 `
 chown centos:devops sample.txt
-
+ls -l sample.txt
+chown root:root sample.txt 
+ls -l sample.txt 
+`{{execute}}
 
 When we create a file the permissions to that file is getting the information from the user whom created that file. 
