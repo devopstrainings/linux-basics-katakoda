@@ -80,6 +80,3 @@ Those options can be used in the way shown in the following diagram.
 
 
 # Additional Commands for Practice
-
-  1. How to add a new service to `systemd` using `systemd` template.
-  2. How to add a new service using `initd` script.
