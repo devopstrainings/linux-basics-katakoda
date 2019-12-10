@@ -3,7 +3,7 @@ A server is used to serve a service which runs all the time in the background. U
 
 Until CentOS-6 OS we use to manage services with `service` and `chkconfig` commands. But from CentOS-7 we have single command to manage which is `systemctl`.
 
-You can explore 
+You can explore importance of `systemd` 
 
 To list all the services which are running in the Operating System.
 
