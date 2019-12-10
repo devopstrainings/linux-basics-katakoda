@@ -48,4 +48,4 @@ ls -l sample.txt
 
 ----
 
-Permissions of a file 
+Permissions of a file telling that which owner can do what.
