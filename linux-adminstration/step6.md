@@ -73,5 +73,5 @@ chmod ugo+rwx sample.txt
 ls -l sample.txt
 `{{execute}}
 
-`
+Those options can be 
 
