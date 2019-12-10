@@ -27,7 +27,8 @@ ls -l
 To change group ownership:
 
 `
-chgrp centos sample.txt
+groupadd devops
+chgrp devops sample.txt
 ls -l 
 `{{execute}}
 
