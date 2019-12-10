@@ -55,6 +55,6 @@ The operations performed on the file are
   3. execute (`x`)
 
 Owners of a file are three
-  1. File Owner (`u)
-  2. Group Owner 
-  3. Others as Owners. 
+  1. File Owner (`u`)
+  2. Group Owner (`g`)
+  3. Others as Owners. () 
