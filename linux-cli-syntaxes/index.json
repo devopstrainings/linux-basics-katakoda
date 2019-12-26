@@ -29,7 +29,10 @@
         "title": "Copy Files",
         "text": "06-copy-files.md"
       },
-
+      {
+        "title": "Rename Files",
+        "text": "06-rename-files.md"
+      },
       {
         "title": "Dealing with directories",
         "text": "step60.md"
