@@ -22,6 +22,6 @@ To check the disk information
 
 `fdisk -l`{{execute}}
 
-
+To check the architecture whether it is 
 
 With this information in hand you will have an idea of what you are dealing with and the specifications of that Linux machine.
