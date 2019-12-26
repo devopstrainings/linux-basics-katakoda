@@ -14,7 +14,7 @@ We can create files in multiple ways/commands in Linux. On a basic we will use `
 
 `touch sample notes.txt lambda.py`{{execute}} 
 
-`ls`{{execute}} 
+
 
 Now you can use ls command to check the list of newly created files that you have just created using touch.
 
