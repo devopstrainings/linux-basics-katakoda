@@ -14,7 +14,7 @@ To check the file created.
 
 `ls -l`{{execute}} 
 
-In the above `ls` command output you can see the file is an empty size file by referring the fifth coloum.
+In the above `ls` command output you can see the file is an empty size file by referring the fifth colum.
 
 `touch` command can create multiple files at a single go as shown.
 
