@@ -39,7 +39,7 @@ For Example:
 
 #### Inputs
 
-Certain commands require inputs, Inputs are given with options in some commands and with out options also some commands will take the input.
+Certain commands require inputs, Inputs are given with options in some commands and without options also some commands will take the input.
 
 For Example:
 
