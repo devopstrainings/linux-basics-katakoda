@@ -11,7 +11,7 @@ Also, followed with Network information commands.
 
 #  ------
 
-But to start practicing this scenario, You need to create a **`Centos 7`** Instance created in Amazon.
+But to start practicing this scenario, You need to create **`Centos 7`** Instance created in Amazon.
 
 Fetch the **`Public IP`** of the server and connect to the session using the following command on the right side terminal after once you start the session.
 
