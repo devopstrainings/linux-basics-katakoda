@@ -4,7 +4,7 @@
 
 In Linux, in order to change the name of a file we use `mv` command.
 
-`Syntax: mv source-file destination-file`
+`Syntax: mv <source-file> <destination-file>`
 
 `mv notes.txt sample`{{execute}} 
 
