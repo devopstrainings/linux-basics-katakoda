@@ -1,4 +1,4 @@
-## |
+## 
 ## Command line Syntaxes.
 
 You can see in the picture like how commands would be in Linux.
