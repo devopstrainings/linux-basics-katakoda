@@ -1,7 +1,7 @@
 # #
 ## Copying Files
 
-To copy a file we have `cp` command. Alternatively we have `rsync` but mostly we prefer to use `cp` command in general.
+In Linux to copy a file we have `cp` command. Alternatively we have `rsync` but mostly we prefer to use `cp` command in general.
 
 `Syntax: cp source-file destination-file`
 
