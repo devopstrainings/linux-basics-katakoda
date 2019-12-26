@@ -14,9 +14,9 @@ To check the file created.
 
 `ls -l`{{execute}} 
 
-In the above `ls` command output you can see the file
+In the above `ls` command output you can see the file.
 
-`touch` command can create multiple files at a single go as shown
+`touch` command can create multiple files at a single go as shown.
 
 `touch sample notes.txt lambda.py`{{execute}} 
 
