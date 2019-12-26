@@ -27,7 +27,8 @@ To check the architecture whether it is 32bit or 64bit
 `uname -i`{{execute}}
 
 ```
-32 bit 
+32 bit ->  i386/i586/i686
+
 
 PS Note: Starting CentOS 7, We dont have operating systems coming in 32 bit any more.. Hence we always see 64 bit.
 
