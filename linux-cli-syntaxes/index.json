@@ -7,7 +7,7 @@
     "steps": [
       {
         "title": "Linux Command Line Options",
-        "text": "linux-command-line-options.md"
+        "text": "step1.md"
       },
       {
         "title": "Hardware and Operating system Information",
