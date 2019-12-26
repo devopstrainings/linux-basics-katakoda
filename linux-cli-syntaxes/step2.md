@@ -1,7 +1,7 @@
 ## ------------------------------------
 ## Some Quick Examples.
 
-Once you login into the machine. you might want to see the information related to hardware and operating system of that machine.
+Once you login into the machine, you might want to see the information related to hardware and operating system of that machine.
 
 To check the vendor of the operating system.
 
