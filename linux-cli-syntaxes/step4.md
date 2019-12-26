@@ -24,7 +24,7 @@ To check the file created.
 
 `ls -l`{{execute}} 
 
-Now you can use ls command to check the list of newly created files that you have just created using touch.
+
 
 ### Removing Files
 
