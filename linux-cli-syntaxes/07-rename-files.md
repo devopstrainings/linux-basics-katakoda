@@ -12,7 +12,7 @@ You can check whether the file has been renamed or not by referring `ls` command
 
 `ls`{{execute}}
 
-**NOTE:** Linux is case-s
+**NOTE:** Linux is case-sensitive filesystems, Hence 
 
 If destination exists it will overwrite the file and in some cases it will ask you for a prompt (yes/no) to overwrite the file or not.
 
