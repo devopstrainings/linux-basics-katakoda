@@ -11,7 +11,7 @@ You can check whether the file has been copied or not by referring `ls` command 
 
 `ls`{{execute}}
 
-If destination exists it will overwrite the file and in some cases it will ask you for a prompt (yes/no) to overwrite the file or not.
+**NOTEIf destination exists it will overwrite the file and in some cases it will ask you for a prompt (yes/no) to overwrite the file or not.
 
 ### Renaming/Moving a File
 
