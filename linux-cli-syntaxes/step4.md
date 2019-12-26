@@ -14,6 +14,8 @@ To check the file created.
 
 `ls -l`{{execute}} 
 
+In the above command outp
+
 `touch` command can create multiple files at a single go as shown
 
 `touch sample notes.txt lambda.py`{{execute}} 
