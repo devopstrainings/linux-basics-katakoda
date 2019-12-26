@@ -26,4 +26,6 @@ To check the architecture whether it is 32bit or 64bit
 
 `uname -i`{{execute}}
 
+PS Note
+
 With this information in hand you will have an idea of what you are dealing with and the specifications of that Linux machine.
