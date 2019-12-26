@@ -32,7 +32,7 @@ To check the architecture whether it is 32bit or 64bit
 ```
 
 
-PS Note: Starting CentOS 7, We dont have operating systems coming in 32 bit any more.. Hence we always see 64 bit.
+PS Note: Starting CentOS 7, We don't have operating systems coming in 32 bit any more.. Hence we always see 64 bit.
 
 
 With this information in hand you will have an idea of what you are dealing with and the specifications of that Linux machine.
