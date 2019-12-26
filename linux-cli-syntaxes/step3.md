@@ -9,7 +9,7 @@ In windows OS you generally see the list of files when you open a particular fol
 
 Note that `ls` command works without an input i.e both the options and path are optional. It works with or without them.
 
-`ls -lt /opt`{{execute}}
+`ls -ld /opt`{{execute}}
 
 Get list of files and directories but it may not show hidden files.
 
