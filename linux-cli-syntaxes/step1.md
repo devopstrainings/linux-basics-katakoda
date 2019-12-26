@@ -21,7 +21,7 @@ For example:
 
 `uname`{{execute}} 
 
-uname is a command and that is the first keyword/argument of a command line syntax.
+`uname` is a command and that is the first keyword/argument of a command line syntax.
 
 #### Options
 
