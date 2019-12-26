@@ -8,7 +8,7 @@ We can create files in multiple ways/commands in Linux. On a basic we will use `
 
 `touch` command by default creates an empty file.
 
-`touch`{{execute}}
+`touch file`{{execute}}
 
 `touch sample notes.txt lambda.py`{{execute}} 
 
