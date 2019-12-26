@@ -18,4 +18,4 @@ It may ask you for a prompt `(yes/no)` **[Not all the times]** to remove the fil
 
 `ls`{{execute}} 
 
-**Note:** Be careful while removing a file as it deletes all the contents of the file and retireving the lost data is not possible in most of the cases.
+**Note:** Be careful while removing a file as it deletes all the contents of the file and retrieving the lost data is not possible in most of the cases.
