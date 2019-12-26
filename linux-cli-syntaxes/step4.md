@@ -20,7 +20,9 @@ In the above `ls` command output you can see the file is an empty size file by r
 
 `touch sample notes.txt lambda.py`{{execute}} 
 
+To check the file created.
 
+`ls -l`{{execute}} 
 
 Now you can use ls command to check the list of newly created files that you have just created using touch.
 
