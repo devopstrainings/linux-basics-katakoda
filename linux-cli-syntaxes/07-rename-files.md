@@ -8,7 +8,7 @@ In Linux, in order to change the name of a file we use `mv` command.
 
 `mv notes.txt note.txt`{{execute}}
 
-You can check whether the file has been copied or not by referring `ls` command output.
+You can check whether the file has been renamed or not by referring `ls` command output.
 
 `ls`{{execute}}
 
