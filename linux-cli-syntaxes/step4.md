@@ -10,6 +10,10 @@ We can create files in multiple ways/commands in Linux. On a basic we will use `
 
 `touch file.txt`{{execute}}
 
+To check the file created.
+
+`ls -l`{{execute}} 
+
 `touch` command can create multiple files at a single go as shown
 
 `touch sample notes.txt lambda.py`{{execute}} 
