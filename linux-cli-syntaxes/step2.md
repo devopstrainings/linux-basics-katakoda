@@ -26,6 +26,6 @@ To check the architecture whether it is 32bit or 64bit
 
 `uname -i`{{execute}}
 
-PS Note: Starting CentOS 7, We dont have 
+PS Note: Starting CentOS 7, We dont have operating systems coming in 
 
 With this information in hand you will have an idea of what you are dealing with and the specifications of that Linux machine.
