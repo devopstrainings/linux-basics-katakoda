@@ -1,6 +1,6 @@
 # #
 
-### Removing Files
+## Removing Files
 
 To remove files we have `rm`command , We can aslo use `unlink` command which does the same thing yet rm is widely preffered and used command.
 
