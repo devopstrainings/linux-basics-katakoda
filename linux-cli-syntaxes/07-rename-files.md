@@ -24,7 +24,6 @@ You can check whether the file has been renamed or not by referring `ls` command
 
 `mv` command intention is to move the file from one location to another yet we use mainly to rename the files as well.
 
-`ls`{{execute}} 
 
-you can observe that the notes.txt file has been renamed to sample.
+
 
