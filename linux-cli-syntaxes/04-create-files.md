@@ -1,5 +1,4 @@
-# #
-
+## ____________________________________________
 ## Creating Files
 
 We can create files in multiple ways/commands in Linux. On a basic we will use `touch` command to create the file.
