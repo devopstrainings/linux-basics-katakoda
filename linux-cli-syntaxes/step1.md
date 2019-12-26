@@ -5,7 +5,7 @@ You can see in the picture like how commands would be in Linux.
 
 ![Prompt Example](https://github.com/devopstrainings/linux-basics-katakoda/raw/master/linux-cli-syntaxes/images/02-prompt.JPG)
 
-Also we need to understand the architecure of the Linux.
+Also, we need to understand the architecure of the Linux.
 
 ![Prompt Example](https://github.com/devopstrainings/linux-basics-katakoda/raw/master/linux-cli-syntaxes/images/03-architecture.jpeg)
 
