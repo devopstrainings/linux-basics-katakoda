@@ -2,7 +2,7 @@
 
 ## Renaming/Moving a File
 
-In Linuxorder to change the name of a file we use `mv` command
+In Linux, in order to change the name of a file we use `mv` command.
 
 `Syntax: mv source-file destination-file`
 
