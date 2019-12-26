@@ -23,7 +23,7 @@ Get list of files with long format, usually shows properties of a file
 
 `ls -l`{{execute}} 
 
- We can combine multiple options as well. (All commands may not support combining options)
+ We can combine multiple options as well. 
 
 `ls -Al`{{execute}}
 
