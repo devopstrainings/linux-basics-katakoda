@@ -6,7 +6,7 @@ In this course we are going to discuss the administrative commands.
   4. Service Management 
   5. Permission Management
 
-Also followed with Network information commands.
+Also, followed with Network information commands.
 
 
 #  ------
