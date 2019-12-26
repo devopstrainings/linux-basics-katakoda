@@ -7,43 +7,43 @@
     "steps": [
       {
         "title": "Linux Command Line Options",
-        "text": "step1.md"
+        "text": "01-command-line-syntax.md"
       },
       {
         "title": "Hardware and Operating system Information",
-        "text": "step2.md"
+        "text": "02-hw-sw-info.md"
       },
       {
         "title": "Listing Files and Directories",
-        "text": "step3.md"
+        "text": "03-list-files-directory.md"
       },
       {
         "title": "Creating files",
-        "text": "step4.md"
+        "text": "04-create-files.md"
       },
       {
         "title": "Removing Files",
-        "text": "step41.md"
+        "text": "step5.md"
       }
       {
         "title": "Copy and Move a file",
-        "text": "step5.md"
+        "text": "step50.md"
       },
       {
         "title": "Dealing with directories",
-        "text": "step6.md"
+        "text": "step60.md"
       },
       {
         "title": "Filter Commands",
-        "text": "step7.md"
+        "text": "step70.md"
       },
       {
         "title": "Displaying the contents of a file",
-        "text": "step8.md"
+        "text": "step80.md"
       },
       {
         "title": "Operations on files",
-        "text": "step9.md"
+        "text": "step90.md"
       }
     ],
     "intro": {
