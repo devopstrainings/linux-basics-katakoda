@@ -1,7 +1,7 @@
 ## ------------------------------------
 ## Some Quick Examples.
 
-In general when we purchase a new hardware like Laptops or Desktops we generally look into the configuration of the machine. So let us try to 
+In general when we purchase a new hardware like Laptops or Desktops we generally look into the configuration of the machine. So let us try to do the same for the server as well and this is 
 Once you login into the machine, you might want to see the information related to hardware and operating system of that machine.
 
 To check the vendor of the operating system.
