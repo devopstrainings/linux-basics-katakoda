@@ -5,7 +5,7 @@ In windows OS you generally see the list of files when you open a particular fol
 
 `ls` is a Linux shell command that lists directory contents of files and directories. Some practical examples of ls command are shown below.
 
-`Syntax: ls <options> <Path>`
+`Syntax: ls <Options> <Path>`
 
 Note that `ls` command works without an input i.e both the options and path are optional. It works with or without them.
 
