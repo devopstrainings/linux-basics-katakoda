@@ -8,7 +8,7 @@ In Linux to remove files we have `rm`command, We can also use `unlink` command w
 
 `rm sample`{{execute}} 
 
-You can check whether the file is removed or not..
+Now again when you list the files using `ls` command the sample file should be gone as you have removed it.
 
 `ls`{{execute}}
 
@@ -17,7 +17,5 @@ It may ask you for a prompt `(yes/no)` **[Not all the times]** to remove the fil
 `rm -f notes.txt`{{execute}}
 
 `ls`{{execute}} 
-
-
 
 ### Note: Be careful while removing a file as it deletes all the contents of the file and retireving the lost data is not possible in most of the cases.
