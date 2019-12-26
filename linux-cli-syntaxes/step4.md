@@ -14,7 +14,7 @@ To check the file created.
 
 `ls -l`{{execute}} 
 
-In the above command outp
+In the above `ls` command output you can see the file
 
 `touch` command can create multiple files at a single go as shown
 
