@@ -2,7 +2,7 @@
 
 ## Removing Files
 
-In Linux to remove files we have `rm`command, We can aslo use `unlink` command which does the same thing yet rm is widely preffered and used command.
+In Linux to remove files we have `rm`command, We can also use `unlink` command which does the same thing yet rm is widely preffered and used command.
 
 `Syntax: rm <filename>`
 
