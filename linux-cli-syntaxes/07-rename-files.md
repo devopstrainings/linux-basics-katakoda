@@ -12,7 +12,7 @@ You can check whether the file has been renamed or not by referring `ls` command
 
 `ls`{{execute}}
 
-**NOTE:** Unlike Windows, Linux filesystems are Case-Sensitive ones. Meaning the file `note.txt` & `NOTE.txt` can be referred as two different files. But windows `FAT` & `NTFS` filesystems are Case-Insensitive 
+**NOTE:** Unlike Windows, Linux filesystems are Case-Sensitive ones, Meaning the file `note.txt` & `NOTE.txt` can be referred as two different files. But windows `FAT` & `NTFS` filesystems are Case-Insensitive 
 
 If destination exists it will overwrite the file and in some cases it will ask you for a prompt (yes/no) to overwrite the file or not.
 
