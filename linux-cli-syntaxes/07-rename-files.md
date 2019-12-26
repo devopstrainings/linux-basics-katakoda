@@ -6,7 +6,9 @@ In Linux, in order to change the name of a file we use `mv` command.
 
 `Syntax: mv <source-file> <destination-file>`
 
-`mv notes.txt note`{{execute}} 
+`mv notes.txt note.txt`{{execute}}
+
+
 
 If destination exists it will overwrite the file and in some cases it will ask you for a prompt (yes/no) to overwrite the file or not.
 
