@@ -8,6 +8,8 @@ In Linux to remove files we have `rm`command, We can also use `unlink` command w
 
 `rm sample`{{execute}} 
 
+You can check whether t
+
 It may ask you for a prompt `(yes/no)` **[Not all the times]** to remove the files. You can suppress the prompt by adding `-f` option in the command.
 
 `rm -f notes.txt`{{execute}}
