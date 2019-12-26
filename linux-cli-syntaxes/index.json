@@ -24,11 +24,12 @@
       {
         "title": "Removing Files",
         "text": "05-remove-files.md"
-      }
+      },
       {
         "title": "Copy Files",
-        "text": "06-c.md"
+        "text": "06-copy-files.md"
       },
+
       {
         "title": "Dealing with directories",
         "text": "step60.md"
