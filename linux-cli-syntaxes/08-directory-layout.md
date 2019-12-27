@@ -10,6 +10,6 @@ You can compare it with linux in the following diagram.
 
 In windows we use `\` (backslash) to give the path of a file or a directory but in Unix & Linux we use `/` (forward slash).
 
-In Linux we have a 
+In Linux we have a **ROOT DIRECTORY** where the path of a 
 
 Unlike Windows, Linux is Command line based OS, So if you want to move from one directory to another directory we would be using commands to get it done.
