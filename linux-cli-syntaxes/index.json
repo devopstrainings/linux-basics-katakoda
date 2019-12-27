@@ -67,7 +67,8 @@
     "imageid": "openshift-3-11"
   },
   "environment": {
-      "showdashboard": false,
+      "showdashboard": true,
+      "dashboard": "Dashboard",
       "uilayout": "terminal-iframe",
       "hideintro": false,
       "hidefinish": false
