@@ -18,4 +18,4 @@ sed -i s/wpfrontend-wordpress.apps.example.com/`hostname`/ ~/labs/lab4-step1/wor
 git clone --depth 1 --single-branch --branch centos7 https://github.com/fatherlinux/container-supply-chain.git ~/labs/lab2-step4/
 systemctl restart iptables
 
-echo "Container host is now ready."
+echo "Host ready for connecting now"
