@@ -6,3 +6,5 @@ Details required are
   2. Account Name (Choose any name of your choice)
 
 Then you will be taken to SignUP form which asks more info.
+
+Next, Choose your account as ""
