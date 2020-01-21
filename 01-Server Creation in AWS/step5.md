@@ -27,4 +27,5 @@ N.Virginia Region: https://console.aws.amazon.com/ec2/home?region=us-east-1#Imag
 Oregon Region : https://console.aws.amazon.com/ec2/home?region=us-west-2#Images:visibility=public-images;ownerAlias=973714476881;sort=name
 Ohio Region : https://console.aws.amazon.com/ec2/home?region=us-east-2#Images:visibility=public-images;ownerAlias=973714476881;sort=name
 
-Then Choose an AMI.
+Then Choose an AMI then Launch.
+
