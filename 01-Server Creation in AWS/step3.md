@@ -1,2 +1,4 @@
 # ---------------------------------------------------------------------------
-# Next you will be prompted to prov
+# Next you will be prompted for payment details.
+
+Amazon required to validate that you are a person whom is creating account rather than a ROBOT
