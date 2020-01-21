@@ -5,4 +5,4 @@
 
 # Lets create a server in Amazon.
 
-![]
+![Choose EC2]
