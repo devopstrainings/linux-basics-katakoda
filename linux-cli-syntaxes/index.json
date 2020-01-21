@@ -63,9 +63,9 @@
     }
   },
   "backend": {
-    "trainingid": "openshift-3-11",
+    
     "imageid": "openshift-3-11",
-    "port": 8443  
+
   },
   "environment": {
       "uilayout": "terminal",
