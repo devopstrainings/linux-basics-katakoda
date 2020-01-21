@@ -36,4 +36,6 @@ Select **"t2.micro"** and click on **"Review and Launch"**.
 
 Then **"Proceed without a key pair"**
 
-![Key Pair]
+![Key Pair](https://gitlab.com/cit-devops/intros/uploads/7c2fd2045593377289fbdc7156a0a8a8/image.png)
+
+
