@@ -41,4 +41,7 @@ Then **"Proceed without a key pair"**
 
 Finally after the server created, You will get a public IP. Connect to the server using the following command.
 
-`ssh root@<>`
+`ssh root@<PUBLIC-IP>`
+
+Use the following credentials.
+
