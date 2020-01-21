@@ -64,7 +64,7 @@
   },
   "backend": {
     
-    "imageid": "openshift-3-11",
+    "imageid": "centos"
 
   },
   "environment": {
