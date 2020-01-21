@@ -2,4 +2,4 @@
 
 http://aws.amazon.com
 
-![]
+![Screenshot Of AWS Home Screen]
