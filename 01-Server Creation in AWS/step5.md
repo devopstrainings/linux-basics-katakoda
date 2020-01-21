@@ -41,4 +41,4 @@ Then **"Proceed without a key pair"**
 
 Finally after the server created, You will get a public IP. Connect to the server using the following command.
 
-`ssh `
+`ssh `{{execute}}
