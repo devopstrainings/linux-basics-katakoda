@@ -34,4 +34,6 @@ Then Choose an AMI then Launch.
 Select **"t2.micro"** and click on **"Review and Launch"**.
 
 
-THen **"Proceed without a "**
+Then **"Proceed without a key pair"**
+
+![]
