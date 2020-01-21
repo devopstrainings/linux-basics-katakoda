@@ -5,4 +5,4 @@ Details required are
   1. Email Address 
   2. Account Name (Choose any name of your choice)
 
-Then you will be taken to 
+Then you will be taken to SignUP form which asks more info.
