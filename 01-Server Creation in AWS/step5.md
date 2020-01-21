@@ -31,6 +31,4 @@ Then Choose an AMI then Launch.
 
 ![Choose AMI](https://gitlab.com/cit-devops/intros/uploads/787b1d027563c36c6d410992c133ef16/image.png)
 
-Select "t2.micro" and Proceed.
-
-![Choose Network](https://gitlab.com/cit-devops/intros/uploads/2d0eba6bc61849ef571e3a80605b0987/image.png)
+Select "t2.micro" and click on "RE"
