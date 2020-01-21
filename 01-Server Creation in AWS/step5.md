@@ -46,3 +46,4 @@ Finally after the server created, You will get a public IP. Connect to the serve
 Use the following credentials.
 
 # Username / Password : root / DevOps321
+
