@@ -3,4 +3,6 @@
 
 Amazon required to validate that you are a person whom is creating account rather than a ROBOT, So they need a Credit/Debit card details for validating. 
 
-So 
+So you need to provide the following details 
+
+  1. 
