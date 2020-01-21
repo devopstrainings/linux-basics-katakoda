@@ -51,8 +51,8 @@
       }
     ],
     "intro": {
-      "courseData": "background.sh",
-      "code": "foreground.sh",
+      //"courseData": "background.sh",
+      //"code": "foreground.sh",
       "text": "intro.md"
     },
     "finish": {
