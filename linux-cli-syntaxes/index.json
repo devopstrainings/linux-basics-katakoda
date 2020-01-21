@@ -70,7 +70,7 @@
   "environment": {
       "showdashboard": true,
       "dashboard": "Dashboard",
-      "uilayout": "terminal-iframe",
+      "uilayout": "terminal",
       "hideintro": false,
       "hidefinish": false
   }
