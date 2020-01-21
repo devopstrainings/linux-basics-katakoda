@@ -29,4 +29,5 @@ Ohio Region : https://console.aws.amazon.com/ec2/home?region=us-east-2#Images:vi
 
 Then Choose an AMI then Launch.
 
-![Choose AMI]
+![Choose AMI](https://gitlab.com/cit-devops/intros/uploads/787b1d027563c36c6d410992c133ef16/image.png)
+
