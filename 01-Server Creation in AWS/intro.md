@@ -1,1 +1,1 @@
-# You need to create an account in 
+# You can register the new account with Amazon with the following a
