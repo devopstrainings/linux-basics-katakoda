@@ -1,2 +1,2 @@
-# Lets create a Linux Server.
+# Lets create a CentOS Server.
 
