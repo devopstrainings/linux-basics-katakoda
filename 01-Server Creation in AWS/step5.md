@@ -29,3 +29,4 @@ Ohio Region : https://console.aws.amazon.com/ec2/home?region=us-east-2#Images:vi
 
 Then Choose an AMI then Launch.
 
+![Choose AMI]
