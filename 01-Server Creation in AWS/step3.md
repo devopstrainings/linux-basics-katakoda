@@ -10,4 +10,4 @@ So you need to provide the following details
 
 After submitting the details, You may be redirected to BANK authentication, So complete it and come back
 
-![]
+![BANK INFO]()
