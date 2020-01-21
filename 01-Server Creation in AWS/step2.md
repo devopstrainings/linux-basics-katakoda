@@ -11,3 +11,4 @@ Next, Choose your account as *PERSONAL*.
 
 Then fill in all the details.
 
+Note: 
