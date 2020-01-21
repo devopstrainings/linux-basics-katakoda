@@ -4,6 +4,7 @@
 2. Availability Zones in Amazon.
 3. Services in Amazon
 
+So C
 # Lets create a server in Amazon.
 
 Choose EC2 Service in Amazon.
