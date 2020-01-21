@@ -8,4 +8,4 @@ So you need to provide the following details
   1. Credit / Debit Card details.
   2. Choose PAN number as NO. 
 
-After submitting the details, You may be redirected to BANK 
+After submitting the details, You may be redirected to BANK authentication
