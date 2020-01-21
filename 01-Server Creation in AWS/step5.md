@@ -36,4 +36,4 @@ Select **"t2.micro"** and click on **"Review and Launch"**.
 
 Then **"Proceed without a key pair"**
 
-![]
+![Key Pair]
