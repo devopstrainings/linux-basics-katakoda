@@ -5,4 +5,5 @@ Amazon required to validate that you are a person whom is creating account rathe
 
 So you need to provide the following details 
 
-  1. 
+  1. Credit / Debit Card details.
+  2. Choose PAN number as NO. 
