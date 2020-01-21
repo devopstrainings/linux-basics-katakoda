@@ -10,4 +10,5 @@ So you need to provide the following details
 
 After submitting the details, You may be redirected to BANK authentication, So complete it and come back
 
-![BANK INFO]()
+![BANK INFO](https://gitlab.com/cit-devops/intros/uploads/62357c0caee93712d7974dc0620f6b58/image.png)
+
