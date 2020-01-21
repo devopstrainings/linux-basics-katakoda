@@ -16,4 +16,4 @@ After submitting the details, You may be redirected to BANK authentication, So c
 
 Finally you have created your account.
 
-You can login to your account using the following URL, By using the credentials which 
+You can login to your account using the following URL, By using the credentials which you have used
