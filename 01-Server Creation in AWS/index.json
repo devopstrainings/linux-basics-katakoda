@@ -18,12 +18,10 @@
     }
   },
   "backend": {
-    "trainingid": "openshift-3-11",
     "imageid": "openshift-3-11"
   },
   "environment": {
-      "showdashboard": false,
-      "uilayout": "terminal-iframe",
+      "uilayout": "terminal",
       "hideintro": false,
       "hidefinish": false
   }
