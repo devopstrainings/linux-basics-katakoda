@@ -4,6 +4,8 @@
 2. Availability Zones in Amazon.
 3. Services in Amazon
 
+https://aws.amazon.com/about-aws/global-infrastructure/
+
 So choose a region for our practice.
 
 
