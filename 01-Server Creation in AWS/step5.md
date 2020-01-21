@@ -39,3 +39,4 @@ Then **"Proceed without a key pair"**
 ![Key Pair](https://gitlab.com/cit-devops/intros/uploads/7c2fd2045593377289fbdc7156a0a8a8/image.png)
 
 
+Finally after the server created, You will get a public IP. Connect to the server
