@@ -12,3 +12,6 @@ After submitting the details, You may be redirected to BANK authentication, So c
 
 ![BANK INFO](https://gitlab.com/cit-devops/intros/uploads/62357c0caee93712d7974dc0620f6b58/image.png)
 
+# Next
+
+Then finally you will be prompted to 
