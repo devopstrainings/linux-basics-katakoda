@@ -7,4 +7,4 @@ Details required are
 
 Then you will be taken to SignUP form which asks more info.
 
-Next, Choose your account as ""
+Next, Choose your account as *PERSONAL*.
