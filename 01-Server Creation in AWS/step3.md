@@ -14,4 +14,5 @@ After submitting the details, You may be redirected to BANK authentication, So c
 
 # Next
 
-Then finally you will be prompted to 
+Finally you have created your account.
+
