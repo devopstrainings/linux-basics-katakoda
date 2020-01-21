@@ -11,4 +11,4 @@ Next, Choose your account as *PERSONAL*.
 
 Then fill in all the details.
 
-**Note:** Fill
+**Note:** Fill in the proper details like Mobile Number and Address Details. Because AWS uses 
