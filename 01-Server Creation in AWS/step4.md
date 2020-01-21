@@ -1,3 +1,3 @@
 # Which Linux
 
-No doubt the server world is been ruled by 
+No doubt the server world is been ruled by Linux OS.
