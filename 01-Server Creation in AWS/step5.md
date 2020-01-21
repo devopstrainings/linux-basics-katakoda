@@ -1,3 +1,3 @@
-# Lets create a CentOS Server.
+# Understand Amazon 
 
 Login to Console.
