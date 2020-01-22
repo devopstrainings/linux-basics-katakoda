@@ -17,6 +17,7 @@ Choose EC2 Service in Amazon.
 
 Then Choose AMI.
 
+![Choose AMI](https://gitlab.com/cit-devops/intros/uploads/720aa0db98061d10d69ee5d72adefa7d/image.png)
 
 Then Choose "Public Images"
 
