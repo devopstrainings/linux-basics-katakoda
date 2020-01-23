@@ -1,6 +1,6 @@
 ## ____________________________________________
 
-## Creating Directories
+## Linux Director
 
 Alike any operating system Linux also has its own directory structure.
 
