@@ -1,4 +1,9 @@
 ## ____________________________________________
+
+First, Run this command to start the Lab.
+
+`export PS1='\e[1;33m[root@centos-playgroud]\e[0m# '`{{execute}}
+
 ## Command line Syntaxes.
 
 You can see in the picture like how commands would be in Linux.
