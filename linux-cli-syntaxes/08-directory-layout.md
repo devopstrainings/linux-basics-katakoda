@@ -1,6 +1,6 @@
 ## ____________________________________________
 
-## Linux Director
+## Linux Directory Structure
 
 Alike any operating system Linux also has its own directory structure.
 
