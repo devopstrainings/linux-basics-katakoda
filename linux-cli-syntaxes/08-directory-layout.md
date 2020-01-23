@@ -1,6 +1,6 @@
 ## ____________________________________________
 
-## Renaming/Moving a File
+## Creating Directories
 
 Alike any operating system Linux also has its own directory structure.
 
