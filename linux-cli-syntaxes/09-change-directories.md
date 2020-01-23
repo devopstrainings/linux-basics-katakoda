@@ -1,3 +1,7 @@
+## ____________________________________________
+
+## Linux Directory Structure
+
 To change the working directory from one location to another we use `cd`command
 
 `Syntax: cd <directory>`
