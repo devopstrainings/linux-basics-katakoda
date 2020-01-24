@@ -30,6 +30,8 @@ It gives the first 5 lines of the file
 
 `Syntax: tail <filename>`
 
+`tail` command 
+
 `tail -n 5 /etc/passwd`{{execute}} 
 
 It gives the last 5 lines of the file
