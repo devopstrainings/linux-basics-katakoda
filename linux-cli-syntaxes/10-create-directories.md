@@ -30,3 +30,4 @@ You can also create multiple directories.
 
 There are total `seven` type of files in Linux. Explore each of them. Directory and file is two of them.
 
+Types: Directory, File, 
