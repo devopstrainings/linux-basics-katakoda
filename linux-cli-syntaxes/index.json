@@ -38,6 +38,26 @@
         "text": "08-directory-layout.md"
       },
       {
+        "title": "09-change-directories.md",
+        "text": "09-change-directories.md"
+        },
+        {
+        "title": "10-create-directories.md",
+        "text": "10-create-directories.md"
+        },
+        {
+        "title": "11-copying-directories.md",
+        "text": "11-copying-directories.md"
+        },
+        {
+        "title": "12-moving-directories.md",
+        "text": "12-moving-directories.md"
+        },
+        {
+        "title": "13-removing-dir.md",
+        "text": "13-removing-dir.md"
+        },
+      {
         "title": "Filter Commands",
         "text": "step70.md"
       },
