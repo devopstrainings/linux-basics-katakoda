@@ -32,11 +32,11 @@ observe the output
 
 ### Single dot (.)
 
-Dot in linux indicates present working directory , you can use it in the commands which we have used so far
+Dot in linux indicates present working directory, you can use it in the commands which we have used so far
 
 `ls`{{execute}} observe the names of the files
 
-We will try cp command with the . option 
+We will try cp command with the `.` option 
 
 `cp /root/sample .`{{execute}}
 
