@@ -27,7 +27,7 @@ You can check whether the file has been renamed or not by referring `ls` command
 
 ## ____________________________________________
 
-## Shell Shortcuts.
+## Shell CLI Shortcuts.
 
 Some of the reference links are below.
 
@@ -38,3 +38,4 @@ https://github.com/fliptheweb/bash-shortcuts-cheat-sheet
 https://appletree.or.kr/quick_reference_cards/Unix-Linux/Linux%20Command%20Line%20Cheat%20Sheet.pdf
 
 
+## Shell Scripting 
