@@ -35,8 +35,6 @@ https://blog.ssdnodes.com/blog/cheatsheet-bash-shortcuts/
 
 https://github.com/fliptheweb/bash-shortcuts-cheat-sheet
 
-https://appletree.or.kr/quick_reference_cards/Unix-Linux/Linux%20Command%20Line%20Cheat%20Sheet.pdf
-
 
 ## Shell Scripting reference guides.
 
