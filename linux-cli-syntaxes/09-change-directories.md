@@ -41,7 +41,6 @@ observe the output
 `cd ..`{{execute}} 
 `pwd`{{execute}} 
 
-
 `..` means parent directory and it takes you to the parent directory of the current directory
 
 `pwd`{{execute}}
