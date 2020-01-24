@@ -59,8 +59,8 @@
         },
         {
           "title" : "Concatenate Files",
-          "text" : "14-concatenate"
-        }
+          "text" : "14-concatenate-files.md"
+        },
       {
         "title": "Filter Commands",
         "text": "14-filters.md"
