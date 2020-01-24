@@ -25,5 +25,5 @@ To delete them recursively we use -r option.
 `rm -r demo1`{{execute}} 
 `ls`{{execute}}
 
-Some times you might be propted for `(yes/no)` to delete the files and if we want to make it 
+Some times you might be propted for `(yes/no)` to delete the files and if we want to make it forceful delete without prompting 
 ### Note: You cannot use -r option with rmdir to use the -r we need to use rm command instead of rmdir.
