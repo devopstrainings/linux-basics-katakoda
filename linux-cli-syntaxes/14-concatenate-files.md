@@ -21,4 +21,4 @@ It displays the content of the file in reverse order.
 
 ## Additional things to Learn.
 
-`-A` option in `cat `
+`-A` option in `cat` command.
