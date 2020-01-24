@@ -6,7 +6,7 @@ Usually the filters are based on
 
   1. Line Numbers
   2. Row Filters
-  
+  3. Coloum Filters
 
 ## Head Command
 
