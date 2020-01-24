@@ -27,4 +27,4 @@ To delete them recursively we use -r option.
 
 Some times you might be propted for `(yes/no)` to delete the files and if we want to make it forceful delete without prompting then we use `-f` option.
 
-**
+****
