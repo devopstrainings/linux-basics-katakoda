@@ -16,6 +16,7 @@ To filter the output based on line numbers and that to be from starting of the f
 
 By default `head` command gives you top `10` lines of the file but you can change it according to your needs.
 
+`head `
 
 `head -n 5 /etc/passwd`{{execute}} 
 
