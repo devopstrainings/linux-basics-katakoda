@@ -5,7 +5,8 @@ In many situations you might want to have only a certain number of lines from a 
 Usually the filters are based on 
 
   1. Line Numbers
-  2. 
+  2. Row Filters
+  
 
 ## Head Command
 
