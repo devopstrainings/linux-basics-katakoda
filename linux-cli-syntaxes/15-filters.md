@@ -13,7 +13,7 @@ Usually the filters are based on
 To filter 
 
 
-`Synatax: head <filename>`
+`Syntax: head <filename>`
 
  By default head gives you top 10 lines of the file but you can change it according to your needs.
 
