@@ -51,7 +51,7 @@ Dot in linux indicates present working directory, you can use it in the commands
 
 We will try cp command with the `.` option 
 
-`cp /root/sample .`{{execute}}
+`cp /etc/passwd .`{{execute}}
 
 `ls`{{execute}} 
 
