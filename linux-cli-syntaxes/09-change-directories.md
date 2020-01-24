@@ -6,6 +6,9 @@ To check where you are currently in the system we use `pwd` command.
 
 `pwd`{{execute}}
 
+
+## ____________________________________________
+
 ## Navigate to Directories
 
 To change the working directory from one location to another we use `cd`command
