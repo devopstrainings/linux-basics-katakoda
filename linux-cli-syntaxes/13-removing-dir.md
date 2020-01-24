@@ -18,7 +18,7 @@ Check the output to see if the directory is deleted or not.
 It deletes the directory with the name `demo1` but in the following example you will see an error saying the directory is not empty. That is because we have already created sub-directories named `new` and `test` inside `demo`.
 
 `mkdir -p demo1/{new,test}`{{execute}}
-`rmdir demo1`
+`rmdir demo1`{{execute}}
 
 `rm -r demo`{{execute}} 
 
