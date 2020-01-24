@@ -31,5 +31,7 @@ You can check whether the file has been renamed or not by referring `ls` command
 
 Some of the reference links are below.
 
+https://github.com/fliptheweb/bash-shortcuts-cheat-sheet
+
 
 
