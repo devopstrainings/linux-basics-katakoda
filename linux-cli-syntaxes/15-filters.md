@@ -26,7 +26,7 @@ It gives the first 5 lines of the file
 
 ## Tail Command
 
-head command gives you the top lines of the file however if you want to print the last lines you can use `tail` command
+`head` command gives you the top lines of the file however if you want to print the last lines you can use `tail` command
 
 `Syntax: tail <filename>`
 
