@@ -15,3 +15,4 @@ In Linux, we have a **ROOT DIRECTORY** where the path of any directory ends here
 Additionally, to the list of directories provided in the above diagram we have more and each and every default directory are under `/` have some purpose in the operating system.
 
 Unlike Windows, Linux is Command line based OS, So if you want to move from one directory to another directory we would be using commands to get it done.
+
