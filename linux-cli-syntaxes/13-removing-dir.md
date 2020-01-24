@@ -1,4 +1,4 @@
-To remove a directory we use `rmdir` command in lunux. Removing directories also deletes all the files that the directory holds
+To remove a directory we use `rmdir` command in linux. Removing directories also deletes all the files that the directory holds
 
 `Syntax: rmdir <directory>`
 
