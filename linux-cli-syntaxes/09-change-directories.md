@@ -2,7 +2,9 @@
 
 ## Present Working Directory 
 
-To check where you are currently in 
+To check where you are currently in the system we use `pwd` command.
+
+`pwd`{{execute}}
 
 ## Navigate to Directories
 
