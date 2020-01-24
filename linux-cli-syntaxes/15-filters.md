@@ -14,7 +14,7 @@ To filter the output based on line numbers and that to be from starting of the f
 
 `Syntax: head <filename>`
 
-By default `head` gives you top 10 lines of the file but you can change it according to your needs.
+By default `head` command gives you top `10` lines of the file but you can change it according to your needs.
 
 
 `head -n 5 /etc/passwd`{{execute}} 
