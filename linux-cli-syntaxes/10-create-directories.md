@@ -10,7 +10,9 @@ This will create a new directory with the name `demo`. you can check using `ls` 
 
 `ls`{{execute}} 
 
-Now you can see demo directory listed
+Now you can see demo directory listed.
+
+But 
 
 `mkdir -p demo/new/item1`{{execute}} 
 
