@@ -28,4 +28,4 @@ You can also create multiple directories.
 
 ## Additional things to learn.
 
-There are total 
+There are total type of files in Linux
