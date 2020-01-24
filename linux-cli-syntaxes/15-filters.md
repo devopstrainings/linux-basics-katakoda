@@ -10,7 +10,7 @@ Usually the filters are based on
 
 ## Head Command
 
-To filter the outut based on line numbers we 
+To filter the output based on line numbers we 
 
 
 `Syntax: head <filename>`
