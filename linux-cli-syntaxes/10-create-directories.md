@@ -12,7 +12,7 @@ This will create a new directory with the name `demo`. you can check using `ls` 
 
 Now you can see demo directory listed.
 
-But to determine `demo` is a directory 
+But to determine `demo` is a directory, we always 
 
 `mkdir -p demo/new/item1`{{execute}} 
 
