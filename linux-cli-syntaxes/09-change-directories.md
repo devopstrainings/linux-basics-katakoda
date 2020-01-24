@@ -24,6 +24,8 @@ observe the output
 
 `cd -`{{execute}} This command will take you the previous directory that you were using.
 
+### Double dot (.)
+
 `cd ..`{{execute}} `..` means parent directory and it takes you to the parent directory of the current directory
 
 `pwd`{{execute}}
