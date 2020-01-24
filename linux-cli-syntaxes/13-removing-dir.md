@@ -1,3 +1,7 @@
+## ____________________________________________
+
+## Re Directories
+
 To remove a directory we use `rmdir` command in linux. Removing directories also deletes all the files that the directory holds
 
 `Syntax: rmdir <directory>`
