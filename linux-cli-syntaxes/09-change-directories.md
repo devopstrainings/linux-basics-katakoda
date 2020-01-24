@@ -42,5 +42,5 @@ We will try cp command with the `.` option
 
 `ls`{{execute}} 
 
-Now if you compare the ouput from the previous ls you will be able to see the file with name sample in the present directory.
+Now if you compare the output from the previous ls you will be able to see the file with name sample in the present directory.
 
