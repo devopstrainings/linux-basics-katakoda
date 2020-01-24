@@ -54,7 +54,7 @@ It fetches all the lines which have the word root in them.
 
 ## Awk Command
 
-In some cases the content needs to be filtered based on the columns in that case we use awk command.
+In some cases the content needs to be filtered based on the columns in that case we use `awk` command.
 
 `Syntax: awk -F 'delimiter' '{print $column-number}' <filename>`
 
