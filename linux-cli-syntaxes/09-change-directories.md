@@ -38,7 +38,8 @@ observe the output
 `cd /etc/yum`{{execute}} 
 `cd ..`{{execute}} 
 `pwd`{{execute}} 
-
+`cd ..`{{execute}} 
+`pwd`{{execute}} 
 
 ``
 `cd ..`{{execute}} 
