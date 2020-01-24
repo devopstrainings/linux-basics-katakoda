@@ -6,6 +6,7 @@ To remove a directory we use `rmdir` command in linux. Removing directories also
 
 `Syntax: rmdir <directory>`
 
+`mkdir demo1`{{execute}}
 `rmdir demo1`{{execute}}
 
 `ls`{{execute}} 
