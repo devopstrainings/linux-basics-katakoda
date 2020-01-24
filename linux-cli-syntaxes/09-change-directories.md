@@ -35,7 +35,10 @@ observe the output
 
 ### Double dot (..)
 
-`cd ..`{{execute}} `..` means parent directory and it takes you to the parent directory of the current directory
+`cd /etc/yum`
+`cd ..`{{execute}} 
+
+`..` means parent directory and it takes you to the parent directory of the current directory
 
 `pwd`{{execute}}
 
