@@ -20,6 +20,6 @@ Now you can see demo directory listed
 
 `mkdir demo1 demo2 demo3 demo4`{{execute}} 
 
-you can also create multiple directories.
+You can also create multiple directories.
 
 `ls`{{execute}}
