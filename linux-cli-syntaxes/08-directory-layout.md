@@ -16,4 +16,6 @@ Additionally, to the list of directories provided in the above diagram we have m
 
 Unlike Windows, Linux is Command line based OS, So if you want to move from one directory to another directory we would be using commands to get it done.
 
-## 
+## Linux All Directories Explained.
+
+https://www.howtogeek.com/117435/htg-explains-the-linux-directory-structure-explained/
