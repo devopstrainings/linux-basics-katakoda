@@ -22,11 +22,9 @@ It deletes the directory with the name `demo1` but in the following example you 
 
 To delete them recursively we use -r option.
 
-`rm -r demo`{{execute}} 
-
+`rm -r demo1`{{execute}} 
 `ls`{{execute}}
 
-`rm -r demo2 demo3`{{execute}} 
 
 We can also delete multiple directories this way
 
