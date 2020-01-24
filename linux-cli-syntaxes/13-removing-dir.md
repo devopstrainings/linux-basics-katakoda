@@ -26,8 +26,4 @@ To delete them recursively we use -r option.
 `ls`{{execute}}
 
 
-We can also delete multiple directories this way
-
-`ls`{{execute}}
-
 ### Note: You cannot use -r option with rmdir to use the -r we need to use rm command instead of rmdir.
