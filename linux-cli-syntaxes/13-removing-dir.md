@@ -12,7 +12,7 @@ To remove a directory we use `rmdir` command in linux. Removing directories also
 `rmdir demo1`{{execute}}
 `ls`{{execute}} 
 
-check the output to see if the directory is deleted or not
+Check the output to see if the directory is deleted or not.
 
 `rmdir demo`{{execute}} 
 
