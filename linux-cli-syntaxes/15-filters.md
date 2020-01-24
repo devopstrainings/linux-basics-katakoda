@@ -4,7 +4,7 @@ In many situations you might want to have only a certain number of lines from a 
 
 ## Head Command
 
-
+To filter 
 
 
 `Synatax: head <filename>`
