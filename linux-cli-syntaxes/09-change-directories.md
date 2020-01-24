@@ -1,5 +1,7 @@
 ## ____________________________________________
 
+## Check
+
 ## Navigate to Directories
 
 To change the working directory from one location to another we use `cd`command
