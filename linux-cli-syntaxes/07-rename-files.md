@@ -27,5 +27,7 @@ You can check whether the file has been renamed or not by referring `ls` command
 
 ## ____________________________________________
 
-## Renaming/Moving a File
+## Shell Shortcuts.
+
+
 
