@@ -2,7 +2,7 @@
 
 ## Present Working Directory 
 
-To move 
+To check where you are currently in 
 
 ## Navigate to Directories
 
