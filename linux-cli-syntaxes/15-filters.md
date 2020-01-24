@@ -32,6 +32,8 @@ It gives the first 5 lines of the file
 
 `tail` command will print last `10` lines and however you can change them using `-n` option.
 
+`tail /etc/passwd`{{execute}}
+
 `tail -n 5 /etc/passwd`{{execute}} 
 
 It gives the last 5 lines of the file
