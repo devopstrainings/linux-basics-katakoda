@@ -43,8 +43,6 @@ observe the output
 
 `..` means parent directory and it takes you to the parent directory of the current directory
 
-`pwd`{{execute}}
-
 ### Single dot (.)
 
 Dot in linux indicates present working directory, you can use it in the commands which we have used so far
