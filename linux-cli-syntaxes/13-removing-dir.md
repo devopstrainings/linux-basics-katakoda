@@ -20,9 +20,9 @@ It deletes the directory with the name `demo1` but in the following example you 
 `mkdir -p demo1/{new,test}`{{execute}}
 `rmdir demo1`{{execute}}
 
-`rm -r demo`{{execute}} 
-
 To delete them recursively we use -r option.
+
+`rm -r demo`{{execute}} 
 
 `ls`{{execute}}
 
