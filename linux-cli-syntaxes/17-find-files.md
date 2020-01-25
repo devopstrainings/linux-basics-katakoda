@@ -12,4 +12,4 @@ This command searches through all the directories as we have given the location 
 
 `find /etc -name passwd`{{execute}} 
 
-This command only searches /etc directory for the passwd file. You can obseeve that the results are smaller in size.
+This command only searches `/etc` directory for the `passwd` file. You can obseeve that the results are smaller in size.
