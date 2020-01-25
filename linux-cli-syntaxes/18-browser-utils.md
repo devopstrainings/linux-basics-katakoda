@@ -8,6 +8,7 @@ Most of the times you need to browse urls to and fetch that content to command l
 
 `curl www.google.com`{{execute}} 
 
+
 ### Download Files
 
 Most of the times we need to download softwares or tools from internet to work on them. We can use wget command to download the files from internet. It downloads the file to the location from where you are running the command by default
