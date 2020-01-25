@@ -72,4 +72,6 @@ ESC Mode is used to perform the following operations.
     `u` is available to undo the operations like (CTRL + Z ) in windows.
 
 
+### COLON Mode
+
 **NOTE**: There are lot many operations are available, But we are talking which is needed for DevOps prospective.
