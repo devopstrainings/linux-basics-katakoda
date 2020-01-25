@@ -82,8 +82,10 @@ COLON is used to perform the following options.
 
       1. Ensure you are in ESC mode and press `:` to go to COLON Mode.
       2. :/WORD , GIve WORD which you want to search.
-      
+
   2. Search & Replace 
+
+    Ex: 
 
   3. File Operations
 
