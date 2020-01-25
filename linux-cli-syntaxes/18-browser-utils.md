@@ -13,7 +13,7 @@ Using `curl` command we can download the files.
 `curl https://archive.apache.org/dist/tomcat/tomcat-8/v8.0.0-RC1/bin/apache-tomcat-8.0.0-RC1-deployer.tar.gz -o apache-tomcat-8.0.0-RC1-deployer.tar.gz`
 
 Above command will download the file to the given filename.
-But with out givig the filename aslo we can download it to the default file name.
+But with out giving the filename also we can download it to the default file name.
 
 
 ### Download Files
