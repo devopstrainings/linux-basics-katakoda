@@ -31,5 +31,10 @@ ESC Mode is used to perform the following operations.
       -> Delete Lines
 
   2. Word Operations
-      -> 
+      -> Copy Words
+      -> Paste Words
+      -> Delete Words.
+
+  4. Search Words
+  
 **NOTE**: There are lot many operations are available, But we are talking which is needed for DevOps prospective.
