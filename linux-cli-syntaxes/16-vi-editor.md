@@ -22,4 +22,5 @@ Following are the operations done by each and every mode.
 
 ### ESC Mode.
 
-ESC Mode is 
+ESC Mode is used to perform the following operations.
+
