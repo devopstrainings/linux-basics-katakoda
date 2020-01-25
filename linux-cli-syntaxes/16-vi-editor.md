@@ -11,4 +11,5 @@ There are so many editors which are part of different Linux Operating Systems. E
 `vim` editor has three modes and each and every mode has its own purpose and allows you to perform certain actions.
 
   1. ESC Mode
-  2. 
+  2. COLON Mode
+  3. INSERT Mode
