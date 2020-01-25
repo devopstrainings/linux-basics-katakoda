@@ -2,4 +2,4 @@
 
 ## Linux Editors.
 
-There are so many editors which are part of different Linux Operating Systems. Editors like `vi`, `vim`, `nano`, `gedit`
+There are so many editors which are part of different Linux Operating Systems. Editors like `vi`, `vim`, `nano`, `gedit`, `emacs` and so on
