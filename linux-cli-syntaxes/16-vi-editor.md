@@ -90,7 +90,8 @@ COLON is used to perform the following options.
       1. Ensure you are in ESC mode and press `:` to go to COLON Mode.
       2. :%s/WORD1/WORD2/  -> This will replace WORD1 with WORD2
       3. Flags : g, i
-          %s/
+          :%s/WORD1/WORD2/g 
+          
   3. File Operations
 
 **NOTE**: There are lot many operations are available, But we are talking which is needed for DevOps prospective.
