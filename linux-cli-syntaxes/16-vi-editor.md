@@ -14,4 +14,5 @@ There are so many editors which are part of different Linux Operating Systems. E
   2. COLON Mode
   3. INSERT Mode
 
-All three modes are 
+All three modes are shown as below.
+
