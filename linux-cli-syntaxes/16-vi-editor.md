@@ -69,7 +69,7 @@ ESC Mode is used to perform the following operations.
 
   3. Undo Operations.
 
-    `u` is available to undo the opertions like (CTRL + Z ) in windows.
+    `u` is available to undo the operations like (CTRL + Z ) in windows.
 
 
 **NOTE**: There are lot many operations are available, But we are talking which is needed for DevOps prospective.
