@@ -103,4 +103,7 @@ COLON is used to perform the following options.
     3. Save and Quit
       :wq
 
+### INSERT Mode
+
+
 **NOTE**: There are lot many operations are available, But we are talking which is needed for DevOps prospective.
