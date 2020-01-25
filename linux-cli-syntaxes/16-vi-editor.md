@@ -98,6 +98,8 @@ COLON is used to perform the following options.
     1. Save File 
       :w
     2. Quit Editor
+      :q
     3. Save and Quit
+      :wq
 
 **NOTE**: There are lot many operations are available, But we are talking which is needed for DevOps prospective.
