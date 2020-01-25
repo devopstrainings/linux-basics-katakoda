@@ -105,5 +105,7 @@ COLON is used to perform the following options.
 
 ### INSERT Mode
 
-INSERT mode is used to add your own content, whereas above two 
+INSERT mode is used to add your own content, whereas above two modes are dealing with existing content on the file.
+
+
 **NOTE**: There are lot many operations are available, But we are talking which is needed for DevOps prospective.
