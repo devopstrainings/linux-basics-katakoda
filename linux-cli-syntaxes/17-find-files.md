@@ -17,3 +17,5 @@ This command only searches `/etc` directory for the `passwd` file. You can obser
 
 ## Additional things to learn.
 
+https://alvinalexander.com/unix/edu/examples/find.shtml
+
