@@ -31,7 +31,8 @@ ESC Mode is used to perform the following operations.
       Ex: Copy a Single Line
 
           1. Ensure you are in ESC Mode, by pressing ESC.
-          2. Take the cursor to that line
+          2. Take the cursor to that line.
+          3. Press `yy` to copy the line
 
       -> Paste Lines
       -> Delete Lines
