@@ -96,6 +96,7 @@ COLON is used to perform the following options.
   3. File Operations
 
     1. Save File 
+      :w
     2. Quit Editor
     3. Save and Quit
 
