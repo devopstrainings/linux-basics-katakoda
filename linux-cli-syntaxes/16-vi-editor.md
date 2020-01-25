@@ -59,7 +59,10 @@ ESC Mode is used to perform the following operations.
       -> Paste Words
 
         `p`
+
       -> Delete Words.
+
+        `dw`
 
   3. Undo Operations.
 
