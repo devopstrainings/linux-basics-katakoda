@@ -29,4 +29,4 @@ In this example I will be downloading tomcat from the internet.
 
 `ls`{{execute}} 
 
-**NOTE**: `wget` command will not come by default with OS
+**NOTE**: `wget` command will not come by default with OS. We need to execlusively install that
