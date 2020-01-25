@@ -64,6 +64,9 @@ ESC Mode is used to perform the following operations.
 
         `dw`
 
+  `n` 
+
+
   3. Undo Operations.
 
 
