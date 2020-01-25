@@ -39,7 +39,7 @@ ESC Mode is used to perform the following operations.
 
       Ex: Paste a Single Line.
 
-          1. Take 
+          1. Take the cursor to the line where you want to paste then press p after performing copy
       -> Delete Lines
 
   2. Word Operations
