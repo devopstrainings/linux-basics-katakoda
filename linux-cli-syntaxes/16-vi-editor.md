@@ -80,8 +80,8 @@ COLON is used to perform the following options.
 
     Ex: Search a word.
 
-      1. Ensure you are in ESC mode and press COLON to go to COLON Mode.
-      
+      1. Ensure you are in ESC mode and press `:` to go to COLON Mode.
+      2. 
   2. Search & Replace 
 
   3. File Operations
