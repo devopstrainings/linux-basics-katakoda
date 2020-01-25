@@ -44,6 +44,7 @@ ESC Mode is used to perform the following operations.
 
       -> Delete/Cut Lines
 
+      Ex: 
           1. Ensure you are in ESC Mode, by pressing ESC.
           2. Take the cursor to that line.
           3. Press dd to cut/delete the line
