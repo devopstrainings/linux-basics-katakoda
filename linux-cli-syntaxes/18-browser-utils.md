@@ -8,7 +8,9 @@ Most of the times you need to browse urls to and fetch that content to command l
 
 `curl www.google.com`{{execute}} 
 
-Using ``
+Using `curl` command we can download the files.
+
+`curl `
 
 ### Download Files
 
