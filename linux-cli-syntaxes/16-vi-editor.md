@@ -28,7 +28,9 @@ ESC Mode is used to perform the following operations.
 
       -> Copy Lines
 
-      Ex: Copy 
+      Ex: Copy a Single Line
+
+          1. Ensure you are in ESC Mode, by pressing ESC
 
       -> Paste Lines
       -> Delete Lines
