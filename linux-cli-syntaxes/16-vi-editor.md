@@ -64,7 +64,7 @@ ESC Mode is used to perform the following operations.
 
         `dw`
 
-  `n` , Number can comb
+  `n` , Number can combined with any option of above. For ex to copy 10 lines `10yy`
 
 
   3. Undo Operations.
