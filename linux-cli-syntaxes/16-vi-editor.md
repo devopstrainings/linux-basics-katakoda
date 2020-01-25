@@ -44,6 +44,10 @@ ESC Mode is used to perform the following operations.
 
       -> Delete/Cut Lines
 
+          1. Ensure you are in ESC Mode, by pressing ESC.
+          2. Take the cursor to that line.
+          3. Press yy to copy the line
+
   2. Word Operations
       -> Copy Words
       -> Paste Words
@@ -51,5 +55,5 @@ ESC Mode is used to perform the following operations.
 
   3. Undo Operations.
 
-  
+
 **NOTE**: There are lot many operations are available, But we are talking which is needed for DevOps prospective.
