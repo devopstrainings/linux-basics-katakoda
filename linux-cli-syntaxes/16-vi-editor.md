@@ -105,5 +105,5 @@ COLON is used to perform the following options.
 
 ### INSERT Mode
 
-
+INSERT mode is 
 **NOTE**: There are lot many operations are available, But we are talking which is needed for DevOps prospective.
