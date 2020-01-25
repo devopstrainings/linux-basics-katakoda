@@ -49,5 +49,7 @@ ESC Mode is used to perform the following operations.
       -> Paste Words
       -> Delete Words.
 
+  3. Undo Operations.
 
+  
 **NOTE**: There are lot many operations are available, But we are talking which is needed for DevOps prospective.
