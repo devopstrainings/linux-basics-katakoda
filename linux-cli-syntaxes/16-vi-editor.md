@@ -91,7 +91,7 @@ COLON is used to perform the following options.
       2. :%s/WORD1/WORD2/  -> This will replace WORD1 with WORD2
       3. Flags : g, i
           :%s/WORD1/WORD2/g -> global means all possibilities on the line will be changed. 
-          :%s/WORD1/WORD2/i -> 
+          :%s/WORD1/WORD2/i -> case-sensitive replace.
 
   3. File Operations
 
