@@ -25,7 +25,7 @@ Most of the times we need to download softwares or tools from internet to work o
 
 In this example I will be downloading tomcat from the internet.
 
-`wgethttps://archive.apache.org/dist/tomcat/tomcat-8/v8.0.0-RC1/bin/apache-tomcat-8.0.0-RC1-deployer.tar.gz`{{execute}}
+`wget https://archive.apache.org/dist/tomcat/tomcat-8/v8.0.0-RC1/bin/apache-tomcat-8.0.0-RC1-deployer.tar.gz`{{execute}}
 
 `ls`{{execute}} 
 
