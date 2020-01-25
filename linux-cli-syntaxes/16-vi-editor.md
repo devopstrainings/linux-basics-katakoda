@@ -80,7 +80,7 @@ COLON is used to perform the following options.
 
     Ex: Search a word.
 
-      1. 
+      1. Ensure you are in 
   2. Search & Replace 
 
   3. File Operations
