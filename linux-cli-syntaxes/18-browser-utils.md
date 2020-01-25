@@ -10,7 +10,7 @@ Most of the times you need to browse urls to and fetch that content to command l
 
 Using `curl` command we can download the files.
 
-`curl https://archive.apache.org/dist/tomcat/tomcat-8/v8.0.0-RC1/bin/apache-tomcat-8.0.0-RC1-deployer.tar.gz -o `
+`curl https://archive.apache.org/dist/tomcat/tomcat-8/v8.0.0-RC1/bin/apache-tomcat-8.0.0-RC1-deployer.tar.gz -o apache-tomcat-8.0.0-RC1-deployer.tar.gz`
 
 ### Download Files
 
