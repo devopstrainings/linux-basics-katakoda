@@ -29,6 +29,6 @@ ESC Mode is used to perform the following operations.
       -> Copy Lines
       -> Paste Lines
       -> Delete Lines
-      
 
+  
 **NOTE**: There are lot many operations are available, But we are talking which is needed for DevOps prospective.
