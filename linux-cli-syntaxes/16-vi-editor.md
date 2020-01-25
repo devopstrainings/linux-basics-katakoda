@@ -16,4 +16,5 @@ There are so many editors which are part of different Linux Operating Systems. E
 
 All three modes are shown as below.
 
-![Prompt Example](https://github.com/devopstrainings/linux-basics-katakoda/raw/master/linux-cli-syntaxes/images/)
+![Prompt Example](https://github.com/devopstrainings/linux-basics-katakoda/raw/master/linux-cli-syntaxes/images/04-vi-modes.png)
+
