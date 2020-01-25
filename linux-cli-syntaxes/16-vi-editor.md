@@ -42,7 +42,7 @@ ESC Mode is used to perform the following operations.
           1. Take the cursor to the line where you want to paste then press p after performing copy using yy.
 
 
-      -> Delete Lines
+      -> Delete/Cut Lines
 
   2. Word Operations
       -> Copy Words
