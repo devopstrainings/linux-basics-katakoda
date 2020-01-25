@@ -37,7 +37,9 @@ ESC Mode is used to perform the following operations.
 
       -> Paste Lines
 
-      
+      Ex: Paste a Single Line.
+
+          1. Take 
       -> Delete Lines
 
   2. Word Operations
