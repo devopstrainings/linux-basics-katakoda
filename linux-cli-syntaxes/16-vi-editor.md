@@ -9,3 +9,5 @@ There are so many editors which are part of different Linux Operating Systems. E
 ## `VIM` Editor.
 
 `vim` editor has three modes and each and every mode has its own purpose and allows you to perform certain actions.
+
+  1. 
