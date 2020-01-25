@@ -99,6 +99,7 @@ COLON is used to perform the following options.
       :w
     2. Quit Editor
       :q
+      :q! -> Quit with out saving
     3. Save and Quit
       :wq
 
