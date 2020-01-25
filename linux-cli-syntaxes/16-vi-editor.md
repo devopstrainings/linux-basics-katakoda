@@ -51,8 +51,11 @@ ESC Mode is used to perform the following operations.
           3. Press dd to cut/delete the line
 
   2. Word Operations
-  
+
       -> Copy Words
+
+        ``
+
       -> Paste Words
       -> Delete Words.
 
