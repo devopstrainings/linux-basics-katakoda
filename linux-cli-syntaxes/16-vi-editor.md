@@ -78,7 +78,7 @@ COLON is used to perform the following options.
 
   1. Search Operation.
 
-
+    
   2. Search & Replace 
 
   3. File Operations
