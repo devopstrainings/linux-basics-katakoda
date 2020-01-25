@@ -2,7 +2,7 @@
 
 ## Command line browser
 
-Most of the times you need to browse urls to and fetch that content to command line. Some times we need partial information of the URL or the full information. `Curl` command is available to browse the content over command line.
+Most of the times you need to browse urls to and fetch that content to command line. Some times we need partial information of the URL or the full information. `curl` command is available to browse the content over command line.
 
 `Syntax: curl <url>`
 
