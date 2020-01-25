@@ -2,4 +2,4 @@
 
 ## Linux Editors.
 
-There are 
+There are so many editors which are part of different Linux Operating Systems
