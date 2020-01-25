@@ -6,3 +6,4 @@ There are so many editors which are part of different Linux Operating Systems. E
 
 `vi` is very powerful editor and it comes with much enhanced options in `vim`. Hence we choose to go with `vim` in our sessions.
 
+## `VIM` Editors.
