@@ -29,4 +29,4 @@ In this example I will be downloading tomcat from the internet.
 
 `ls`{{execute}} 
 
-**NOTE**: `wget` command will not come by default with OS. We need to execlusively install that
+**NOTE**: `wget` command will not come by default with OS. We need to exclusively install that, So better use `curl` command all the time.
