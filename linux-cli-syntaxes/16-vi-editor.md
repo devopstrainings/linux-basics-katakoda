@@ -4,7 +4,7 @@
 
 There are so many editors which are part of different Linux Operating Systems. Editors like `vi`, `vim`, `nano`, `gedit`, `emacs` and more are mostly known editors. Among these 90% of the operating systems comes with `vi` editor as default editor.
 
-`vi` is very powerful editor and it comes with much enhanced options in `vim`. Hence we choose to go with `vim` in our sessions.
+`vi` is very powerful editor and it comes with much enhanced options in `vim`. Hence, we choose to go with `vim` in our sessions.
 
 ## `VIM` Editor.
 
@@ -17,4 +17,6 @@ There are so many editors which are part of different Linux Operating Systems. E
 All three modes are shown as below.
 
 ![VI MODES](https://github.com/devopstrainings/linux-basics-katakoda/raw/master/linux-cli-syntaxes/images/04-vi-modes.png)
+
+Following are the operations done by each and every mode.
 
