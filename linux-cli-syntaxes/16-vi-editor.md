@@ -33,7 +33,7 @@ ESC Mode is used to perform the following operations.
           1. Ensure you are in ESC Mode, by pressing ESC.
           2. Take the cursor to that line.
           3. Press yy to copy the line
-          4. Then take cursor to whereever you want to paste then use 
+          4. Then take cursor to whereever you want to paste then use p to paste
 
       -> Paste Lines
       -> Delete Lines
