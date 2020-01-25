@@ -12,7 +12,8 @@ Using `curl` command we can download the files.
 
 `curl https://archive.apache.org/dist/tomcat/tomcat-8/v8.0.0-RC1/bin/apache-tomcat-8.0.0-RC1-deployer.tar.gz -o apache-tomcat-8.0.0-RC1-deployer.tar.gz`
 
-Above command will download the 
+Above command will download the file to the given filename.
+But some times we 
 
 ### Download Files
 
