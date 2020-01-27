@@ -9,4 +9,4 @@ Pipes are used to send the output of one command to another command without stor
 Ex:
       cat /etc/passwd | grep root
 
-**Note**: All the commands will not accept inputs from 
+**Note**: All the commands will not accept inputs from pipe command.
