@@ -17,4 +17,5 @@ Ex:
 
 `echo sample.txt | rm -f `{{execute}}
 
-``
+`ls`{{execute}}
+
