@@ -9,4 +9,5 @@ Pipes are used to send the output of one command to another command without stor
 Ex:
       cat /etc/passwd | grep root
 
-**Note**: All the commands will not accept inputs over pipes. In case if we need to take the input then we 
+**Note**: All the commands will not accept inputs over pipes. In case if we need to take the input then we take the help of `xargs` command.
+
