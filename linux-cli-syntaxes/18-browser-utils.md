@@ -40,7 +40,7 @@ Many times in Linux world all the softwares are packaged either in `.zip` or `.t
 Syntax: tar -xf <filename>.tar.gz
 ```
 
-`tar -xf apache-tomcat-9.0.27.tar.gz`{{execute}} 
+`tar -xf apache-tomcat-8.0.0-RC1-deployer.tar.gz`{{execute}} 
 
 To extract archives we use `-x` option and `-f` means file.
 
