@@ -75,8 +75,9 @@
       },
       {
         "title": "Internet Utilities",
-        "text": "18-browser"
-      }
+        "text": "18-browser-utils.md"
+      },
+      
     ],
     "intro": {
       "courseData": "background.sh",
