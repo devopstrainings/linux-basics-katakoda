@@ -13,4 +13,6 @@ Ex:
 
 `touch sample.txt`{{execute}}
 
+`ls`{{execute}}
+
 ``
