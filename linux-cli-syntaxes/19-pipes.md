@@ -4,4 +4,4 @@
 
 Pipes are used to send the output of one command to another command without storing the content anywhere physically on disk.
 
-Syntax :  com
+      Syntax :  com1 | com2
