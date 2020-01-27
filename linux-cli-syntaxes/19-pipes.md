@@ -7,4 +7,4 @@ Pipes are used to send the output of one command to another command without stor
       Syntax :  com1 | com2
 
 Ex:
-      cat /etc/passwd | 
+      cat /etc/passwd | grep root
