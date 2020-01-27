@@ -21,4 +21,6 @@ Ex:
 
 Now you can use the `xargs` command.
 
-`ec`
+`echo sample.txt | xargs rm -f`{{execute}}
+
+`ls`{{execute}}
