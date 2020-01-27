@@ -21,4 +21,4 @@ Ex:
 
 Now you can use the `xargs` command.
 
-``
+`ec`
