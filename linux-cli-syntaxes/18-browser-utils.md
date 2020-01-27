@@ -30,3 +30,15 @@ In this example I will be downloading tomcat from the internet.
 `ls`{{execute}} 
 
 **NOTE**: `wget` command will not come by default with OS. We need to exclusively install that, So better use `curl` command all the time.
+
+
+## Extracting the files from tar
+
+Many times in Linux world all the softwares are packaged either in .zip or .tar format.To extract the files from .tar extension we can use tar command
+
+Syntax: tar -xf <filename>.tar.gz
+
+`tar -xf apache-tomcat-9.0.27.tar.gz`{{execute}} 
+
+To extract archives we use `-x` option and `-f` means file.
+
