@@ -11,3 +11,6 @@ Ex:
 
 **Note**: All the commands will not accept inputs over pipes. In case if we need to take the input then we take the help of `xargs` command.
 
+`touch sample.txt`{{execute}}
+
+``
