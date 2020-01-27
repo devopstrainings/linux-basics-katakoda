@@ -8,3 +8,5 @@ Pipes are used to send the output of one command to another command without stor
 
 Ex:
       cat /etc/passwd | grep root
+
+**Note
