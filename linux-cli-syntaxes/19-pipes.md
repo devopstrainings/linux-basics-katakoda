@@ -15,4 +15,4 @@ Ex:
 
 `ls`{{execute}}
 
-``
+`echo sample.txt | rm -f `
