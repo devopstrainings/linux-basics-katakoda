@@ -19,3 +19,6 @@ Ex:
 
 `ls`{{execute}}
 
+Now you can use the `xargs` command.
+
+``
