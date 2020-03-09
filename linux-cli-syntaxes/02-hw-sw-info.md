@@ -40,3 +40,8 @@ PS Note: Starting CentOS 7, We don't have operating systems coming in 32 bit any
 
 
 With this information in hand you will have an idea of what you are dealing with and the specifications of that Linux machine.         
+
+
+# Self Exploring tasks
+
+1. Seven 
