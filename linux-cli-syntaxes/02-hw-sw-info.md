@@ -22,6 +22,10 @@ To check the disk information
 
 `fdisk -l`{{execute}}
 
+or 
+
+`lsblk`{{execute}}
+
 To check the architecture whether it is 32bit or 64bit
 
 `uname -i`{{execute}}
