@@ -44,4 +44,4 @@ With this information in hand you will have an idea of what you are dealing with
 
 # Self Exploring tasks
 
-1. Seven 
+1. Seven types of files in Linux.
