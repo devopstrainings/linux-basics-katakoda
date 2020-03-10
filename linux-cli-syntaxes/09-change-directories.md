@@ -62,7 +62,5 @@ We will try cp command with the `.` option
 Now if you compare the output from the previous ls you will be able to see the file with name sample in the present directory.
 
 
-## Tabs
 
-Tab is really a useful in auto filling , So explore using `tab` and double `tab`
 
