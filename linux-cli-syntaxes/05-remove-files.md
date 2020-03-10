@@ -12,7 +12,7 @@ Now again when you list the files using `ls` command the sample file should be g
 
 `ls`{{execute}}
 
-`rm -i `
+`rm -i lambda.py`{{execute}}
 
 It may ask you for a prompt `(yes/no)` **[Not all the times]** to remove the files. You can suppress the prompt by adding `-f` option in the command.
 
