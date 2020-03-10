@@ -14,7 +14,7 @@ Now again when you list the files using `ls` command the sample file should be g
 
 It may ask you for a prompt `(yes/no)` **[Not all the times]** to remove the files. You can suppress the prompt by adding `-f` option in the command.
 
-`rm -f notes.txt`{{execute}}
+`rm -f lambda.py`{{execute}}
 
 `ls`{{execute}} 
 
