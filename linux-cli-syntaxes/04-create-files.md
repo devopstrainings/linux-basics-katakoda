@@ -26,4 +26,4 @@ To check the file created.
 
 ## Important Takeaways:
 
-1. In Linux, there is no file-extensions
+1. In Linux OS, there is no file-extensions
