@@ -25,4 +25,6 @@ It may ask you for a prompt `(yes/no)` **[Not all the times]** to remove the fil
 
 ## Thing you can explore.
 
-1. 
+1. How to remove multiple files.
+
+`rm -f file1 file2`
