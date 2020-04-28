@@ -24,4 +24,6 @@ To check the file created.
 `ls -l`{{execute}} 
 
 
-## Important Takeaways
+## Important Takeaways:
+
+1. In Linux
