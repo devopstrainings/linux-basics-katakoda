@@ -18,6 +18,8 @@ Copy always changes the behavior based on Target Directory.
 `cp SOURCE TARGET`
 
 
-if TARGET exists and if it is a file then it is invalid operation.
-if TARGET exists and if it is a dir then it copies the file inside the directory.
-if TARGET doesnt exist then it will copy the directory
+-> if TARGET exists and if it is a file then it is invalid operation.
+
+-> if TARGET exists and if it is a dir then it copies the file inside the directory.
+
+-> if TARGET doesnt exist then it will copy the directory
