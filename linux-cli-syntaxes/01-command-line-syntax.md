@@ -2,7 +2,7 @@
 
 First, Run this command to start the Lab.
 
-`export PS1='\e[1;33m[root@centos-playgroud]\e[0m# ' ; export HOME=/root; cd; clear`{{execute}}
+`export PS1='[ \u@centos-playground \w ] \\$  ' ; export HOME=/root; cd; clear`{{execute}}
 
 ## Command line Syntaxes.
 
