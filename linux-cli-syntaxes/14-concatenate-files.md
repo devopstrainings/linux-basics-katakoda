@@ -18,7 +18,3 @@ It shows the content of the file along with the line numbers
 
 It displays the content of the file in reverse order.
 
-
-## Additional things to Learn.
-
-`-A` option in `cat` command.
