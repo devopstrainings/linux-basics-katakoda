@@ -41,7 +41,7 @@
   },
   "backend": {
     
-    "imageid": "centos"
+    "imageid": "centos-vm"
 
   },
   "environment": {
