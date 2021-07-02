@@ -8,23 +8,23 @@ Earlier to install an **RPM** we use to use `rpm` command, But using it have som
 
 First, In case if we want to list out the packages which are installed in your system then..
 
-`yum list installed`{{execute}}
+`sudo yum list installed`{{execute}}
 
 At the same time we can also get the packages which are not installed and also available for installation from remote repositories.
 
-`yum list available`{{execute}}
+`sudo yum list available`{{execute}}
 
 In case if we want both the packages which are installed and available for install then we can use a flag `list`..
 
-`yum list all`{{execute}}
+`sudo yum list all`{{execute}}
 
 Above command would bombard with thousands of lines output and can be piped to filter the content.
 
-`yum list all | grep ^httpd`{{execute}}
+`sudo yum list all | grep ^httpd`{{execute}}
 
 To install a package 
 
-`yum install nginx`{{execute}}
+`sudo yum install nginx`{{execute}}
 
 Above command will interrupt for an input whether to proceed with an installation or not. To avoid the interruption we can use `-y` option.
 
@@ -32,15 +32,15 @@ Above command will interrupt for an input whether to proceed with an installatio
 
 To remove / erase a package in the system 
 
-`yum remove nginx -y`{{execute}}
+`sudo yum remove nginx -y`{{execute}}
 
 To update a package 
 
-`yum update nginx -y`{{execute}}
+`sudo yum update nginx -y`{{execute}}
 
 To update the complete system 
 
-`yum update -y` 
+`sudo yum update -y` 
 
 However if you wondered that how `yum` in managing the installation, You will see that it is downloading the package and installing it. But from where it is downloading?
 
@@ -48,7 +48,7 @@ Command `yum` will refer the repos available under `/etc/yum.repos.d/*.repo` fil
 
 Let us understand it through a situation.
 
-`yum install jenkins -y`{{execute}}
+`sudo yum install jenkins -y`{{execute}}
 
 Above command will try to install Jenkins software but it will be a failure, So let us download a repo file and check it.
 
@@ -69,12 +69,12 @@ Check list of repos now.
 
 Now after importing those new repo files you would be able to install Jenkins software 
 
-`yum install jenkins -y`{{execute}}
+`sudo yum install jenkins -y`{{execute}}
 
 ---
 We can also install a package using the URL directly.
 
-`yum install https://pkg.jenkins.io/redhat-stable/jenkins-2.190.2-1.1.noarch.rpm -y`{{execute}}
+`sudo yum install https://pkg.jenkins.io/redhat-stable/jenkins-2.190.2-1.1.noarch.rpm -y`{{execute}}
 
 
 # Additional Commands for Practice 

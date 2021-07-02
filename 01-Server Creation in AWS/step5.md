@@ -23,15 +23,7 @@ Then Choose "Public Images"
 
 ![Public Images](https://gitlab.com/cit-devops/intros/uploads/96da52f3964dfd8b4490203dc8ca8ebc/image.png)
 
-Then Search for Owner "973714476881" 
-
-OR You can use one of the link based on your region choose.
-
-N.Virginia Region: https://console.aws.amazon.com/ec2/home?region=us-east-1#Images:visibility=public-images;ownerAlias=973714476881;sort=name
-
-Oregon Region : https://console.aws.amazon.com/ec2/home?region=us-west-2#Images:visibility=public-images;ownerAlias=973714476881;sort=name
-
-Ohio Region : https://console.aws.amazon.com/ec2/home?region=us-east-2#Images:visibility=public-images;ownerAlias=973714476881;sort=name
+Then Search for "devops-practice" 
 
 Then Choose an AMI then Launch.
 
