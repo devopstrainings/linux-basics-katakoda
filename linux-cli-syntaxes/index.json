@@ -1,8 +1,8 @@
 {
-  "title": "linux-cli-syntaxes",
-  "description": "Linux Command Introduction",
+  "title": "Linux Basics ",
+  "description": "Linux Basics",
   "difficulty": "Beginner",
-  "time": "120 minutes",
+  "time": "3 hours",
   "details": {
     "steps": [
       {
@@ -84,14 +84,10 @@
     ],
     "intro": {
       "courseData": "background.sh",
-      "code": "foreground.sh",
       "text": "intro.md"
     },
     "finish": {
       "text": "finish.md"
-    },
-    "assets": {
-      "host01": [{"file": "route.json", "target": "/root/"}]
     }
   },
   "backend": {
