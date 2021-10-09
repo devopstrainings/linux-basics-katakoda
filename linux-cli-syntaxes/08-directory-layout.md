@@ -10,7 +10,7 @@ You can compare it with Windows in the following diagram.
 
 In windows, we use `\` (backslash) to give the path of a file or a directory but in Unix & Linux we use `/` (forward slash).
 
-In Linux, we have a **ROOT DIRECTORY** where the path of any directory starts here. A simple forward slash `(/)` is called as a **ROOT DIRECTORY**.
+In Linux, we have a **ROOT DIRECTORY** where the path of any directory start here. A simple forward slash `(/)` is called as a **ROOT DIRECTORY**.
 
 Additionally, to the list of directories provided in the above diagram we have more directories. Each and every default directory under `/` have some purpose in the operating system.
 
