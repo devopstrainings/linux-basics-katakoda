@@ -11,6 +11,6 @@ Moving directories or renaming directories can be done using `mv` command.
 
 `mv demo4 DEMO4`{{execute}} 
 
-This will rename the demo4 as renaming 
+This will rename the directory demo4 as  DEMO4
 
 `ls`{{execute}}
