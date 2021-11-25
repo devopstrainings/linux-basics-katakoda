@@ -22,52 +22,7 @@ Following are the operations done by each and every mode.
 
 ### ESC Mode.
 
-ESC Mode is used to perform the following operations.
-
-  1. Line Operations.
-
-      -> Copy Lines
-
-      Ex: Copy a Single Line
-
-          1. Ensure you are in ESC Mode, by pressing ESC.
-          2. Take the cursor to that line.
-          3. Press yy to copy the line
-          
-
-      -> Paste Lines
-
-      Ex: Paste a Single Line.
-
-          1. Take the cursor to the line where you want to paste then press p after performing copy using yy.
-
-
-      -> Delete/Cut Lines
-
-      Ex: Cut / Delete a Single line
-
-          1. Ensure you are in ESC Mode, by pressing ESC.
-          2. Take the cursor to that line.
-          3. Press dd to cut/delete the line
-
-  2. Word Operations
-
-      -> Copy Words
-
-        `yw`
-
-      -> Paste Words
-
-        `p`
-
-      -> Delete Words.
-
-        `dw`
-
-  `n` , Number can combined with any option of above. For ex to copy 10 lines `10yy`, and if we want to delete 5 lines then `5dd`
-
-
-  3. Undo Operations.
+  1. Undo Operations.
 
     `u` is available to undo the operations like (CTRL + Z ) in windows.
 
