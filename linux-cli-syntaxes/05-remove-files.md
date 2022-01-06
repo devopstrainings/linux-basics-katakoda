@@ -8,12 +8,6 @@ In Linux to remove files we have `rm`command, We can also use `unlink` command w
 
 `rm sample`{{execute}} 
 
-Now again when you list the files using `ls` command the sample file should be gone as you have removed it.
-
-`ls`{{execute}}
-
-`rm -i lambda.py`{{execute}}
-
 It may ask you for a prompt `(yes/no)` **[Not all the times]** to remove the files. You can suppress the prompt by adding `-f` option in the command.
 
 `rm -f lambda.py`{{execute}}
