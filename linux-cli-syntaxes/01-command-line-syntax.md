@@ -1,18 +1,9 @@
 ## ____________________________________________
-
-First, Run this command to start the Lab.
-
-`export PS1='[ \u@centos-playground \w ] \\#  ' ; export HOME=/root; cd; clear`{{execute}}
-
 ## Command line Syntaxes.
 
 You can see in the picture like how commands would be in Linux.
 
 ![Prompt Example](https://github.com/devopstrainings/linux-basics-katakoda/raw/master/linux-cli-syntaxes/images/02-prompt.JPG)
-
-Also, we need to understand the architecure of the Linux.
-
-![Prompt Example](https://github.com/devopstrainings/linux-basics-katakoda/raw/master/linux-cli-syntaxes/images/03-architecture.jpeg)
 
 
 In the above diagram-1 we are executing the commands on shell. Shell is a place where users will execute the command on server.
