@@ -30,3 +30,13 @@ Syntax: tar -xf <filename>.tar.gz
 
 To extract archives we use `-x` option and `-f` means file.
 
+## Extracting the files from zip 
+
+```
+Syntax: unzip <filename>.zip
+```
+
+```
+curl -L -o shipping.zip https://github.com/roboshop-devops-project/shipping/archive/refs/heads/main.zip
+uzip shipping.zip 
+```
