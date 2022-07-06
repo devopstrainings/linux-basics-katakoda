@@ -28,10 +28,5 @@
   },
   "backend": {
     "imageid": "ubuntu"
-  },
-  "environment": {
-      "uilayout": "terminal",
-      "hideintro": false,
-      "hidefinish": false
   }
 }
