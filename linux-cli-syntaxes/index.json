@@ -1,8 +1,6 @@
 {
   "title": "Linux Basics ",
   "description": "Linux Basics",
-  "difficulty": "Beginner",
-  "time": "3 hours",
   "details": {
     "steps": [
       {
@@ -91,13 +89,6 @@
     }
   },
   "backend": {
-    
-    "imageid": "centos-vm"
-
-  },
-  "environment": {
-      "uilayout": "terminal",
-      "hideintro": false,
-      "hidefinish": false
+    "imageid": "ubuntu"
   }
 }
