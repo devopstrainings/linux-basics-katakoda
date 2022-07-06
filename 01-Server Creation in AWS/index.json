@@ -27,7 +27,7 @@
     }
   },
   "backend": {
-    "imageid": "centos-vm"
+    "imageid": "ubuntu"
   },
   "environment": {
       "uilayout": "terminal",
