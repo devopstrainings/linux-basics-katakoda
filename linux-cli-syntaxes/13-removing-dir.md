@@ -29,7 +29,7 @@ To delete them recursively we use -r option.
 
 `ls`{{execute}}
 
-Sometimes you might be prompted for `(yes/no)` to delete the files, and if we want to make a forceful delete without prompting then we use `-f` option.
+Sometimes you might be prompted for `(yes/no)` to delete the files, and if we want to make a forceful delete without prompting then we use -f option.
 
 `mkdir -p demo1/{new,test}`{{execute}}
 

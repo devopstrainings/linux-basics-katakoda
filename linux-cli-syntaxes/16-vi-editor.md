@@ -22,9 +22,10 @@ Following are the operations done by each and every mode.
 
 ### ESC Mode.
 
-  1. Undo Operations.
-
-    `u` is available to undo the operations like (CTRL + Z ) in windows.
+1. Copy a line 
+2. Paste line
+3. Delete (Cut) a line 
+4. Undo (CTRL +Z in Windows)
 
 
 ### COLON Mode
