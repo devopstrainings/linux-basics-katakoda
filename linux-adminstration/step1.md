@@ -59,6 +59,10 @@ Sometimes due to some reason these process may not get killed with this command 
 
 `
 curl -s https://raw.githubusercontent.com/devopstrainings/linux-basics-katakoda/master/linux-adminstration/files/no-kill.sh -o /tmp/no-kill.sh
+`{{execute}}
+
+-
+`
 sh /tmp/no-kill.sh &
 `{{execute}}
 
