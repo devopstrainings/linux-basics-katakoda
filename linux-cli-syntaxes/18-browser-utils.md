@@ -38,5 +38,5 @@ Syntax: unzip <filename>.zip
 
 ```
 curl -L -o shipping.zip https://github.com/roboshop-devops-project/shipping/archive/refs/heads/main.zip
-uzip shipping.zip 
+unzip shipping.zip 
 ```

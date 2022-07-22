@@ -23,27 +23,30 @@ Following are the operations done by each and every mode.
 ### ESC Mode.
 
 1. Copy a line 
+yy / nyy (2yy)
 2. Paste line
+p
 3. Delete (Cut) a line 
+dd / ndd
 4. Undo (CTRL +Z in Windows)
-
+u
 
 ### COLON Mode
 
 COLON is used to perform the following options.
 
-  1. Search Operation.
+1. Search Operation.
 
-    Ex: Search a word.
+Ex: Search a word.
 
-      1. Ensure you are in ESC mode and press `:` to go to COLON Mode.
-      2. :/WORD , GIve WORD which you want to search.
+  1. Ensure you are in ESC mode and press ":" to go to COLON Mode.
+  2. :/WORD , GIve WORD which you want to search.
 
-  2. Search & Replace 
+2. Search & Replace 
 
     Ex: Search a Word and Replace
 
-      1. Ensure you are in ESC mode and press `:` to go to COLON Mode.
+      1. Ensure you are in ESC mode and press ":" to go to COLON Mode.
       2. :%s/WORD1/WORD2/  -> This will replace WORD1 with WORD2
       3. Flags : g, i
           :%s/WORD1/WORD2/g -> global means all possibilities on the line will be changed. 
