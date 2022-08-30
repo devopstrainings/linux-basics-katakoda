@@ -46,6 +46,9 @@ To add user to multiple groups..
 
 `
 groupadd admins
+`{{execute}}
+
+`
 usermod -a -G admins john 
 `{{execute}}
 
