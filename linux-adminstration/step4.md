@@ -28,7 +28,7 @@ To install a package
 
 Above command will interrupt for an input whether to proceed with an installation or not. To avoid the interruption we can use `-y` option.
 
-`yum install nginx -y`{{execute}}
+`sudo yum install nginx -y`{{execute}}
 
 To remove / erase a package in the system 
 
@@ -48,7 +48,7 @@ Command `yum` will refer the repos available under `/etc/yum.repos.d/*.repo` fil
 
 Let us understand it through a situation.
 
-`sudo yum install jenkins -y`{{execute}}
+`sudo yum list | grep jenkins -y`{{execute}}
 
 Above command will try to install Jenkins software but it will be a failure, So let us download a repo file and check it.
 
@@ -60,7 +60,6 @@ Download Jenkins repo
 
 `
 curl -s https://pkg.jenkins.io/redhat-stable/jenkins.repo -o /etc/yum.repos.d/jenkins.repo
-rpm --import https://pkg.jenkins.io/redhat-stable/jenkins.io.key
 `{{execute}}
 
 Check list of repos now.
@@ -69,7 +68,7 @@ Check list of repos now.
 
 Now after importing those new repo files you would be able to install Jenkins software 
 
-`sudo yum install jenkins -y`{{execute}}
+`sudo yum list | grep jenkins -y`{{execute}}
 
 ---
 We can also install a package using the URL directly.
