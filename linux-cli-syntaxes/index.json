@@ -2,6 +2,10 @@
   "title": "Linux Basics ",
   "description": "Linux Basics",
   "details": {
+    "intro": {
+      "title": "Intro",
+      "text": "intro.md"
+    },
     "steps": [
       {
         "title": "Linux Command Line Options",
