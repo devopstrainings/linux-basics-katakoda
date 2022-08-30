@@ -80,10 +80,6 @@
         "text": "19-pipes.md"
       }
     ],
-    "intro": {
-      "text": "intro.md",
-      "foreground": "foreground.sh"
-    },
     "finish": {
       "text": "finish.md"
     }
