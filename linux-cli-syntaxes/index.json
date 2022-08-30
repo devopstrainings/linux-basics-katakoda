@@ -1,0 +1,90 @@
+{
+  "title": "Linux Basics ",
+  "description": "Linux Basics",
+  "details": {
+    "steps": [
+      {
+        "title": "Linux Command Line Options",
+        "text": "01-command-line-syntax.md"
+      },
+      {
+        "title": "Hardware and Operating system Information",
+        "text": "02-hw-sw-info.md"
+      },
+      {
+        "title": "Listing Files and Directories",
+        "text": "03-list-files-directory.md"
+      },
+      {
+        "title": "Creating files",
+        "text": "04-create-files.md"
+      },
+      {
+        "title": "Removing Files",
+        "text": "05-remove-files.md"
+      },
+      {
+        "title": "Copy Files",
+        "text": "06-copy-files.md"
+      },
+      {
+        "title": "Rename Files",
+        "text": "07-rename-files.md"
+      },
+      {
+        "title": "Creating Directories",
+        "text": "08-directory-layout.md"
+      },
+      {
+        "title": "Navigate Directories",
+        "text": "09-change-directories.md"
+        },
+        {
+        "title": "Create Directories",
+        "text": "10-create-directories.md"
+        },
+        {
+        "title": "Copying Directories",
+        "text": "11-copying-directories.md"
+        },
+        {
+        "title": "Moving / Renaming Directories",
+        "text": "12-moving-directories.md"
+        },
+        {
+        "title": "Removing Directories",
+        "text": "13-removing-dir.md"
+        },
+        {
+          "title" : "Concatenate Files",
+          "text" : "14-concatenate-files.md"
+        },
+      {
+        "title": "Filter Commands",
+        "text": "15-filters.md"
+      },
+      {
+        "title": "VI Editor",
+        "text": "16-vi-editor.md"
+      },
+      {
+        "title": "Find Files",
+        "text": "17-find-files.md"
+      },
+      {
+        "title": "Internet Utilities",
+        "text": "18-browser-utils.md"
+      },
+      {
+        "title": "Pipes",
+        "text": "19-pipes.md"
+      }
+    ],
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "backend": {
+    "imageid": "ubuntu"
+  }
+}
