@@ -28,9 +28,3 @@ Get list of files with long format, usually shows properties of a file
 
 `ls -Al`{{execute}}
 
-**NOTE:** Giving multiple options depends on the command. `ls` accepts multiple options but it isn't applicable for all.
-
-
-# Self Exploring tasks
-
-1. Seven types of files in Linux.

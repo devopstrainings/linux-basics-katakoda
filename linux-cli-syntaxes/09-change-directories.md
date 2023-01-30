@@ -29,10 +29,6 @@ simple `cd` command will take you to the home directory of the user
 
 `pwd`{{execute}} 
 
-observe the output
-
-`cd -`{{execute}} This command will take you the previous directory that you were using.
-
 ### Double dot (..)
 
 `cd /etc/yum`{{execute}} 

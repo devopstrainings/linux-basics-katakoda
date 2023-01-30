@@ -16,9 +16,3 @@ It may ask you for a prompt `(yes/no)` **[Not all the times]** to remove the fil
 
 **Note:** Be careful while removing a file as it deletes all the contents of the file and retrieving the lost data is not possible in most of the cases.
 
-
-## Thing you can explore.
-
-1. How to remove multiple files.
-
-`rm file1 file2`{{execute}}

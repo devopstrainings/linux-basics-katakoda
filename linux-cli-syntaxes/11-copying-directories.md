@@ -8,7 +8,6 @@ Copying directories can be done with the same command `cp` that is used to copy 
 
 It copies all the contents of dir1 into dir2.
 
-
 **Note:** If `dir2` already exists `dir1` will be copied inside `dir2`
 
 `cp -r demo1 demo2`{{execute}} 
@@ -16,7 +15,6 @@ It copies all the contents of dir1 into dir2.
 Copy always changes the behavior based on Target Directory.
 
 `cp SOURCE TARGET`
-
 
 -> if TARGET exists and if it is a file then it is invalid operation.
 

@@ -71,8 +71,6 @@ It will print the first and second column of the file
 
 Regular Expressions.
 
-https://www.grymoire.com/Unix/Regular.html#uh-6
+https://youtu.be/mpyCeSvGh-M
 
-SED & AWK
 
-https://github.com/chiranjibKonwar/Documentation/blob/master/Sed%20%26%20awk%20101Hacks%20%20.pdf

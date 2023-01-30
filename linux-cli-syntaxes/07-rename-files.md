@@ -29,13 +29,7 @@ You can check whether the file has been renamed or not by referring `ls` command
 
 ## Shell CLI Shortcuts.
 
-Some of the reference links are below.
+Learn shortcuts to work like a professional and make interacting with command line much easier. Some of the reference links are below.
 
-https://blog.ssdnodes.com/blog/cheatsheet-bash-shortcuts/
+https://www.redhat.com/sysadmin/top-10-shortcuts
 
-https://github.com/fliptheweb/bash-shortcuts-cheat-sheet
-
-
-## Shell Scripting reference guides.
-
-https://devhints.io/bash

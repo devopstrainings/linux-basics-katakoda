@@ -14,7 +14,3 @@ It shows the content of the file
 
 It shows the content of the file along with the line numbers
 
-`tac /etc/passwd`{{execute}} 
-
-It displays the content of the file in reverse order.
-
