@@ -31,7 +31,6 @@ Ofcourse the above command shows all the process which we might look some proces
 `ps -ef | grep ssh`{{execute}}
 
 
-
 As an administrator we might need to manage the process in the system. Some times we terminate process normally and sime times we might do it forcefully.
 
 To manage the process or to be precise that to kill a process we use `kill` command.
@@ -79,10 +78,10 @@ So, we might need to kill such process using an force option `-9`.
 
 # Additional Commands for Practice
 
-  1. Process Priority - How to set some priority to a process.
-  2. Explore `top` command.
-
 # Self Exploring tasks
 
   1. What happens to the childs if you kill a parent process.
   2. What is an Orphan process / Zombie Process inside system.
+  3. Process Priority - How to set some priority to a process.
+  4. Explore `top` command.
+5. 

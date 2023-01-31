@@ -1,10 +1,8 @@
 
 
-Package Management is also a key admin activity that most of the time as a DevOps guy we deal with. We need to install / update the packages all the time.
+Package Management is the key admin activity that most of the time as a DevOps guy we deal with. We need to install / update the packages all the time.
 
-In RedHat OS and its family like CentOS, they use `RPM`(Redhat Package Manager), So the softwares we download will have an extension ending with `.rpm` like `.msi` in windows. 
-
-Earlier to install an **RPM** we use to use `rpm` command, But using it have some dependencies problem and local repository problems. To avoid that RedHat has introduced a new command which overcomes the problems of `rpm` command and the new command is `yum` (YellowDog Updated Modifier). 
+In RedHat OS and its family like CentOS, they use `RPM`(Redhat Package Manager), So the softwares we download will have an extension ending with `.rpm` like `.msi` in windows.
 
 First, In case if we want to list out the packages which are installed in your system then..
 
@@ -20,7 +18,7 @@ In case if we want both the packages which are installed and available for insta
 
 Above command would bombard with thousands of lines output and can be piped to filter the content.
 
-`sudo yum list all | grep ^httpd`{{execute}}
+`sudo yum list all | grep nginx`{{execute}}
 
 To install a package 
 
@@ -42,7 +40,7 @@ To update the complete system
 
 `sudo yum update -y` 
 
-However if you wondered that how `yum` in managing the installation, You will see that it is downloading the package and installing it. But from where it is downloading?
+However, if you wondered that how `yum` in managing the installation, You will see that it is downloading the package and installing it. But from where it is downloading?
 
 Command `yum` will refer the repos available under `/etc/yum.repos.d/*.repo` files and reach out to only those destinations to download the files.
 
@@ -75,14 +73,4 @@ We can also install a package using the URL directly.
 
 `sudo yum install https://pkg.jenkins.io/redhat-stable/jenkins-2.190.2-1.1.noarch.rpm -y`{{execute}}
 
-
-# Additional Commands for Practice 
-  
-  `rpm`
-
-# Additional Tasks for Student Practice
-  1. Check what is gpg in yum and how it will be used to enable security
-  2. Explore `rpm` commands deal the task that what `yum` is doing.
-  3. How a repository can be created on your own.
-  4. Explore cleaning cache in `yum`.
   

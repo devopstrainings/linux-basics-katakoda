@@ -79,4 +79,3 @@ Those options can be used in the way shown in the following diagram.
 
 
 
-# Additional Commands for Practice

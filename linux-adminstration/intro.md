@@ -11,8 +11,6 @@ ssh root@<public-ip-address>
 
 ### Password for the root user is `DevOps321`
 
-
-
 In this course we are going to discuss the administrative commands.
 
   1. Process Management 
