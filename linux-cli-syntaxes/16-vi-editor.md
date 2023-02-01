@@ -14,6 +14,6 @@ We can edit the file by and save the changes by following instructions.
 
 We can come out of file without saving the changes 
 
-`vim file` -> Press `ESC` -> Press Colon `:` -> Press `q!`
+`vim file` -> Press `Insert` or `i` -> Make Changes -> Press `ESC` -> Press Colon `:` -> Press `q!`
 
 **NOTE**: There are lot many operations are available, But we are talking which is needed for DevOps prospective. Also later we use windows editors in local laptop as a standard industry practice, So this much knowledge is more than enough.
