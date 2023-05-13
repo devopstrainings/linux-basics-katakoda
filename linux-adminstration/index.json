@@ -10,10 +10,6 @@
         "text": "step1.md"
       },
       {
-        "title": "User Management",
-        "text": "step2.md"
-      },
-      {
         "title": "SUDOERS",
         "text": "step3.md"
       },
@@ -24,6 +20,10 @@
       {
         "title": "Service Management",
         "text": "step5.md"
+      },
+      {
+        "title": "User Management",
+        "text": "step2.md"
       },
       {
         "title": "Permissions Management",
