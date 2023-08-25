@@ -3,7 +3,7 @@
 Lets try a command that will fail because of privilges. 
 
 ```bash 
-yum install java -y 
+kill <pid-of-other-user> 
 ```
 
 In companies even though we know the ROOT user password, We might not login directly with ROOT user. Usually that root user login is used only during the maintenances of the system or in some extreme cases. 
@@ -23,7 +23,7 @@ Out of lot many tools **SUDO** is one of the default and widely used tool.
 So to run any command as root user then we need to prefix that with sudo and that will run if we are allowed to run in the system.
 
 ```bash 
-sudo yum install java -y
+sudo kill <pid-of-other-user>
 
 ```
 
