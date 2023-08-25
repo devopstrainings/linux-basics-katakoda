@@ -57,7 +57,7 @@ Check list of repos
 Download Jenkins repo
 
 `
-curl -s https://pkg.jenkins.io/redhat-stable/jenkins.repo -o /etc/yum.repos.d/jenkins.repo
+curl https://pkg.jenkins.io/redhat-stable/jenkins.repo -o /etc/yum.repos.d/jenkins.repo
 `{{execute}}
 
 Check list of repos now.

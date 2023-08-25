@@ -6,10 +6,10 @@ https://lucky-hide-390.notion.site/How-to-Create-a-EC2-Server-ad7683b625ed46da80
 ### Connect to ec2 server using 
 
 ```
-ssh root@<public-ip-address>
+ssh centos@<public-ip-address>
 ```
 
-### Password for the root user is `DevOps321`
+### Password for the centos user is `DevOps321`
 
 In this course we are going to discuss the administrative commands.
 
