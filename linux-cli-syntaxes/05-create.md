@@ -27,3 +27,22 @@ To check the file created.
 ## Important Takeaways:
 
 In Linux OS, there is no file-extensions. Extensions are given only for user understanding.
+
+## ____________________________________________
+## Creating Directories
+
+Creating Directory is same as creating a Folder in your windows machine. You can create a directory using `mkdir` command.
+
+`mkdir demo`{{execute}}
+
+This will create a new directory with the name `demo`. you can check using `ls` command.
+
+`ls`{{execute}}
+
+Now you can see demo directory listed.
+
+
+## Important Takeaways:
+
+In Linux OS, the filenames are case-sensitive, Meaning `demo` is different with `Demo`. However, in Windows both are same.
+
