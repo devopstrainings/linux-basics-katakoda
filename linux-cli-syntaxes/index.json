@@ -8,8 +8,8 @@
         "text": "01-command-line-syntax.md"
       },
       {
-        "title": "Hardware and Operating system Information",
-        "text": "02-hw-sw-info.md"
+        "title": "Linux Directory Layout",
+        "text": "02.linux-directory-layout.md"
       },
       {
         "title": "Listing Files and Directories",
