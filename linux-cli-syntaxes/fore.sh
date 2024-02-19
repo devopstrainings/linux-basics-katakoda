@@ -1,1 +1,1 @@
-docker run --pull always --entrypoint bash -it rkalluru/debug:centos8
+docker run --pull always --entrypoint bash -it rkalluru/debug:centos9
