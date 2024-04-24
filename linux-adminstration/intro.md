@@ -6,7 +6,7 @@ https://lucky-hide-390.notion.site/How-to-Create-a-EC2-Server-ad7683b625ed46da80
 ### Connect to ec2 server using 
 
 ```
-ssh centos@<public-ip-address>
+ssh ec2-user@<public-ip-address>
 ```
 
 ### Password for the centos user is `DevOps321`
