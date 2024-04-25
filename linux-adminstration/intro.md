@@ -11,6 +11,9 @@ ssh ec2-user@<public-ip-address>
 
 ### Password for the ec2-user user is `DevOps321`
 
+![Linux Vs Windows](https://github.com/devopstrainings/linux-basics-katakoda/raw/master/linux-administration/images/img.png)
+
+
 In this course we are going to discuss the administrative commands.
 
   1. Process Management 
