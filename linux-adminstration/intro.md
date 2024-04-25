@@ -9,7 +9,7 @@ https://lucky-hide-390.notion.site/How-to-Create-a-EC2-Server-ad7683b625ed46da80
 ssh ec2-user@<public-ip-address>
 ```
 
-### Password for the centos user is `DevOps321`
+### Password for the ec2-user user is `DevOps321`
 
 In this course we are going to discuss the administrative commands.
 
