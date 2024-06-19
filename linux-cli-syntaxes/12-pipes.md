@@ -15,12 +15,12 @@ Ex:
 
 `ls`{{execute}}
 
-`echo sample.txt | rm -f `{{execute}}
+`ls | rm `{{execute}}
 
 `ls`{{execute}}
 
 Now you can use the `xargs` command.
 
-`echo sample.txt | xargs rm -f`{{execute}}
+`ls| xargs rm`{{execute}}
 
 `ls`{{execute}}

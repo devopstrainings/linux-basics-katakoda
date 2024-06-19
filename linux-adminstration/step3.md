@@ -28,9 +28,13 @@ sudo kill <pid-of-other-user>
 ```
 
 Note: Adding privileges and adding human users is all part of SSO in the organizations.
+This video will help you in understanding on how it actually happens.
+
 
 If you are interested to how to add the privileges locally then following link can help.
 https://linuxize.com/post/how-to-add-user-to-sudoers-in-centos/
+
+
 
 
 
