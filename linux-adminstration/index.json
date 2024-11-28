@@ -14,16 +14,16 @@
         "text": "step3.md"
       },
       {
+        "title": "User Management",
+        "text": "step2.md"
+      },
+      {
         "title": "Package Management",
         "text": "step4.md"
       },
       {
         "title": "Service Management",
         "text": "step5.md"
-      },
-      {
-        "title": "User Management",
-        "text": "step2.md"
       },
       {
         "title": "Permissions Management",
