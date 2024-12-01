@@ -35,14 +35,14 @@
         "title": "Move Files & Directories",
         "text": "08-move.md"
       },
-      {
-        "title": "File Editor",
-        "text": "09-editor.md"
-        },
+
         {
         "title": "Content Filters",
         "text": "10-content.md"
-        },
+        },      {
+        "title": "File Editor",
+        "text": "09-editor.md"
+      },
         {
         "title": "Internet Utilities",
         "text": "11-browser-utils.md"
