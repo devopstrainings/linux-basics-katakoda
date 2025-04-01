@@ -1,6 +1,6 @@
 ## ____________________________________________
 
-We have seen how to create content with editor, However if we want to see the content inside a file, Then we don't need to rely on editor in Linux, We have more powerful commands which will be handy in more scenarios.
+We have more powerful commands which will be handy to show and filter the content. Few of them and its scenarios are discussed here.
 
 ## Concatenate File Content
 

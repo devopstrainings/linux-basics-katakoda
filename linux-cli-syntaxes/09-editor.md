@@ -4,7 +4,7 @@
 
 There are so many editors which are part of different Linux Operating Systems. Editors like `vi`, `nano`, `gedit`, `emacs` and more are mostly known editors. Among these 90% of the operating systems comes with `vi` editor as default editor.
 
-`vi` is very powerful editor and it comes with much more options, However we consider to know these options because later we edit the code more with editor installed in desktop. Because
+`vi` is very powerful editor and it has more and more options, However we consider to know only these few scenarios because later we edit the code more with editor installed in desktop. Because of the following reasons.
 
     1. Ideally in organisation we work on 
        local desktop than server directly 
@@ -39,7 +39,7 @@ So here the command `sed` comes as default cli editor which can do the job for y
 When we pickup any editor, These may the requirements that can come.
     
     1. Search and Replace
-    2. Add a new line
+    2. Add a new line / Modify a line
     3. Delete a line 
 
 Now lets go with sed editior and do the above operations
