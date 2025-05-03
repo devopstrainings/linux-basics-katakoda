@@ -1,0 +1,23 @@
+{
+  "title": "Linux Top 50 Commands",
+  "description": "Linux Top 50 Commands",
+  "details": {
+    "steps": [
+      {
+        "title": "ls command",
+        "text": "01-ls-command.md"
+      }
+    ],
+    "intro": {
+      "title": "Intro",
+      "text": "intro.md",
+      "foreground": "fore.sh"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "backend": {
+    "imageid": "ubuntu"
+  }
+}
