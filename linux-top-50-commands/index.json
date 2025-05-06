@@ -1,11 +1,11 @@
 {
-  "title": "Linux Top 50 Commands",
-  "description": "Linux Top 50 Commands",
+  "title": "Linux Top 60 Commands",
+  "description": "Linux Top 60 Commands",
   "details": {
     "steps": [
       {
         "title": "ls command",
-        "text": "01-ls-command.md"
+        "text": "01-ls.md"
       }
     ],
     "intro": {
