@@ -44,3 +44,19 @@ For Example:
 `ls -d /boot`{{execute}}
 
 In above example `ls` is a command `-d` is an option and `/boot` is an input. Given the command with and without option changes the behavior of the command execution.
+
+
+We can also execute multiple commands as well in single prompt.
+
+`ls ; uname`{{execute}}
+
+Above commands are going to execute two commands one after another.
+
+`ls && uname`{{execute}}
+
+Above commands are going to execute first command, if it is successful then second command.
+
+
+`ls || uname`{{execute}}
+
+Above commands are going to execute first command, if it is unsuccessful then second command.
